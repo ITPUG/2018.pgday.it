@@ -17,16 +17,16 @@ exclude:
   - 'hackathon.it.html'
   - 'hackathon.en.html'
   - 'training.it.html'
-  - 'training.en.html'  
+  - 'training.en.html'
 
 # Site Settings
-title: "PGDay.IT 2017"
+title: "PGDay.IT 2018"
 email: "pgday@itpug.org"
 description:
   it: "Il PostgreSQL Day italiano è la giornata nazionale dedicata interamente a PostgreSQL, il più avanzato database Open Source al mondo"
   en: "The Italian PostgreSQL is the national day completely dedicated at PostgreSQL, the most advance open source database in the world"
-baseurl: ""
-url: "http://2017.pgday.it"
+baseurl: "/2018.pgday.it/"
+url: "https://itpug.github.io/"
 permalink: "/it/blog/:title"
 googleAnalyticsTrackingId: "UA-99990720-1"
 googleAnalyticsSiteUrl: "auto"
