@@ -31,14 +31,14 @@
             {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
             {% for post in posts %}
               <li>
-                <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+                <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a>
               </li>
             {% endfor %}
 
             {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
             {% for page in pages %}
               <li>
-                <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+                <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a>
               </li>
             {% endfor %}
 
@@ -54,13 +54,13 @@
 
         {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
         {% for post in posts %}
-          <a href="{{ post.url }}" class="btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm {{ post.lang }}">{{ post.lang }}</a>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm {{ post.lang }}">{{ post.lang }}</a>
         {% endfor %}
 
         <div id="lang-links" class="hidden-xs">
         {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
         {% for page in pages %}
-          <a href="{{ page.url }}" class="btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm {{ page.lang }}">{{ page.lang }}</a>
+          <a href="{{ page.url | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm {{ page.lang }}">{{ page.lang }}</a>
         {% endfor %}
         </div>
     </nav>

@@ -25,11 +25,11 @@
     <!-- Translation -->
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
-    <link rel="alternate" hreflang="{{ post.lang }}" href="{{ post.url }}" />
+    <link rel="alternate" hreflang="{{ post.lang }}" href="{{ post.url | prepend: site.baseurl }}" />
 {% endfor %}
 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 {% for page in pages %}
-    <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url }}" />
+    <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url | prepend: site.baseurl }}" />
 {% endfor %}
 
     <title>{% if page.title %}{{ page.title }} &bull; {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
