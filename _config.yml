@@ -64,12 +64,12 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/speakers/", text: "Speaker"}
- #- {permalink: "/logistics/", text: "Logistica", lang: "it"}
- #- {permalink: "/logistics/", text: "Logistics", lang: "en"}
+ - {permalink: "/logistics/", text: "Logistica", lang: "it"}
+ - {permalink: "/logistics/", text: "Logistics", lang: "en"}
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
- - {link: "/assets/PartnerIT 2018.pdf", text: "Diventa Partner", lang: "it"}
- - {link: "/assets/PartnerEN 2018.pdf", text: "Become Partner", lang: "en"}
+ - {link: "/assets/PartnerIT_2018.pdf", text: "Diventa Partner", lang: "it"}
+ - {link: "/assets/PartnerEN_2018.pdf", text: "Become Partner", lang: "en"}
  - {link: "https://www.eventbrite.it/e/pgdayit-2018-tickets-35260542231", text: "Acquista il tuo biglietto", lang: "it"}
  - {link: "https://www.eventbrite.it/e/pgdayit-2018-tickets-35260542231", text: "Buy your ticket", lang: "en"}
 # - {permalink: "/pgbeer/", text: "PG_beer"}
@@ -80,13 +80,13 @@ navigationLinks:
 #bottomNavigationLinks:
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
-# - {link: "/assets/PartnerIT_2018.pdf", text: "Diventa Partner", lang: "it"}
-# - {link: "/assets/PartnerEN_2018.pdf", text: "Become Partner", lang: "en"}
+ - {link: "/assets/PartnerIT 2018.pdf", text: "Diventa Partner", lang: "it"}
+ - {link: "/assets/PartnerEN 2018.pdf", text: "Become Partner", lang: "en"}
 #rightNavigationButtons:
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
-# - {link: "/assets/PartnerIT_2018.pdf", text: "Diventa Partner", lang: "it"}
-# - {link: "/assets/PartnerEN_2018.pdf", text: "Become Partner", lang: "en"}
+ - {link: "/assets/PartnerIT 2018.pdf", text: "Diventa Partner", lang: "it"}
+ - {link: "/assets/PartnerEN 2018.pdf", text: "Become Partner", lang: "en"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -94,14 +94,14 @@ heroTitle:
   it: "PGDay.IT 2018 - <typeout> "
   en: "PGDay.IT 2018 - <typeout> "
 eventDate:
-  it: "_______, 29 giugno, 2018"
-  en: "_______, June 29th, 2018"
+  it: "Lazise, 29 giugno, 2018"
+  en: "Lazise, June 29th, 2018"
 typeoutTextValues:
-  it: '"", "29 giugno", "_______", "Italy", ""'
-  en: '"", "June 29th", "_______", "Italy", ""'
+  it: '"", "29 giugno", "Lazise", "Italy", ""'
+  en: '"", "June 29th", "Lazise", "Italy", ""'
 typeoutFallback:
-  it: "_______, 29 giugno 2018"
-  en: "_______, June 29th, 2018"
+  it: "Lazise, 29 giugno 2018"
+  en: "Lazise, June 29th, 2018"
 heroButtons:
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
@@ -151,35 +151,35 @@ latestNewsTitle:
   #en: "All Speakers here"
 
 # Location Block
-#locationBlockTitle: "Location"
-#eventLocationName: "Fondazione Stelline"
-#eventLocationLink: "http://www.stelline.it/it/centro-congressi/home/centro-congressi.html"
-#eventStreetAddress: "corso Magenta, 61"
-#eventAddressLocality: "Milano"
-#eventAddressLocalityRegion: "(MI)"
-#eventPostalCode: "20123"
-#eventAddressCountry: "Italy"
-#eventStartTime: "2018-06-29T9:00"
-#eventDoorTime: "08:15"
-#eventEndTime: "2018-06-29T18:00"
-#eventPlaceCoordinates: "45.4654533, 9.166099"
-#mapCenterCoordinates: "45.4654533, 9.166099"
-#mapMobileCenterCoordinates: "45.4654533, 9.166099"
+locationBlockTitle: "Location"
+eventLocationName: "Centro Congressi Hotel Parchi del Garda"
+eventLocationLink: "https://www.hotelparchidelgarda.it/it/meetingevents/spazi-eventi/"
+eventStreetAddress: "Via Brusà 16/17"
+eventAddressLocality: "Pacengo di Lazise"
+eventAddressLocalityRegion: "(VR)"
+eventPostalCode: "37017"
+eventAddressCountry: "Italy"
+eventStartTime: "2018-06-29T9:00"
+eventDoorTime: "08:15"
+eventEndTime: "2018-06-29T18:00"
+eventPlaceCoordinates: "45.4627319, 10.7171789"
+mapCenterCoordinates: "45.4627319, 10.7171789"
+mapMobileCenterCoordinates: "45.4627319, 10.7171789"
 
 # Venue Block
-#venueBlockTitle:
-#  it: "Location"
-#  en: "Location"
-#venueBigImage: "venue_0.jpg"
-#venueSmallImage1: "venue_1.jpg"
-#venueSmallImage2: "venue_2.jpg"
-#venueSmallImage3: "venue_3.jpg"
-#venueTitle:
-#  it: "Fondazione Stelline"
-#  en: "Fondazione Stelline"
-#venueFeatures:
-#  it: ["Nel cuore di Milano, di fronte al Cenacolo di Leonardo e a Santa Maria delle Grazie", "8.000 mq di superficie, 20 sale e meeting & training room"]
-#  en: ["A place in the heart of Milan, across to Leonardo’s Cenacle and Santa Maria delle Grazie", "8.000 mq of surface, 20 halls and meeting & training rooms"]
+venueBlockTitle:
+  it: "Location"
+  en: "Location"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle:
+  it: "Centro Congressi Hotel Parchi del Garda"
+  en: "Centro Congressi Hotel Parchi del Garda"
+venueFeatures:
+  it: ["Hotel Parchi del Garda si trova tra i Comuni di Peschiera del Garda e Lazise, a soli 900 metri dalle rive del Lago. E’ facilmente raggiungibile con tutti i mezzi, grazie alla sua posizione strategica e ben collegata. Il parco divertimenti Gardaland si trova circa 500 m dalla struttura e si può raggiungere comodamente a piedi con una breve passeggiata."]
+  en: ["Hotel Parchi del Garda is located between the towns of Peschiera del Garda and Lazise, just 900 metres away from the lake's edge. It is easy to get to using any means of transport, thanks to its strategic and well-connected position. The Gardaland theme park is just 500 metres or so away from the structure and can easily be reached on foot with a short walk."]
 
 # TODO: sistemare url
 # Tweets Feed Block
@@ -210,8 +210,8 @@ subscribeTitle:
     en: "Stay in touch"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo:
-    it: "Sarà possibile acquistare i biglietti a partire da metà giugno. Il numero dei biglietti disponibili è limitato. Rimanete sintonizzati!"
-    en: "Tickets will be available from June 15th. The number of available tickets is limited. Stay tuned!"
+    it: "Sarà possibile acquistare i biglietti a partire da metà dicembre. Il numero dei biglietti disponibili è limitato. Rimanete sintonizzati!"
+    en: "Tickets will be available from December 15th. The number of available tickets is limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle:
@@ -297,6 +297,8 @@ socialLinks:
  - {link: "https://twitter.com/PGDayIT", icon: "twitter"}
  - {link: "https://www.facebook.com/ITPUG/", icon: "facebook"}
  - {link: "https://www.linkedin.com/company/itpug", icon: "linkedin"}
+ - {link: "https://www.youtube.com/channel/UCAJ1P67u3qQyLpLm5bvPNPw", icon: "youtube"}
+ - {link: "https://www.flickr.com/photos/itpug/albums", icon: "flickr"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -356,80 +358,80 @@ aboutUs:
     en: "ITPUG - Italian PostgreSQL Users Group is a no-profit association for the promotion, spreading and protection of Free Software (FLOSS) in Italy. In particular, the ITPUG association promotes the adoption of PostgreSQL (http://www.postgresql.org), one of the most successful open source projects. The association was born in Prato (PO) on November 17, 2007, shortly after the first edition of PGDay.IT. For more information about the ITPUG association, please write to info@itpug.org."
 
 ## Logistics Find Way Block
-#findWayTitle:
-#  it: "Trova la tua strada qui"
-#  en: "Find your way here"
-#findWayDestination:
-#  it: "al PGDay.IT"
-#  en: "to PGDay.IT"
-#findWayDistance:
-#  it: "Distanza"
-#  en: "Distance"
-#findWayDriving:
-#  it: "Con l'auto"
-#  en: "By car"
-#findWayWalking:
-#  it: "A piedi"
-#  en: "Walking"
-#findWayTransit:
-#  it: "Mezzi pubblici"
-#  en: "Public Transport"
-#findWayFindFlight:
-#  it: "Find Flight"
-#  en: "Find Flight"
-#viewOnMap:
-#  it: "Vedi su Google Maps"
-#  en: "View on Google Maps"
-#logisticsMapCenterCoordinates: "49.056728, 3.117289"
-#logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
-#logisticsMapAutoDirections: false
+findWayTitle:
+  it: "Trova la tua strada qui"
+  en: "Find your way here"
+findWayDestination:
+  it: "al PGDay.IT"
+  en: "to PGDay.IT"
+findWayDistance:
+  it: "Distanza"
+  en: "Distance"
+findWayDriving:
+  it: "Con l'auto"
+  en: "By car"
+findWayWalking:
+  it: "A piedi"
+  en: "Walking"
+findWayTransit:
+  it: "Mezzi pubblici"
+  en: "Public Transport"
+findWayFindFlight:
+  it: "Find Flight"
+  en: "Find Flight"
+viewOnMap:
+  it: "Vedi su Google Maps"
+  en: "View on Google Maps"
+logisticsMapCenterCoordinates: "45.4627319, 10.7171789"
+logisticsMapMobileCenterCoordinates: "45.4627319, 10.7171789"
+logisticsMapAutoDirections: false
 
 ## Logistics Direction Details Block
-#directionDetailsImage: "direction-details.jpg"
-#directionDetailsTitle:
-#    it: "Come raggiungere il PGDay.IT 2018"
-#    en: "How to reach PGDay.IT 2018"
-#directionDetailsCards:
-# - {lang: "it", title: "Arrivi in aereo su Linate?", information: 'Prendete il bus 73 in partenza dal piazzale dell’aeroporto e scendete al capolinea, in piazza San Babila; prendete la metropolitana MM1 in direzione Fiera/Rho, scendete alla fermata Cadorna Triennale, dirigetevi in piazza Cadorna, imboccate via Carducci e proseguite fino al primo semaforo incrociando corso Magenta, la Fondazione Stelline vi attende al civico 61.'}
-# - {lang: "en", title: "Do you land at Linate Airport?", information: 'Take bus 73 departing from the piazza of the airport and exit at the end of the line, in piazza San Babila; take the Metropolitana MM1 in the direction of Fiera/Rho, exit to the stop for Cadorna Triennale, turn into piazza Cadorna, turn into via Carducci and continue to the first traffic light, crossing corso Magenta, Fondazione Stelline awaits you at number 61.'}
-#
-# - {lang: "it", title: "Arrivi in aereo su Malpensa?", information: 'Prendete il treno navetta “Malpensa Express” e raggiungete il capolinea a Milano Cadorna, dirigetevi in piazza Cadorna, imboccate via Carducci e proseguite fino al primo semaforo incrociando corso Magenta, la Fondazione Stelline vi attende al civico 61.'}
-# - {lang: "en", title: "Do you land at Malpensa Airport??", information: 'Take shuttle train “Malpensa Express” and reach the head of the line at Milano Cadorna, turn into piazza Cadorna, turn into via Carducci and continue to the first traffic light, crossing corso Magenta, Fondazione Stelline awaits you at number 61.'}
-#
-# - {lang: "it", title: "Arrivi in treno?", information: 'Arrivati alla Stazione Centrale di Milano, o alla stazione Porta Garibaldi, prendete la metropolitana MM2 in direzione di Abbiategrasso e scendete alla fermata Cadorna Triennale, dirigetevi in piazza Cadorna, imboccate via Carducci e proseguite fino al primo semaforo incrociando corso Magenta, la Fondazione Stelline vi attende al civico 61.'}
-# - {lang: "en", title: "Are you coming by train?", information: 'Arriving at the Central Station of Milan, or at the station Porta Garibaldi, take the Metropolitana MM2 in the direction of Abbiategrasso and exit to the stop for Cadorna Triennale, turn into piazza Cadorna, turn into via Carducci and continue to the first traffic light, crossing corso Magenta, Fondazione Stelline awaits you at number 61.'}
-#
-# - {lang: "it", title: "Arrivi in auto dalle autostrade del nord?", information: '(A4 Torino/Venezia; A9 Como/Chiasso; A8 Varese), dopo il casello del pedaggio proseguite in direzione Milano e prendete l’uscita Milano Certosa, percorrete tutto viale Certosa, attraversate due incroci e confluite in corso Sempione, alla fine del corso svoltate a destra per via Canova, alla fine della via girate a destra in via Pagano, dopo 200 m svoltate a sinistra in via Monti fino a raggiungere l’incrocio con #corso Magenta, girate a destra e raggiungete il civico 61 dove vi attende la Fondazione Stelline.'}
-# - {lang: "en", title: "Are you coming by car from the northern highway?", information: '(A4 Torino/Venezia; A9 Como/Chiasso; A8 Varese), after the tollbooth, continue in the direction of Milan and take the exit Milano Certosa, go to the end of viale Certosa, cross two crossings and merge into corso Sempione, at the end of the corso turn right on via Canova, at the end of the via turn right in via Pagano, after 200 m turn left in via Monti until reaching the crossing with corso Magenta, turn #right and reach number 61, where you are welcomed to Fondazione Stelline.'}
-#
-# - {lang: "it", title: "Arrivi in auto dall’autostrada A1?", information: '(Bologna), dopo il casello del pedaggio, dirigendoVi verso la tangenziale Est, imboccate l’uscita di piazzale Corvetto, girate a destra e arrivate a piazzale Bologna, svoltate a sinistra per via Bacchiglione percorrete 100 m e girate a destra per corso Lodi. Dopo 700 m, giunti a porta Romana, girate a sinistra in via Filippetti (circonvallazione interna), proseguire per viale Beatrice d’Este, viale Gian Galeazzo, viale #d’Annunzio, viale Papiniano, viale di Porta Vercellina. Arrivati a piazzale Baracca, proseguite per piazza della Conciliazione, svoltate a destra in via Boccaccio quindi percorrete la via fino a raggiungere piazza Virgilio. Dopodichè percorrete via Vincenzo Monti, al semaforo svoltate a destra in Largo d’Ancona e subito a destra in corso Magenta dove, al civico 61, vi attende la Fondazione Stelline.'}
-# - {lang: "en", title: "Are you coming by car from highway A1?", information: '(Bologna), after the tollbooth, turn into the exit of piazzale Corvetto, turn right and you will arrive at piazzale Bologna, turn left through via Bacchiglione continue 100 m and turn right on corso Lodi. After 700 m, reaching porta Romana, turn left on via Filippetti (inner beltway), continue along viale Beatrice d’Este, viale Gian Galeazzo, viale d’Annunzio, viale Papiniano, viale of Porta Vercellina, arriving at #piazzale Baracca, turn right, where at number 61 you are welcomed to Fondazione Stelline.'}
-#
-# - {lang: "it", title: "Arrivi in auto dall’autostrada A7?", information: '(Genova): dopo il casello del pedaggio, imboccate la tangenziale ovest in direzione Venezia, uscite a Milano Certosa e proseguite come indicato sopra.'}
-# - {lang: "en", title: "Are you coming by car from highway A7?", information: '(Genova): after the tollbooth, turn into the western tangential in the direction of Venice, exit at Milano Certosa and continue as indicated above.'}
-#directionDetailsWideCards:
-# -
-#  lang: "it"
-#  title: "Cerchi un hotel?"
-#  subCards:
-#   -
-#    title: ""
-#    links:
-#     - {link: "", text: ""}
-#     - {link: "", text: ""}
-#     - {link: "", text: ""}
-#     - {link: "", text: ""}
-# -
-#  lang: "en"
-#  title: "Are you looking for an hotel"
-#  subCards:
-#   -
-#    title: ""
-#    links:
-#     - {link: "", text: ""}
-#     - {link: "", text: ""}
-#     - {link: "", text: ""}
-#     - {link: "", text: ""}
+directionDetailsImage: "direction-details.jpg"
+directionDetailsTitle:
+    it: "Come raggiungere il PGDay.IT 2018"
+    en: "How to reach PGDay.IT 2018"
+directionDetailsCards:
+ - {lang: "it", title: "IN AUTO:", information: "5 km dall'uscita di Peschiera del Garda - Autostrada A4 / 13 km dall'uscita di Affi - Autostrada A22"}
+ - {lang: "en", title: "BY CAR:", information: '5 km from the Peschiera del Garda exit - Motorway A4 / 13 km from the Affi exit - Motorway A22'}
+
+ - {lang: "it", title: "IN TRENO:", information: '4 km dalla Stazione di Peschiera del Garda - linea ferroviaria Milano/Venezia'}
+ - {lang: "en", title: "BY TRAIN:", information: '4 km from the Peschiera del Garda station - Milano/Venezia railway line'}
+
+ - {lang: "it", title: "IN AEREO:", information: "15 km dall'aeroporto Valerio Catullo di Verona Villafranca / 95 km dall'aeroporto Orio al Serio di Bergamo / 180 km dall'aeroporto Milano Malpensa"}
+ - {lang: "en", title: "BY PLANE:", information: '15 km from Valerio Catullo airport in Verona Villafranca / 95 km from Orio al Serio airport in Bergamo / 180 km from Milano Malpensa airport'}
+
+ #- {lang: "it", title: "Arrivi in auto dalle autostrade del nord?", information: '(A4 Torino/Venezia; A9 Como/Chiasso; A8 Varese), dopo il casello del pedaggio proseguite in direzione Milano e prendete l’uscita Milano Certosa, percorrete tutto viale Certosa, attraversate due incroci e confluite in corso Sempione, alla fine del corso svoltate a destra per via Canova, alla fine della via girate a destra in via Pagano, dopo 200 m svoltate a sinistra in via Monti fino a raggiungere l’incrocio con corso Magenta, girate a destra e raggiungete il civico 61 dove vi attende la Fondazione Stelline.'}
+ #- {lang: "en", title: "Are you coming by car from the northern highway?", information: '(A4 Torino/Venezia; A9 Como/Chiasso; A8 Varese), after the tollbooth, continue in the direction of Milan and take the exit Milano Certosa, go to the end of viale Certosa, cross two crossings and merge into corso Sempione, at the end of the corso turn right on via Canova, at the end of the via turn right in via Pagano, after 200 m turn left in via Monti until reaching the crossing with corso Magenta, turn right and reach number 61, where you are welcomed to Fondazione Stelline.'}
+
+ #- {lang: "it", title: "Arrivi in auto dall’autostrada A1?", information: '(Bologna), dopo il casello del pedaggio, dirigendoVi verso la tangenziale Est, imboccate l’uscita di piazzale Corvetto, girate a destra e arrivate a piazzale Bologna, svoltate a sinistra per via Bacchiglione percorrete 100 m e girate a destra per corso Lodi. Dopo 700 m, giunti a porta Romana, girate a sinistra in via Filippetti (circonvallazione interna), proseguire per viale Beatrice d’Este, viale Gian Galeazzo, viale d’Annunzio, viale Papiniano, viale di Porta Vercellina. Arrivati a piazzale Baracca, proseguite per piazza della Conciliazione, svoltate a destra in via Boccaccio quindi percorrete la via fino a raggiungere piazza Virgilio. Dopodichè percorrete via Vincenzo Monti, al semaforo svoltate a destra in Largo d’Ancona e subito a destra in corso Magenta dove, al civico 61, vi attende la Fondazione Stelline.'}
+ #- {lang: "en", title: "Are you coming by car from highway A1?", information: '(Bologna), after the tollbooth, turn into the exit of piazzale Corvetto, turn right and you will arrive at piazzale Bologna, turn left through via Bacchiglione continue 100 m and turn right on corso Lodi. After 700 m, reaching porta Romana, turn left on via Filippetti (inner beltway), continue along viale Beatrice d’Este, viale Gian Galeazzo, viale d’Annunzio, viale Papiniano, viale of Porta Vercellina, arriving at piazzale Baracca, turn right, where at number 61 you are welcomed to Fondazione Stelline.'}
+
+ #- {lang: "it", title: "Arrivi in auto dall’autostrada A7?", information: '(Genova): dopo il casello del pedaggio, imboccate la tangenziale ovest in direzione Venezia, uscite a Milano Certosa e proseguite come indicato sopra.'}
+ #- {lang: "en", title: "Are you coming by car from highway A7?", information: '(Genova): after the tollbooth, turn into the western tangential in the direction of Venice, exit at Milano Certosa and continue as indicated above.'}
+directionDetailsWideCards:
+ -
+  lang: "it"
+  title: "Cerchi un hotel?"
+  subCards:
+   -
+    title: ""
+    links:
+     - {link: "https://www.hotelparchidelgarda.it/it/", text: "Hotel Parchi del Garda"}
+     - {link: "", text: ""}
+     - {link: "", text: ""}
+     - {link: "", text: ""}
+ -
+  lang: "en"
+  title: "Are you looking for an hotel"
+  subCards:
+   -
+    title: ""
+    links:
+     - {link: "https://www.hotelparchidelgarda.it/en/", text: "Hotel Parchi del Garda"}
+     - {link: "", text: ""}
+     - {link: "", text: ""}
+     - {link: "", text: ""}
 
 # Pgbeer
 #pgbeerDetailsImage: "pgbeer-details.jpg"
