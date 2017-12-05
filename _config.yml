@@ -152,7 +152,7 @@ latestNewsTitle:
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Centro Congressi Hotel Parchi del Garda"
+eventLocationName: "Hotel Parchi del Garda"
 eventLocationLink: "https://www.hotelparchidelgarda.it/it/meetingevents/spazi-eventi/"
 eventStreetAddress: "Via Brusà 16/17"
 eventAddressLocality: "Pacengo di Lazise"
@@ -175,8 +175,8 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle:
-  it: "Centro Congressi Hotel Parchi del Garda"
-  en: "Centro Congressi Hotel Parchi del Garda"
+  it: "Hotel Parchi del Garda"
+  en: "Hotel Parchi del Garda"
 venueFeatures:
   it: ["Hotel Parchi del Garda si trova tra i Comuni di Peschiera del Garda e Lazise, a soli 900 metri dalle rive del Lago. E’ facilmente raggiungibile con tutti i mezzi, grazie alla sua posizione strategica e ben collegata. Il parco divertimenti Gardaland si trova circa 500 m dalla struttura e si può raggiungere comodamente a piedi con una breve passeggiata."]
   en: ["Hotel Parchi del Garda is located between the towns of Peschiera del Garda and Lazise, just 900 metres away from the lake's edge. It is easy to get to using any means of transport, thanks to its strategic and well-connected position. The Gardaland theme park is just 500 metres or so away from the structure and can easily be reached on foot with a short walk."]
