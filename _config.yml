@@ -19,7 +19,7 @@ exclude:
   - 'training.it.html'
   - 'training.en.html'
   - 'team.it.html'
-  - 'team.en.html'  
+  - 'team.en.html'
 
 # Site Settings
 title: "PGDay.IT 2018"
@@ -79,12 +79,12 @@ navigationLinks:
 # - {permalink: "/training/", text: "Training"}
 # - {permalink: "/team/", text: "Team"}
  - {permalink: "/blog/", text: "Blog"}
-#bottomNavigationLinks:
+bottomNavigationLinks:
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
  - {link: "/assets/PartnerIT_2018.pdf", text: "Diventa Partner", lang: "it"}
  - {link: "/assets/PartnerEN_2018.pdf", text: "Become Partner", lang: "en"}
-#rightNavigationButtons:
+rightNavigationButtons:
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
  - {link: "/assets/PartnerIT_2018.pdf", text: "Diventa Partner", lang: "it"}
