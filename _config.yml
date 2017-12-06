@@ -82,13 +82,13 @@ navigationLinks:
 #bottomNavigationLinks:
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
- - {link: "/assets/PartnerIT 2018.pdf", text: "Diventa Partner", lang: "it"}
- - {link: "/assets/PartnerEN 2018.pdf", text: "Become Partner", lang: "en"}
+ - {link: "/assets/PartnerIT_2018.pdf", text: "Diventa Partner", lang: "it"}
+ - {link: "/assets/PartnerEN_2018.pdf", text: "Become Partner", lang: "en"}
 #rightNavigationButtons:
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
- - {link: "/assets/PartnerIT 2018.pdf", text: "Diventa Partner", lang: "it"}
- - {link: "/assets/PartnerEN 2018.pdf", text: "Become Partner", lang: "en"}
+ - {link: "/assets/PartnerIT_2018.pdf", text: "Diventa Partner", lang: "it"}
+ - {link: "/assets/PartnerEN_2018.pdf", text: "Become Partner", lang: "en"}
 
 # Hero Block
 heroImage: "hero.jpg"
