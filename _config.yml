@@ -18,6 +18,8 @@ exclude:
   - 'hackathon.en.html'
   - 'training.it.html'
   - 'training.en.html'
+  - 'team.it.html'
+  - 'team.en.html'  
 
 # Site Settings
 title: "PGDay.IT 2018"
