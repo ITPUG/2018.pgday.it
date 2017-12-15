@@ -66,14 +66,20 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/speakers/", text: "Speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform", text: "Diventa Speaker", lang: "it"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform", text: "Become Speaker", lang: "en"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform", text: "Organizza un workshop", lang: "it"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform", text: "Organise a workshop", lang: "en"}
+ - {permalink: "/workshop/", text: "Workshop", lang: "it"}
+ - {permalink: "/workshop/", text: "Workshops", lang: "en"}
  - {permalink: "/logistics/", text: "Logistica", lang: "it"}
  - {permalink: "/logistics/", text: "Logistics", lang: "en"}
-# - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
-# - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "it"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "en"}
  - {link: "/assets/PartnerIT_2018.pdf", text: "Diventa Partner", lang: "it"}
  - {link: "/assets/PartnerEN_2018.pdf", text: "Become Partner", lang: "en"}
-# - {link: "https://www.eventbrite.it/e/pgdayit-2018-tickets-35260542231", text: "Acquista il tuo biglietto", lang: "it"}
-# - {link: "https://www.eventbrite.it/e/pgdayit-2018-tickets-35260542231", text: "Buy your ticket", lang: "en"}
+ - {link: "https://2018pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
+ - {link: "https://2018pgdayit.eventbee.com", text: "Buy your ticket", lang: "en"}
 # - {permalink: "/pgbeer/", text: "PG_beer"}
 # - {permalink: "/staff/", text: "Staff"}
 # - {permalink: "/training/", text: "Training"}
@@ -96,21 +102,25 @@ heroTitle:
   it: "PGDay.IT 2018 - <typeout> "
   en: "PGDay.IT 2018 - <typeout> "
 eventDate:
-  it: "Lazise, 29 giugno, 2018"
-  en: "Lazise, June 29th, 2018"
+  it: "Lazise 2018: Workshop 28 giugno e PGDay.IT 29 giugno"
+  en: "Lazise 2018: Workshop June 28th and PGDay.IT June 29th"
 typeoutTextValues:
-  it: '"", "29 giugno", "Lazise", "Italy", ""'
-  en: '"", "June 29th", "Lazise", "Italy", ""'
+  it: '"", "PGDay.IT 29 giugno", "Workshop 28 giugno", "PG_beer 28 giugno", "Lazise, Italy", ""'
+  en: '"", "PGDay.IT June 29th", "Workshop June 28th", "PG_beer June 28th", "Lazise, Italy", ""'
 typeoutFallback:
-  it: "Lazise, 29 giugno 2018"
-  en: "Lazise, June 29th, 2018"
+  it: "Lazise, 28 e 29 giugno 2018"
+  en: "Lazise, June 28th and 29th, 2018"
 heroButtons:
-# - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
-# - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform", text: "Diventa Speaker", lang: "it"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform", text: "Become Speaker", lang: "en"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform", text: "Organizza un workshop", lang: "it"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform", text: "Organise a workshop", lang: "en"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "it"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "en"}
  - {link: "/assets/PartnerIT_2018.pdf", text: "Diventa Partner", lang: "it"}
  - {link: "/assets/PartnerEN_2018.pdf", text: "Become Partner", lang: "en"}
- - {link: "https://www.eventbrite.it/e/pgdayit-2018-tickets-35260542231", text: "Acquista il tuo biglietto", lang: "it"}
- - {link: "https://www.eventbrite.it/e/pgdayit-2018-tickets-35260542231", text: "Get your ticket", lang: "en"}
+ - {link: "https://2018pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
+ - {link: "https://2018pgdayit.eventbee.com", text: "Get your ticket", lang: "en"}
 
 # About Block
 aboutTitle:
@@ -143,11 +153,11 @@ latestNewsTitle:
   en: "Latest News"
 
 # Rockstar Speakers Block
-#rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 0
-#rockstarSpeakersTitle:
-    #it: "Speaker"
-    #en: "Speakers"
+rockstarSpeakersTitle:
+    it: "Speaker"
+    en: "Speakers"
 #rockstarSpeakersButtonText:
   #it: "Guarda tutti gli speaker"
   #en: "All Speakers here"
@@ -229,7 +239,7 @@ ticketsOffers:
     en: "Early ticket"
   price: "47,00"
   priceCurrency: "€"
-  buyButtonLink: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231"
+  buyButtonLink: "https://2018pgdayit.eventbee.com"
   buyButtonText:
     it: "Acquistalo adesso"
     en: "Get it now"
@@ -245,7 +255,7 @@ ticketsOffers:
     en: "Ordinary"
   price: "59,00"
   priceCurrency: "€"
-  buyButtonLink: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231"
+  buyButtonLink: "https://2018pgdayit.eventbee.com"
   buyButtonText:
     it: "Acquistalo adesso"
     en: "Get it now"
@@ -262,7 +272,7 @@ ticketsOffers:
   price: "97,00"
   priceCurrency: "€"
   featured: true
-  buyButtonLink: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231"
+  buyButtonLink: "https://2018pgdayit.eventbee.com"
   buyButtonText:
     it: "Acquistalo adesso"
     en: "Get it now"
@@ -278,7 +288,7 @@ ticketsOffers:
     en: "Student"
   price: "15,00"
   priceCurrency: "€"
-  buyButtonLink: "https://www.eventbrite.it/e/pgdayit-2017-tickets-35260542231"
+  buyButtonLink: "https://2018pgdayit.eventbee.com"
   buyButtonText:
     it: "Acquistalo adesso"
     en: "Get it now"
@@ -394,6 +404,9 @@ directionDetailsTitle:
     it: "Come raggiungere il PGDay.IT 2018"
     en: "How to reach PGDay.IT 2018"
 directionDetailsCards:
+ - {lang: "it", title: "Arrivi in aereo all'Aeroporto di Verona? In treno alla stazione di Verona? Oppure arrivi all'Aeroporto di Bergamo?", information: "Questa è la nostra soluzione: PG_shuttle! Fornendo a noi i dati del tuo arrivo, organizzeremo per te il pickup che ti porterà direttamente presso la sede del PGDay.IT 2018. Basta che tu compili il form che abbiamo predisposto e troverai il tuo pickup ad attenderti al tuo arrivo. PG_shuttle è un servizio gratuito. Inserisci le informazioni necessarie nel form che trovi cliccando su 'PG_shuttle' nella barra del menù principale. Se invece preferisci essere autonomo, sotto troverai le indicazioni che ti occorrono."}
+ - {lang: "en", title: "Are you arriving by plane at Verona Airport or by train at Verona station? Or do you arrive at Bergamo Airport?", information: "This is our solution: PG_shuttle! By providing us your arrival details, we will arrange for you the pickup that will take you directly to the venue of PGDay.IT 2018. Just fill the form that we have prepared and you will find your pickup waiting for you when you arrive. PG_shuttle is a free service. Please, enter the necessary information in the form that you find by clicking on 'PG_shuttle' in the main menu bar. If you prefer to be independent, below you will find the instructions you need."}
+
  - {lang: "it", title: "IN AUTO:", information: "5 km dall'uscita di Peschiera del Garda - Autostrada A4 / 13 km dall'uscita di Affi - Autostrada A22"}
  - {lang: "en", title: "BY CAR:", information: '5 km from the Peschiera del Garda exit - Motorway A4 / 13 km from the Affi exit - Motorway A22'}
 
@@ -402,9 +415,6 @@ directionDetailsCards:
 
  - {lang: "it", title: "IN AEREO:", information: "15 km dall'aeroporto Valerio Catullo di Verona Villafranca / 95 km dall'aeroporto Orio al Serio di Bergamo / 180 km dall'aeroporto Milano Malpensa"}
  - {lang: "en", title: "BY PLANE:", information: '15 km from Valerio Catullo airport in Verona Villafranca / 95 km from Orio al Serio airport in Bergamo / 180 km from Milano Malpensa airport'}
-
- #- {lang: "it", title: "Arrivi in auto dalle autostrade del nord?", information: '(A4 Torino/Venezia; A9 Como/Chiasso; A8 Varese), dopo il casello del pedaggio proseguite in direzione Milano e prendete l’uscita Milano Certosa, percorrete tutto viale Certosa, attraversate due incroci e confluite in corso Sempione, alla fine del corso svoltate a destra per via Canova, alla fine della via girate a destra in via Pagano, dopo 200 m svoltate a sinistra in via Monti fino a raggiungere l’incrocio con corso Magenta, girate a destra e raggiungete il civico 61 dove vi attende la Fondazione Stelline.'}
- #- {lang: "en", title: "Are you coming by car from the northern highway?", information: '(A4 Torino/Venezia; A9 Como/Chiasso; A8 Varese), after the tollbooth, continue in the direction of Milan and take the exit Milano Certosa, go to the end of viale Certosa, cross two crossings and merge into corso Sempione, at the end of the corso turn right on via Canova, at the end of the via turn right in via Pagano, after 200 m turn left in via Monti until reaching the crossing with corso Magenta, turn right and reach number 61, where you are welcomed to Fondazione Stelline.'}
 
  #- {lang: "it", title: "Arrivi in auto dall’autostrada A1?", information: '(Bologna), dopo il casello del pedaggio, dirigendoVi verso la tangenziale Est, imboccate l’uscita di piazzale Corvetto, girate a destra e arrivate a piazzale Bologna, svoltate a sinistra per via Bacchiglione percorrete 100 m e girate a destra per corso Lodi. Dopo 700 m, giunti a porta Romana, girate a sinistra in via Filippetti (circonvallazione interna), proseguire per viale Beatrice d’Este, viale Gian Galeazzo, viale d’Annunzio, viale Papiniano, viale di Porta Vercellina. Arrivati a piazzale Baracca, proseguite per piazza della Conciliazione, svoltate a destra in via Boccaccio quindi percorrete la via fino a raggiungere piazza Virgilio. Dopodichè percorrete via Vincenzo Monti, al semaforo svoltate a destra in Largo d’Ancona e subito a destra in corso Magenta dove, al civico 61, vi attende la Fondazione Stelline.'}
  #- {lang: "en", title: "Are you coming by car from highway A1?", information: '(Bologna), after the tollbooth, turn into the exit of piazzale Corvetto, turn right and you will arrive at piazzale Bologna, turn left through via Bacchiglione continue 100 m and turn right on corso Lodi. After 700 m, reaching porta Romana, turn left on via Filippetti (inner beltway), continue along viale Beatrice d’Este, viale Gian Galeazzo, viale d’Annunzio, viale Papiniano, viale of Porta Vercellina, arriving at piazzale Baracca, turn right, where at number 61 you are welcomed to Fondazione Stelline.'}
