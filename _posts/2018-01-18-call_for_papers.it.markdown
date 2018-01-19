@@ -27,31 +27,21 @@ Se appartieni ad uno di questi gruppi, sei invitato a presentare una proposta di
 
 Prima di tutto, suggeriamo ai candidati speaker di dare uno sguardo ai topic richiesti dai partecipanti dell'[ultima edizione](https://2017.pgday.it/it/) (come da [feedback form compilato](http://blog.itpug.org/pgday_it_2017/)). Questi i topic:
 
+* Disaster Recovery
+* Replica e Alta Disponibilità
 * Ottimizzazioni di query
-* Tuning e configurazioni tipo per ambienti specifici (OLTP, BI etc.)
-* More development related talks
-* HA con repmgr
-* Data Patterns, Best practices (both software and ‘hardware’),
-* Client per PgSql
-* Security, HA, backups, replication, multimaster
-* Leggere correttamente un explain
-* PostGIS, pgrouting
-* GIS LBS e PostGIS
-* Talk di business case, rivolti a persone non prettamente tecniche
-* Exceution plan nel dettaglio
-* Scelta dell’hardware adeguato, esempi pratici di tuning, esempi pratici di troubleshooting.
-* Performance Tuning, Backup/Restore, HA; Replication, SQL Tuning.
-* Approfondimento su table partizionate, indici su tabelle partizionate
-* Strumenti di compliance al gdpr
-* Un talk pratico di statistiche ed ottimizzazioni di postgresql
-* Indici, performance , replica
-* Novità su Postgres 10
-* Bilanciamento delle query su più server, aggiornamenti SW, scelta HW, estensioni
-* Sviluppo software con pgsql , mq con PostgreSQL (vedi Oracle AQ)
-* Oracle migration
-* Partizionamento
-* Esempi pratici di file di configurazione e simili per backup, recovery e simili; non solo nomi e immagini con frecce.
+* Server tuning
+* Troubleshooting
+* GIS, PostGIS e Location-based service
+* Business cases
+* Security
 * Postgres XL
+* Partizionamento
+* Security
+* Data Protection Regulation
+* Nuove funzionalità di PostgreSQL
+* Migrazioni da Oracle
+* Sviluppo con PostgreSQL
 
 Il nostro team ha anche selezionato una serie di topic interessanti, ma se hai un’idea che vuoi condividere non presente in questa lista, fatti avanti.
 
@@ -92,7 +82,7 @@ Il nostro team ha anche selezionato una serie di topic interessanti, ma se hai u
 
 __Deadline__ il 28 febbraio 2018
 
-__Importante:__ Non c'è alcuna garanzia che la tua proposta verrà inserita nello schedule della manifestazione.<br/>
+__Importante:__ Non c'è alcuna garanzia che la tua proposta verrà inserita nello schedule della manifestazione.
 
 Il comitato tecnico selezionerà le proposte pervenute più interessanti e informerà i candidati selezionati entro e  non oltre il 15 marzo 2018.
 

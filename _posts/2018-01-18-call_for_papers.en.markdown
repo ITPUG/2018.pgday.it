@@ -23,34 +23,23 @@ If you belong to one of these groups, you are invited to submit a talk proposal 
 
 ###### Topics and Arguments - What Do We Expect?
 
-First of all, we suggest to candidates speakers to look at topics required by the attendees of the [last edition](https://2017.pgday.it/en/) (from the [feedback form filled out](http://blog.itpug.org/pgday_it_2017/)). These are the topics:
+First of all, we suggest to candidates speakers to look at topics desired by the attendees of the [last edition](https://2017.pgday.it/en/) (from the [feedback form filled out](http://blog.itpug.org/pgday_it_2017/)). These are the topics:
 
-* Query optimization
-* Tuning and typical configuration for specific environments (OLTP, BI etc.)
-* More development related talks
-* HA with repmgr
-* Data Patterns, Best practices (both software and ‘hardware’),
-* Client for PgSql
-* Security, HA, backups, replication, multimaster
-* How to read an explain
-* PostGIS, pgrouting
-* GIS LBS e PostGIS
-* Business case for no technical people
-* Execution plan in details
-* How to chose the correct hardware, practical example of tuning,
-* Practical examples of troubleshooting.
-* Performance Tuning, Backup/Restore, HA; Replication, SQL Tuning
-* Deepening of: partitioned tables, indexes on partitioned tables
-* Gdpr compliance tools
-* A practical talk of PostgreSQL statistics and optimisations
-* Index, performance, replication
-* News in Postgres 10
-* Query balancing on multiple servers, SW updates, HW choice, extension
-* Software development with pgsql, mq with PostgreSQL (see Oracle AQ)
-* Oracle migration
-* Partitioning
-* Practical examples of configuration files and similar for backup, recovery and similar
+* Disaster Recovery
+* Replication and High Availability
+* Query optimisation
+* Server tuning
+* Troubleshooting
+* GIS, PostGIS and Location-based services
+* Business cases
+* Security
 * Postgres XL
+* Partitioning
+* Security
+* Data Protection Regulation
+* New PostgreSQL features
+* Migrations from Oracle
+* Development with PostgreSQL
 
 Our team has also identified a number of interesting topics to talk about. If you have an idea not present in the list below, go ahead and share it with us.
 
