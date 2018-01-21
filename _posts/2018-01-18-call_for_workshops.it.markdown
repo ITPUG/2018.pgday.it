@@ -6,6 +6,7 @@ isStaticPost: false
 permalink: /it/blog/cfw
 lang: it
 ref: cfw
+image: cfw.jpg
 redirect-from:
  - /blog/cfw
 ---

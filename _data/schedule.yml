@@ -1,8 +1,8 @@
 -
-  date: "2017-10-13"
+  date: "2018-06-29"
   dateReadable:
-    it: "13 ottobre"
-    en: "October 13"
+    it: "29 giugno"
+    en: "June 29"
   message:
     it: "Il programma non è ancora definitivo e potrebbe subire variazioni"
     en: "The schedule is not yet definitive, there may be some variations"
@@ -82,31 +82,31 @@
     }
     - {
         startTime: "17:35",
-    	endTime: "17:40",
+    	endTime: "18:00",
         sessionIds: [094]
     }
-    - {
-        startTime: "17:40",
-    	endTime: "17:45",
-        sessionIds: [095]
-    }
-    - {
-        startTime: "17:45",
-    	endTime: "17:50",
-        sessionIds: [096]
-    }
-    - {
-        startTime: "17:50",
-    	endTime: "17:55",
-        sessionIds: [097]
-    }
-    - {
-        startTime: "17:55",
-    	endTime: "18:00",
-        sessionIds: [098]
-    }
-    - {
-        startTime: "18:00",
-    	endTime: "18:05",
-        sessionIds: [099]
-    }    
+#    - {
+#        startTime: "17:40",
+#    	endTime: "17:45",
+#        sessionIds: [095]
+#    }
+#    - {
+#        startTime: "17:45",
+#    	endTime: "17:50",
+#        sessionIds: [096]
+#    }
+#    - {
+#        startTime: "17:50",
+#    	endTime: "17:55",
+#        sessionIds: [097]
+#    }
+#    - {
+#        startTime: "17:55",
+#    	endTime: "18:00",
+#        sessionIds: [098]
+#    }
+#    - {
+#        startTime: "18:00",
+#    	endTime: "18:05",
+#        sessionIds: [099]
+#    }

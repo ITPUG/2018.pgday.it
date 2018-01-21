@@ -4,6 +4,7 @@ title:  "We are back!"
 date:   2018-01-18 04:00:00
 isStaticPost: false
 permalink: /en/blog/back
+image: back.jpg
 lang: en
 ref: back
 ---
@@ -18,7 +19,7 @@ Thanks to everybody: attendees, speakers, staff, partners and we hope to meet yo
 
 [PGDay.IT 2018](https://2018.pgday.it/en/) will be held in [Lazise](https://2018.pgday.it/en/logistics/) on Lake Garda on June 29th.
 
-The location chosen is [Hotel Parchi del Garda](https://2018.pgday.it/en/logistics/). It is located between the towns of Peschiera del Garda and Lazise, just 900 metres away from the lake's shore.
+The location chosen is [Hotel Parchi del Garda](https://2018.pgday.it/en/logistics/). It is located between the towns of Peschiera del Garda and [Lazise](https://2018.pgday.it/en/logistics/), just 900 metres away from the lake's shore.
 
 Our advice for you: take your time, keep the weekend to discover Lake Garda.
 
@@ -38,7 +39,8 @@ Focus points:
 * Topics: More than 16 hours dedicated entirely to PostgreSQL, lots of talks with high technical content and social moments not to be missed.
 * When: PGDay.IT June 29th, 2018 - Workshops June 28th, 2018.
 * Speakers: The [Call for Papers is open](https://2018.pgday.it/en/blog/cfp) and we expect many interesting proposals. One might be yours! We are also working to ensure the presence of “Rockstars” of the PostgreSQL Ecosystem and supporters of the Open Source world.
-* Location: Hotel Parchi del Garda is a gorgeous destination thanks to its location in the centre of a land full of opportunities! Just steps away from the beautiful shores of Lake Garda, in the middle of renowned theme parks and in the heart of a territory rich in history, tradition and good food.
+* Workshop: The [Call for Workshop is open](https://2018.pgday.it/en/blog/cfw). Four hours dedicate to specific topics
+* Location: [Hotel Parchi del Garda](https://2018.pgday.it/en/logistics/) is a gorgeous destination thanks to its location in the centre of a land full of opportunities! Just steps away from the beautiful shores of Lake Garda, in the middle of renowned theme parks and in the heart of a territory rich in history, tradition and good food.
 
 <h6>How can you miss it?</h6>
 

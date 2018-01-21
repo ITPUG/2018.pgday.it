@@ -16,10 +16,6 @@ exclude:
   # Temporary disabled pages
   - 'hackathon.it.html'
   - 'hackathon.en.html'
-  - 'training.it.html'
-  - 'training.en.html'
-  - 'team.it.html'
-  - 'team.en.html'
 
 # Site Settings
 title: "PGDay.IT 2018"
@@ -64,12 +60,12 @@ c4sponsorsUrl: "/assets/PartnerIT_2018.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- #- {permalink: "/schedule/", text: "Schedule"}
- #- {permalink: "/speakers/", text: "Speaker"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform", text: "Diventa Speaker", lang: "it"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform", text: "Become Speaker", lang: "en"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform", text: "Organizza un workshop", lang: "it"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform", text: "Organise a workshop", lang: "en"}
+ - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speaker"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform", text: "Diventa Speaker", lang: "it"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform", text: "Become Speaker", lang: "en"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform", text: "Organizza un workshop", lang: "it"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform", text: "Organise a workshop", lang: "en"}
  - {permalink: "/workshop/", text: "Workshop", lang: "it"}
  - {permalink: "/workshop/", text: "Workshops", lang: "en"}
  - {permalink: "/logistics/", text: "Logistica", lang: "it"}
@@ -82,7 +78,7 @@ navigationLinks:
  - {link: "https://2018pgdayit.eventbee.com", text: "Buy your ticket", lang: "en"}
 # - {permalink: "/pgbeer/", text: "PG_beer"}
 # - {permalink: "/staff/", text: "Staff"}
-# - {permalink: "/training/", text: "Training"}
+ - {permalink: "/workshop/", text: "Workshop"}
 # - {permalink: "/team/", text: "Team"}
  - {permalink: "/blog/", text: "Blog"}
 bottomNavigationLinks:
@@ -246,8 +242,8 @@ ticketsOffers:
   ticketContentList:
     it: ["Early ticket - PGDay.IT 2018", "29 giugno", "_______"]
     en: ["Early ticket - PGDay.IT 2018", "June 29th", "_______"]
-  validFrom: "2017-12-15T10:00"
-  validThrough: "2018-02-15T23:59"
+  validFrom: "2018-01-22T10:00"
+  validThrough: "2018-03-15T23:59"
   disabled: false
  -
   name:
@@ -262,7 +258,7 @@ ticketsOffers:
   ticketContentList:
     it: ["Ordinario - PGDay.IT 2018", "29 giugno", "_______"]
     en: ["Ordinary - PGDay.IT 2018", "June 29th", "_______"]
-  validFrom: "2018-02-16T10:00"
+  validFrom: "2018-03-16T10:00"
   validThrough: "2018-05-15T23:59"
   disabled: true
  -
@@ -298,7 +294,7 @@ ticketsOffers:
   ticketContentList:
     it: ["Studente - PGDay.IT 2018", "29 giugno", "_______"]
     en: ["Student - PGDay.IT 2018", "June 29th", "_______"]
-  validFrom: "2017-12-15T10:00"
+  validFrom: "2018-01-22T10:00"
   validThrough: "2018-06-27T23:59"
   disabled: false
 
@@ -507,10 +503,10 @@ directionDetailsWideCards:
 #    it: "Acquistalo adesso"
 #    en: "Get it now"
 #  pgbeerTicketContentList:
-#    it: ["Pg_beer - PGDay.IT 2017", "12 ottobre", "Milano"]
-#    en: ["Pg_beer - PGDay.IT 2017", "October 12th", "Milan"]
-#  validFrom: "2017-08-28T10:00"
-#  validThrough: "2017-10-10T23:59"
+#    it: ["Pg_beer - PGDay.IT 2018", "28 giugno", "Lazise"]
+#    en: ["Pg_beer - PGDay.IT 2018", "June 28th", "Lazise"]
+#  validFrom: "2018-02-15T10:00"
+#  validThrough: "2018-06-24T23:59"
 #  disabled: false
 
 ## Pgbeer Location Block
@@ -522,134 +518,134 @@ directionDetailsWideCards:
 #pgbeerddressLocalityRegion: "(MI)"
 #pgbeerPostalCode: "20123"
 #pgbeerAddressCountry: "Italy"
-#pgbeerStartTime: "2017-10-12T19:45"
+#pgbeerStartTime: "2018-06-28T19:45"
 #pgbeerDoorTime: "19:30"
-#pgbeerEndTime: "2017-10-12T23:59"
+#pgbeerEndTime: "2018-06-28T23:59"
 #viewOnMap: "View on Google Maps"
 #pgbeerPlaceCoordinates: "45.458838, 9.170756"
 #pgbeerMapCenterCoordinates: "45.458838, 9.170756"
 #pgbeerMapMobileCenterCoordinates: "45.458838, 9.170756"
 
-## Training
-##trainingDetailsImage: "training-details.jpg"
-#trainingTitle:
-#    it: "PostgreSQL Training: informazioni generali."
-#    en: "PostgreSQL Training: general information"
-#trainingDescription:
-#    it: "
-#      <p>
-#        I Training si svolgeranno nella stessa sede dove si svolgerà il PGDay.IT 2017
-#        (Centro Congressi Stelline, Corso Magenta 61 - 20123 Milano). L'iscrizione può
-#        essere effettuata attraverso Eventbrite. Al momento dell'iscrizione verrà richiesto
-#        di selezionare la tematica e della lingua di interesse.<br/>
-#        La giornata formativa comprende: coffee break e pranzo oltre all'eventuale materiale
-#        didattico se e dove previsto. I partecipanti dovranno essere automunioti di portatile.
-#      </p>
-#
-#      <p>
-#        <b>IMPORTANTE</b>: I corsi verranno confermati al raggiungimento di 3 iscritti.
-#        Nel caso il corso non venga confermato, verranno rimborsate le eventuali sottoscrizioni pervenute.
-#      </p>"
-#    en: "
-#      <p>
-#      Training will take place in the same venue of PGDay.IT 2017 (Centro Congressi Stelline, Corso Magenta 61 - 20123 Milano).
-#      You can subscribe through Eventbrite. During registration you have to select the training and the language choosen. <br/>
-#      The training day includes: coffee breaks and lunch as well as any didactic material if it is foreseen.
-#      Attendees has to bring their own computer.
-#      </p>
-#
-#      <p>
-#       <b> IMPORTANT </ b>: Courses will be confirmed upon reaching 3 subscription. If the course is not confirmed, any subscriptions will be refunded.
-#      </p>"
+# Workshop
+workshpDetailsImage: "workshop-details.jpg"
+workshpTitle:
+    it: "Workshop: informazioni generali."
+    en: "Workshops: general information"
+workshpDescription:
+    it: "
+      <p>
+        I workshop si svolgeranno nella stessa sede dove si svolgerà il PGDay.IT 2018
+        (Centro Congressi Stelline, Corso Magenta 61 - 20123 Milano). L'iscrizione può
+        essere effettuata attraverso Eventbrite. Al momento dell'iscrizione verrà richiesto
+        di selezionare il workshop di interesse e la lingua.<br/>
+        I partecipanti dovranno essere automunioti di portatile.
+        Nel biglietto NON è incluso: il pranzo e la partecipazione al PGDay.IT 2018.
+      </p>
+
+      <p>
+        <b>IMPORTANTE</b>: I workshop verranno confermati al raggiungimento di 3 iscritti.
+        Nel caso il corso non venga confermato, verranno rimborsate le eventuali sottoscrizioni pervenute.
+      </p>"
+    en: "
+      <p>
+      Workshop will take place in the same venue of PGDay.IT 2018 (Centro Congressi Stelline, Corso Magenta 61 - 20123 Milano).
+      You can subscribe through Eventbrite. During registration you have to select the workshop. <br/>
+      Attendees has to bring their own computer.
+      The workshop fee does not include: lunch as well and PGDay.IT 2018 fee.
+      </p>
+
+      <p>
+       <b> IMPORTANT </ b>: Workshops will be confirmed upon reaching 3 subscription. If the course is not confirmed, any subscriptions will be refunded.
+      </p>"
 #enablePgbeer: true
 
-# Training About Block
-#aboutTrainingTitle:
-#    it: "PostgreSQL Training: come iscriversi?"
-#    en: "PostgreSQL Training: come iscriversi?"
-#aboutTrainingDescription:
-#    it: "I Training si svolgeranno nella stessa sede dove si svolgerà il PGDay.IT 2017 (Centro Congressi Stelline,
-#    Corso Magenta 61 - 20123 Milano (MI). L'iscrizione può essere effettuata attraverso Eventbrite.
-#    Al momento dell'iscrizione verrà richiesto di selezionare la tematica di interesse. La giornata formativa comprende:
-#      coffee break e pranzo oltre all'eventuale materiale didattico se previsto. I partecipanti dovranno essere automunioti di portatile.
-#      IMPORTANTE: I CORSI VERRANNO CONFERMATI AL REGGIUNGIMENTO DI 3 ISCRITTI. NEL CASO IL CORSO NON VENGA CONFERMATO VERRANNO
-#      RIMBORSATE LE EVENTUALI SOTTOSCRIZIONI PERVENUTE."
-#    en: "xxxxxxxxxxxxx"
+# Workshop About Block
+aboutWorkshopTitle:
+    it: "Workshop: come iscriversi?"
+    en: "Workshops: how to attend?"
+aboutWorkshopDescription:
+    it: "I workshop si svolgeranno nella stessa sede dove si svolgerà il PGDay.IT 2018 (Centro Congressi Stelline,
+    Corso Magenta 61 - 20123 Milano (MI). L'iscrizione può essere effettuata attraverso Eventbrite.
+    Al momento dell'iscrizione verrà richiesto di selezionare la tematica di interesse. La giornata formativa comprende:
+      coffee break e pranzo oltre all'eventuale materiale didattico se previsto. I partecipanti dovranno essere automunioti di portatile.
+      IMPORTANTE: I CORSI VERRANNO CONFERMATI AL REGGIUNGIMENTO DI 3 ISCRITTI. NEL CASO IL CORSO NON VENGA CONFERMATO VERRANNO
+      RIMBORSATE LE EVENTUALI SOTTOSCRIZIONI PERVENUTE."
+    en: "_____"
 
-#trainingDetailsCards:
-# - {lang: "it", title: "Barman", information: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx by 2ndQuadrant'}
-# - {lang: "en", title: "Barman", information: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx by 2ndQuadrant'}
-#
-# - {lang: "it", title: "Primi passi con PostgreSQL", information: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx by 2ndQuadrnt'}
-# - {lang: "en", title: "PostgreSQl for beginner", information: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx by 2ndQuadrant'}
+workshopDetailsCards:
+ - {lang: "it", title: "workshop 1", information: '_________ by __'}
+ - {lang: "en", title: "workshop 1", information: '_________ by __'}
 
- #- {lang: "it", title: "Training 3", information: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'}
- #- {lang: "en", title: "Training 3", information: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'}
+ - {lang: "it", title: "workshop 2", information: '_________ by __'}
+ - {lang: "en", title: "workshop 2", information: '_________ by __'}
 
- #- {lang: "it", title: "Training 4", information: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'}
- #- {lang: "en", title: "Training 4", information: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'}
-#trainingDetailsWideCards:
+ - {lang: "it", title: "workshop 3", information: '_________ by __'}
+ - {lang: "en", title: "workshop 3", information: '_________ by __'}
+
+ - {lang: "it", title: "workshop 4", information: '_________ by __'}
+ - {lang: "en", title: "workshop 4", information: '_________ by __'}
+#workshopDetailsWideCards:
 #  -
 #   lang: "it"
-#   title: "Come vengono gestiti i training? Quali sono le aziende che li erogano?"
+#   title: "Come vengono gestiti i workshop? Quali sono le aziende che li erogano?"
 #   subCards:
 #    -
 #     title: "Il ricavato derivante dalle quote di iscrizione, al netto delle spese per affitto aula e catering, verrà suddivisa
 #     tra l'azienda erogante il corso e l'associazione ITPUG - ITalian PostgreSQl Users Group.<br/>
-#     <b>Le aziende interessate a proporre PostgreSQL Training sono invitate a contattare gli organizzatori del PGDay.IT scrivendo a info@itpug.org o pgday@itpug.org</b><br/>
+#     <b>Le aziende interessate a proporre PostgreSQL workshop sono invitate a contattare gli organizzatori del PGDay.IT scrivendo a info@itpug.org o pgday@itpug.org</b><br/>
 #        IMPORTANTE: l'associazione ITPUG - ITalian PostgreSQL Users Group non è responsabile della qualità formativa erogata."
 #     links:
 #      - {link: "https://www.2ndquadrant.com/it/formazione-postgresql/", text: "2ndQuadrant"}
 #      - {link: "", text: ""}
 #  -
 #   lang: "en"
-#   title: "How are the trainings handled? What are the companies that deliver its?"
+#   title: "How are the workshops handled? What are the companies that deliver its?"
 #   subCards:
 #    -
-#     title: "The income coming from subscription, deducted the cost of classroom and catering, will be shared between companies providing the training and ITPUG - ITalian PostgreSQl Users Group.
-#     Companies interested in proposing PostgreSQL Training are invited to contact the organizers of PGDay.IT - please send an email to info@itpug.org or pgday@itpug.org
-#     <b> IMPORTANT </ b>: ITPUG - ITalian PostgreSQL Users Group is not responsible for the quality of training provided."
+#     title: "The income coming from subscription, deducted the cost of classroom and catering, will be shared between companies providing the workshop and ITPUG - ITalian PostgreSQl Users Group.
+#     Companies interested in proposing PostgreSQL workshop are invited to contact the organizers of PGDay.IT - please send an email to info@itpug.org or pgday@itpug.org
+#     <b> IMPORTANT </ b>: ITPUG - ITalian PostgreSQL Users Group is not responsible for the quality of workshop provided."
 #     links:
 #      - {link: "https://www.2ndquadrant.com/it/formazione-postgresql/", text: "2ndQuadrant"}
-  #    - {link: "", text: ""}
+#      - {link: "", text: ""}
 
-# Training Tickets Block
-#trainingTicketsTitle:
-#    it: "Quota iscrizione Training"
-#    en: "Training registration fee"
-#trainingTicketsInfo:
-#    it: "Quota iscrizione Training - PGDay.IT 2017 - 12 ottobre 2017"
-#    en: "Training registration fee - PGDay.IT 2017 - October 12, 2017"
-#trainingTicketsOffers:
-# -
-#  name:
-#    it: "PostgreSQL Training"
-#    en: "PostgreSQL Training"
-#  price: "300,00 + IVA/VAT"
-#  priceCurrency: "€"
-#  buyButtonLink: "https://www.eventbrite.it/e/biglietti-postgresql-training-37341834432"
-#  buyButtonText:
-#    it: "Acquistalo adesso"
-#    en: "Get it now"
-#  trainingTicketContentList:
-#    it: ["PostgreSQL Training - PGDay.IT 2017", "12 ottobre", "Milano"]
-#    en: ["PostgreSQL Training - PGDay.IT 2017", "October 12th", "Milan"]
-#  validFrom: "2017-08-28T10:00"
-#  validThrough: "2017-10-10T23:59"
-#  disabled: false
+# Workshop Tickets Block
+workshopTicketsTitle:
+    it: "Quota iscrizione workshop"
+    en: "workshop registration fee"
+workshopTicketsInfo:
+    it: "Quota iscrizione workshop - PGDay.IT 2018 - 28 giugno 2018"
+    en: "workshop registration fee - PGDay.IT 2018 - June 28th, 2018"
+workshopTicketsOffers:
+ -
+  name:
+    it: "Workshop - Early bird"
+    en: "Workshop - Early bird"
+  price: "45,00 + IVA/VAT"
+  priceCurrency: "€"
+  buyButtonLink: "https://www.eventbrite.it/e/biglietti-postgresql-workshop-37341834432"
+  buyButtonText:
+    it: "Acquistalo adesso"
+    en: "Get it now"
+  workshopTicketContentList:
+    it: ["Workshop - PGDay.IT 2018", "28 giugno", "Lazise"]
+    en: ["Workshop - PGDay.IT 2018", "June 28th", "Lazise"]
+  validFrom: "2018-01-22T10:00"
+  validThrough: "2018-06-15T23:59"
+  disabled: false
 
-#  # Training Location Block
-#  locationBlockTitle: "Location"
-#  trainingLocationName: "Fondazione Stelline"
-#  trainingLocationLink: "http://www.stelline.it/it/centro-congressi/home/centro-congressi.html"
-#  trainingStreetAddress: "corso Magenta, 61"
-#  trainingAddressLocality: "Milano"
-#  trainingAddressLocalityRegion: "(MI)"
-#  trainingPostalCode: "20123"
-#  trainingAddressCountry: "Italy"
-#  trainingStartTime: "2017-10-13T9:00"
-#  trainingDoorTime: "08:30"
-#  trainingEndTime: "2017-10-13T18:00"
-#  trainingPlaceCoordinates: "45.4654533, 9.166099"
-#  mapCenterCoordinates: "45.4654533, 9.166099"
-#  mapMobileCenterCoordinates: "45.4654533, 9.166099"
+  # Workshop Location Block
+  workshopBlockTitle: "Location"
+  workshopLocationName: "Hotel Parchi del Garda"
+  workshopLocationLink: "https://www.hotelparchidelgarda.it/it/meetingevents/spazi-eventi/"
+  workshopStreetAddress: "Via Brusà 16/17"
+  workshopAddressLocality: "Pacengo di Lazise"
+  workshopAddressLocalityRegion: "(VR)"
+  workshopPostalCode: "37017"
+  workshopAddressCountry: "Italy"
+  workshopStartTime: "2018-06-28T9:00"
+  workshopDoorTime: "09:00"
+  workshopEndTime: "2018-06-28T18:00"
+  workshopPlaceCoordinates: "45.4627319, 10.7171789"
+  mapCenterCoordinates: "45.4627319, 10.7171789"
+  mapMobileCenterCoordinates: "45.4627319, 10.7171789"

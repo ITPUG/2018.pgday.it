@@ -6,6 +6,7 @@ isStaticPost: false
 permalink: /it/blog/back
 lang: it
 ref: back
+image: back.jpg
 redirect-from:
  - /blog/back
 ---

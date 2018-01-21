@@ -5,6 +5,7 @@ date:   2018-01-18 04:00:00
 isStaticPost: false
 permalink: /en/blog/cfw
 lang: en
+image: cfw.jpg
 ref: cfw
 ---
 

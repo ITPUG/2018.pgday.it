@@ -1,11 +1,11 @@
-<!-- About training Section -->
-<section id="about-training" class="about-training">
+<!-- About workshop Section -->
+<section id="about-workshop" class="about-workshop">
     <div class="content-wrapper">
           <div class="row">
               <div class="col-lg-10 col-lg-offset-1 text-left">
                   {% assign animationDelay = 0 %}
-                  {% assign trainingDetailsCards = site.trainingDetailsCards | where: "lang", page.lang %}
-                  {% for card in trainingDetailsCards %}
+                  {% assign workshopDetailsCards = site.workshopDetailsCards | where: "lang", page.lang %}
+                  {% for card in workshopDetailsCards %}
                   {% assign colWidth = 29 | divided_by: forloop.length %}
                   <div class="col-md-{{ colWidth }} col-xs-12 same-height animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                       <div class="card">
@@ -16,8 +16,8 @@
                   {% assign animationDelay = animationDelay | plus:500 %}
                   {% endfor %}
 
-                  {% assign trainingDetailsWideCards = site.trainingDetailsWideCards | where: "lang", page.lang %}
-                  {% for wideCard in trainingDetailsWideCards %}
+                  {% assign workshopDetailsWideCards = site.workshopDetailsWideCards | where: "lang", page.lang %}
+                  {% for wideCard in workshopDetailsWideCards %}
                   <div class="col-md-12 col-xs-12 animated hiding" data-animation="fadeInDown" data-delay="0">
                       <div class="card questions">
                           <h5>{{ wideCard.title }}</h5>
@@ -35,14 +35,14 @@
                       </div>
                   </div>
                   {% endfor %}
-            <div class="row about-details"><p><h6>{{ site.aboutTrainingDescription[page.lang] }}</h6></p></div>
-            {% for row in site.trainingRows %}
+            <div class="row about-details"><p><h6>{{ site.aboutworkshopDescription[page.lang] }}</h6></p></div>
+            {% for row in site.workshopRows %}
             {% assign check = forloop.index0 | modulo:2 %}
-            <div class="training-row {% if check == 0 %}float-left{% else %}float-right{% endif %} col-md-12">
-                <div class="training-img-wrapper animated hiding" data-animation="{% if check == 0 %}fadeInLeft{% else %}fadeInRight{% endif %}" data-delay="0">
-                    <img class="img-responsive" src="{{ site.baseurl }}/img/training/{{ row.image }}" alt="Training">
+            <div class="workshop-row {% if check == 0 %}float-left{% else %}float-right{% endif %} col-md-12">
+                <div class="workshop-img-wrapper animated hiding" data-animation="{% if check == 0 %}fadeInLeft{% else %}fadeInRight{% endif %}" data-delay="0">
+                    <img class="img-responsive" src="{{ site.baseurl }}/img/workshop/{{ row.image }}" alt="workshop">
                 </div>
-                <div class="training-details animated hiding" data-animation="{% if check == 0 %}fadeInRight{% else %}fadeInLeft{% endif %}" data-delay="0">
+                <div class="workshop-details animated hiding" data-animation="{% if check == 0 %}fadeInRight{% else %}fadeInLeft{% endif %}" data-delay="0">
                     <h4>{{ row.title }}</h4>
                     <p>{{ row.details }}</p>
                 </div>
@@ -52,4 +52,4 @@
         </div>
     </div>
 </section>
-<!-- End About training Section -->
+<!-- End About workshop Section -->

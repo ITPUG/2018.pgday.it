@@ -6,6 +6,7 @@ isStaticPost: false
 permalink: /it/blog/cfp
 lang: it
 ref: cfp
+image: paper.jpg
 redirect-from:
  - /blog/cfp
 ---

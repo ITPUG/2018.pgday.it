@@ -61,24 +61,24 @@
                 },
                 "subEvent" : {
                     "@type" : "Event",
-                    "name" : "{{ site.trainingTitle }}",
-                    "description": "{{ site.trainingRows[0].details }}",
+                    "name" : "{{ site.workshopTitle }}",
+                    "description": "{{ site.workshopRows[0].details }}",
                     "image" : "{{ site.socialImageSrcGooglePlus | prepend: site.baseurl | prepend: site.url }}",
-                    "url" : "{{ site.url | append: site.baseurl }}/training/",
-                    "startDate" : "{{ site.trainingStartTime }}",
-                    "doorTime" : "{{ site.trainingDoorTime }}",
-                    "endDate" : "{{ site.trainingEndTime }}",
+                    "url" : "{{ site.url | append: site.baseurl }}/workshop/",
+                    "startDate" : "{{ site.workshopStartTime }}",
+                    "doorTime" : "{{ site.workshopDoorTime }}",
+                    "endDate" : "{{ site.workshopEndTime }}",
                     "location" : {
                         "@type" : "Place",
-                        "name" : "{{ site.trainingLocationName }}",
-                        "sameAs" : "{{ site.trainingLocationLink }}",
+                        "name" : "{{ site.workshopLocationName }}",
+                        "sameAs" : "{{ site.workshopLocationLink }}",
                         "address" : {
                             "@type" : "PostalAddress",
-                            "streetAddress" : "{{ site.trainingStreetAddress }}",
-                            "addressLocality" : "{{ site.trainingAddressLocality }}",
-                            "addressRegion" : "{{ site.trainingAddressLocalityRegion }}",
-                            "postalCode" : "{{ site.trainingPostalCode }}",
-                            "addressCountry" : "{{ site.trainingAddressCountry }}"
+                            "streetAddress" : "{{ site.workshopStreetAddress }}",
+                            "addressLocality" : "{{ site.workshopAddressLocality }}",
+                            "addressRegion" : "{{ site.workshopAddressLocalityRegion }}",
+                            "postalCode" : "{{ site.workshopPostalCode }}",
+                            "addressCountry" : "{{ site.workshopAddressCountry }}"
                         },
                 "geo" : {
                     "@type" : "GeoCoordinates",

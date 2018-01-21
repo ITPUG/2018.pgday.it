@@ -1,19 +1,19 @@
-$training-img-width: 250px;
-$small-training-img-width: 150px;
+$workshop-img-width: 250px;
+$small-workshop-img-width: 150px;
 
-.training-row {
+.workshop-row {
 	margin-bottom: 90px;
     @media (max-width: 767px) {
         margin-bottom: 50px;
     }
 	&.float-right {
-		.training-img-wrapper {
+		.workshop-img-wrapper {
 			float: right;
 		}
-		.training-details {
+		.workshop-details {
 			text-align: right;
 			margin-left: 0;
-			margin-right: $training-img-width + 50px;
+			margin-right: $workshop-img-width + 50px;
 		    @media (max-width: 767px) {
 		    	text-align: left;
 				margin-right: 0;
@@ -21,7 +21,7 @@ $small-training-img-width: 150px;
 		}
 	}
 }
-.training-img-wrapper {
+.workshop-img-wrapper {
 	float: left;
     @media (max-width: 767px) {
         float: right;
@@ -34,9 +34,9 @@ $small-training-img-width: 150px;
         }
 	}
 }
-.training-details {
+.workshop-details {
 	text-align: left;
-	margin-left: $training-img-width + 50px;
+	margin-left: $workshop-img-width + 50px;
     @media (max-width: 767px) {
         margin-left: 0;
     }
