@@ -78,7 +78,7 @@ navigationLinks:
  - {link: "https://2018pgdayit.eventbee.com", text: "Buy your ticket", lang: "en"}
 # - {permalink: "/pgbeer/", text: "PG_beer"}
 # - {permalink: "/staff/", text: "Staff"}
- - {permalink: "/workshop/", text: "Workshop"}
+# - {permalink: "/workshop/", text: "Workshop"}
 # - {permalink: "/team/", text: "Team"}
  - {permalink: "/blog/", text: "Blog"}
 bottomNavigationLinks:
