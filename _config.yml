@@ -149,11 +149,11 @@ latestNewsTitle:
   en: "Latest News"
 
 # Rockstar Speakers Block
-#rockstarSpeakersImage: "rockstar-speakers.jpg"
-#rockstarSpeakersCount: 0
-#rockstarSpeakersTitle:
-#    it: "Speaker"
-#    en: "Speakers"
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 0
+rockstarSpeakersTitle:
+    it: "Speaker"
+    en: "Speakers"
 #rockstarSpeakersButtonText:
   #it: "Guarda tutti gli speaker"
   #en: "All Speakers here"
