@@ -21,7 +21,7 @@ Grazie a tutti: partecipanti, speaker, staff, partner e tutti noi speriamo di ri
 
 [PGDay.IT 2018](https://2018.pgday.it/it/) si terrà a [Lazise](https://2018.pgday.it/it/logistics/) sul Lago di Garda il 29 giugno.
 
-Sede scelta: [Hotel Parchi del Garda](https://2018.pgday.it/it/logistics/). L'hotel si trova tra Peschiera del Garda e Lazise, a soli 900 metri dalla riva del Lago di Garda.
+Sede scelta: [Hotel Parchi del Garda](https://2018.pgday.it/it/logistics/). L'hotel si trova tra Peschiera del Garda e [Lazise](https://2018.pgday.it/it/logistics/), a soli 900 metri dalla riva del Lago di Garda.
 
 Il nostro consiglio per voi: prendetevi del tempo, proseguendo il vostro weekend alla scoperta del Lago di Garda.
 
@@ -40,7 +40,8 @@ Focus point:
 * Partecipanti: ne aspettiamo tanti ... davvero tanti!
 * Topic: più di 16 ore dedicate interamente a PostgreSQL, molti talk con un alto contenuto tecnico e momenti social da non perdere.
 * Quando: PGDay.IT 29 giugno 2018 - Workshop 28 giugno 2018.
-* Speaker: La Call for Paper è aperta, e ci aspettiamo molte proposte interessanti. Una di queste potrebbe essere la vostra! Stiamo lavorando per assicurarci alcune “Rockstar” dell'ecosistema di PostgreSQL e sostenitori del mondo Open Source.
+* Speaker: La [Call for Paper è aperta]((https://2018.pgday.it/en/blog/cfp)), e ci aspettiamo molte proposte interessanti. Una di queste potrebbe essere la vostra! Stiamo lavorando per assicurarci alcune “Rockstar” dell'ecosistema di PostgreSQL e sostenitori del mondo Open Source.
+* Workshop: La [Call for Workshop è aperta](https://2018.pgday.it/it/blog/cfw). Quattro ore pratiche dedicate a topic specifici.
 * Location: Hotel Parchi del Garda è un'ottimale location grazie al fatto che si trova al centro si una zona carica di opportunità! A pochi passi dalle splendide rive del Lago di Garda, nel mezzo di rinomati parchi tematici e nel cuore di un territorio ricco di storia, tradizioni e buon cibo.
 
 <h6>Come si può non esserci?</h6>
