@@ -62,12 +62,12 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speaker"}
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform", text: "Diventa Speaker", lang: "it"}
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform", text: "Become Speaker", lang: "en"}
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform", text: "Organizza un workshop", lang: "it"}
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform", text: "Organise a workshop", lang: "en"}
- - {permalink: "/workshop/", text: "Workshop", lang: "it"}
- - {permalink: "/workshop/", text: "Workshops", lang: "en"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform", text: "Diventa Speaker", lang: "it"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform", text: "Become Speaker", lang: "en"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform", text: "Organizza un workshop", lang: "it"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform", text: "Organise a workshop", lang: "en"}
+# - {permalink: "/workshop/", text: "Workshop", lang: "it"}
+# - {permalink: "/workshop/", text: "Workshops", lang: "en"}
  - {permalink: "/logistics/", text: "Logistica", lang: "it"}
  - {permalink: "/logistics/", text: "Logistics", lang: "en"}
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "it"}
@@ -149,11 +149,11 @@ latestNewsTitle:
   en: "Latest News"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 0
-rockstarSpeakersTitle:
-    it: "Speaker"
-    en: "Speakers"
+#rockstarSpeakersImage: "rockstar-speakers.jpg"
+#rockstarSpeakersCount: 0
+#rockstarSpeakersTitle:
+#    it: "Speaker"
+#    en: "Speakers"
 #rockstarSpeakersButtonText:
   #it: "Guarda tutti gli speaker"
   #en: "All Speakers here"
