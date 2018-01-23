@@ -98,7 +98,17 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/105710421639258466519"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/ezamprogno/"}
-
+-
+  id: 4
+  name: "Matteo"
+  surname: "Beccati"
+  thumbnailUrl: matteo.jpg
+  subTeam: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/107891917634409052504"}
+    - {name: "twitter", link: "https://twitter.com/mbeccati"}
+    - {name: "github", link: "https://github.com/mbeccati"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/beccati"}
 #-
 #  id: 0
 #  name: "Marco"
