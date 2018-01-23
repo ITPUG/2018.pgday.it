@@ -79,7 +79,7 @@ navigationLinks:
 # - {permalink: "/pgbeer/", text: "PG_beer"}
 # - {permalink: "/staff/", text: "Staff"}
 # - {permalink: "/workshop/", text: "Workshop"}
-# - {permalink: "/team/", text: "Team"}
+ - {permalink: "/team/", text: "Team"}
  - {permalink: "/blog/", text: "Blog"}
 bottomNavigationLinks:
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
