@@ -40,7 +40,7 @@ Focus point:
 * Partecipanti: ne aspettiamo tanti ... davvero tanti!
 * Topic: più di 16 ore dedicate interamente a PostgreSQL, molti talk con un alto contenuto tecnico e momenti social da non perdere.
 * Quando: PGDay.IT 29 giugno 2018 - Workshop 28 giugno 2018.
-* Speaker: La [Call for Paper è aperta]((https://2018.pgday.it/it/blog/cfp)), e ci aspettiamo molte proposte interessanti. Una di queste potrebbe essere la vostra! Stiamo lavorando per assicurarci alcune “Rockstar” dell'ecosistema di PostgreSQL e sostenitori del mondo Open Source.
+* Speaker: La [Call for Paper è aperta](https://2018.pgday.it/it/blog/cfp), e ci aspettiamo molte proposte interessanti. Una di queste potrebbe essere la vostra! Stiamo lavorando per assicurarci alcune “Rockstar” dell'ecosistema di PostgreSQL e sostenitori del mondo Open Source.
 * Workshop: La [Call for Workshop è aperta](https://2018.pgday.it/it/blog/cfw). Quattro ore pratiche dedicate a topic specifici.
 * Location: Hotel Parchi del Garda è un'ottimale location grazie al fatto che si trova al centro si una zona carica di opportunità! A pochi passi dalle splendide rive del Lago di Garda, nel mezzo di rinomati parchi tematici e nel cuore di un territorio ricco di storia, tradizioni e buon cibo.
 
