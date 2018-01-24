@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Call for Papers è APERTA!"
+title:  "Call for Paper è APERTA!"
 date:   2018-01-18 04:00:00
 isStaticPost: false
 permalink: /it/blog/cfp
