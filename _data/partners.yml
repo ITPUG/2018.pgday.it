@@ -108,13 +108,13 @@
   elements:
     -
       name:
-        it: ""
-        en: ""
+        it: "Apogeo"
+        en: "Apogeo"
       description:
-        it: ""
-        en: ""
-      link: ""
-      imageUrl: ""
+        it: "Idee sulla tecnologia che cambia la nostra vita."
+        en: "Ideas about technology that changes our lives."
+      link: "http://www.apogeonline.com/"
+      imageUrl: "apogeo.png"
     -
       name:
         it: ""

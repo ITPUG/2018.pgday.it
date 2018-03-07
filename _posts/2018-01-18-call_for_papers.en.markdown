@@ -9,7 +9,7 @@ image: paper.jpg
 ref: cfp
 ---
 
-<h6>Deadline: February 28th, 2018</h6>
+###### [New deadline](http://2018.pgday.it/en/blog/cfp_postponed): Marzo 18, 2018
 
 [PGDay.IT 2018](https://2018.pgday.it/en/) will be held in [Lazise](https://2018.pgday.it/en/logistics/) on Lake Garda on June 29th. If you want to be part of this event as a speaker … please, knock and the door will be opened!
 
@@ -78,7 +78,7 @@ Our team has also identified a number of interesting topics to talk about. If yo
 
 ###### Please submit your proposal [here](https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform).
 
-__Deadline:__ February 28th, 2018
+__Deadline:__ February 28th, 2018 [postponed to March 18th](http://2018.pgday.it/en/blog/cfp_postponed)
 
 __Important:__ There is no guarantee that your proposal will be included in the event schedule.
 

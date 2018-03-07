@@ -11,7 +11,7 @@ redirect-from:
  - /blog/cfp
 ---
 
-<h6>Deadline: 28 febbraio 2018</h6>
+###### [Nuova deadline](http://2018.pgday.it/it/blog/cfp_postponed): 18 marzo 2018.
 
 [PGDay.IT 2018](https://2018.pgday.it/it/) si terrà a  [Lazise](https://2018.pgday.it/it/logistics/) sul Lago di Garda il 29 giugno 2018. Se vuoi essere parte di questa fantastica manifestazione come speaker … bussa e ti sarà aperto.
 
@@ -81,7 +81,7 @@ Il nostro team ha anche selezionato una serie di topic interessanti, ma se hai u
 
 ###### Per favore, inserisci la tua proposta [qui](https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform).
 
-__Deadline__ il 28 febbraio 2018
+__Deadline__ il 28 febbraio 2018 [posticipata al 18 marzo](http://2018.pgday.it/it/blog/cfp_postponed)
 
 __Importante:__ Non c'è alcuna garanzia che la tua proposta verrà inserita nello schedule della manifestazione.
 

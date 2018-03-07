@@ -9,7 +9,7 @@ image: cfw.jpg
 ref: cfw
 ---
 
-<h6>Deadline: February 28th, 2018</h6>
+###### [New deadline](http://2018.pgday.it/en/blog/cfp_postponed): Marzo 18, 2018
 
 We encourage and invite interested parties to submit a proposal for organising a Workshop.
 
@@ -43,9 +43,9 @@ First of all, we suggest to candidates to look at topics desired by the attendee
 
 ###### Please submit your workshop proposal [here](https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform)).
 
-__Deadline:__ February 28th, 2018
+__Deadline:__ February 28th, 2018  [postponed to March 18th](http://2018.pgday.it/en/blog/cfp_postponed)
 
-__Important:__ There is no guarantee that your proposal will be included in the workshps schedule.
+__Important:__ There is no guarantee that your proposal will be included in the workshops schedule.
 
 The Technical Committee will select the most interesting proposals received and will inform the candidates no later than March 15th, 2018.
 

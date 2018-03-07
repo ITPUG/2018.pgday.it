@@ -11,7 +11,7 @@ redirect-from:
  - /blog/cfw
 ---
 
-<h6>Deadline: 28 febbraio 2018</h6>
+###### [Nuova deadline](http://2018.pgday.it/it/blog/cfp_postponed): 18 marzo 2018.
 
 Incoraggiamo e invitiamo chiunque fosse interessato a presentare una proposta per l'organizzazione di un workshop.
 
@@ -45,7 +45,7 @@ Prima di tutto, suggeriamo ai candidati di dare uno sguardo ai topic richiesti d
 
 ###### Per favore, inserisci la tua proposta [qui](https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform).
 
-__Deadline__ il 28 febbraio 2018
+__Deadline__ il 28 febbraio 2018 [posticipata al 18 marzo](http://2018.pgday.it/it/blog/cfp_postponed)
 
 __Importante:__ Non c'è alcuna garanzia che la tua proposta verrà inserita nello schedule dei workshop.
 
