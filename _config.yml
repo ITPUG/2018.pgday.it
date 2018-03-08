@@ -243,7 +243,7 @@ ticketsOffers:
     it: ["Early ticket - PGDay.IT 2018", "29 giugno", "_______"]
     en: ["Early ticket - PGDay.IT 2018", "June 29th", "_______"]
   validFrom: "2018-01-22T10:00"
-  validThrough: "2018-03-15T23:59"
+  validThrough: "2018-03-31T23:59"
   disabled: false
  -
   name:
@@ -258,8 +258,8 @@ ticketsOffers:
   ticketContentList:
     it: ["Ordinario - PGDay.IT 2018", "29 giugno", "_______"]
     en: ["Ordinary - PGDay.IT 2018", "June 29th", "_______"]
-  validFrom: "2018-03-16T10:00"
-  validThrough: "2018-05-15T23:59"
+  validFrom: "2018-04-01T10:00"
+  validThrough: "2018-05-31T23:59"
   disabled: true
  -
   name:
@@ -275,7 +275,7 @@ ticketsOffers:
   ticketContentList:
     it: ["Last chance - PGDay.IT 2018", "29 giugno", "_______"]
     en: ["Last chance - PGDay.IT 2018", "June 29th", "_______"]
-  validFrom: "2018-05-16T00:00"
+  validFrom: "2018-06-01T00:00"
   validThrough: "2018-06-27T23:59"
   disabled: true
  -
