@@ -621,7 +621,7 @@ workshopTicketsOffers:
   name:
     it: "Workshop - Early bird"
     en: "Workshop - Early bird"
-  price: "45,00 + IVA/VAT"
+  price: "_______ + IVA/VAT"
   priceCurrency: "€"
   buyButtonLink: "https://www.eventbrite.it/e/biglietti-postgresql-workshop-37341834432"
   buyButtonText:
