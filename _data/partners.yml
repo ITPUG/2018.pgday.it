@@ -3,13 +3,13 @@
   elements:
     -
       name:
-        it: ""
-        en: ""
+        it: "Pivotal"
+        en: "Pivotal"
       description:
-        it: ""
-        en: ""
-      link: ""
-      imageUrl: ""
+        it: "Pivotal è il creatore di Pivotal Greenplum, la prima piattaforma al mondo di analisi dei dati con funzionalità complete e multi-cloud (MPP) basata sull’open source Greenplum Database e PostgreSQL. Pivotal Greenplum fornisce analisi complete e integrate su dati multi-strutturati. Grazie all’ottimizzatore di query basato su costi più avanzato, Pivotal Greenplum offre prestazioni analitiche senza confronti su enormi volumi di dati."
+        en: "Pivotal is the maker of Pivotal Greenplum, the world’s first fully-featured, multi-cloud, massively parallel processing (MPP) data analytics platform based on the open source Greenplum Database and PostgreSQL. Pivotal Greenplum provides comprehensive and integrated analytics on multi-structured data. Powered by the world’s most advanced cost-based query optimizer, Pivotal Greenplum delivers unmatched analytical query performance on massive volumes of data."
+      link: "https://pivotal.io/"
+      imageUrl: "Pivotal.png"
 -
   group: "Platinum Partners"
   elements:
