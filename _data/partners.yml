@@ -117,13 +117,13 @@
       imageUrl: "apogeo.png"
     -
       name:
-        it: ""
-        en: ""
+        it: "GRUSP"
+        en: "GRUSP"
       description:
-        it: ""
-        en: ""
-      link: ""
-      imageUrl: ""
+        it: "Nata nel 2003 come associazione dedicata al solo mondo del PHP il GrUSP è diventata il punto di riferimento in Italia per le buone pratiche nel mondo dello sviluppo web."
+        en: "Founded in 2003 as a dedicated PHP-only association, GrUSP has become the landmark for good practices in the web development world in Italy."
+      link: "http://www.grusp.org/it/"
+      imageUrl: "grusp.jpg"
     -
       name:
         it: ""
