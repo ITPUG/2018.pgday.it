@@ -126,13 +126,13 @@
       imageUrl: "grusp.jpg"
     -
       name:
-        it: ""
-        en: ""
+        it: "Python Italia APS"
+        en: "Python Italia APS"
       description:
-        it: ""
-        en: ""
-      link: ""
-      imageUrl: ""
+        it: "Python Italia APS è una associazione a livello nazionale che si propone di aiutare e supportare la diffusione e l'utilizzo del linguaggio di programmazione Python sul territorio italiano. L'attività della associazione si dirama in iniziative più o meno locali di varia dimensione e natura. Evento di punta: PyCon Italia, la conferenza ufficiale italia, ormai appuntamento fisso di centinaia e centinaia di sviluppatori python da tutto il mondo."
+        en: "Python Italia APS is a local association which aims to help and support the diffusion and use of the Python programming language. It runs many local initiatives of varying size and nature. Key event: PyCon Italia, the official Italian conference, now unmissable date for hundreds of python developers from all over the world."
+      link: "https://www.pycon.it/it/"
+      imageUrl: "Python_Italia.jpg"
 -
   group: "Patrocinato da"
   elements:
