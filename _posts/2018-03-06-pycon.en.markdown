@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python Italia APS: Media Partner PGDay.IT 2018"
+title:  "Python Italia: Media Partner PGDay.IT 2018"
 date:   2018-03-15 00:57:00
 isStaticPost: false
 permalink: /en/blog/pycon
