@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CFP e CFW si sono chiuse"
+title:  "CFP e CFW chiuse"
 date:   2018-03-19 00:57:00
 isStaticPost: false
 permalink: /it/blog/cfp_closed
