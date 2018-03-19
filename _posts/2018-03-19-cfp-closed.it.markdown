@@ -13,7 +13,7 @@ redirect-from:
 
 Ieri si è chiusa la Call for Paper e la Call for Workshop.
 
-È arrivato il momento per la nostra [Commissione tecnica] (https://2018.pgday.it/it/team/) di mettersi a lavoro.
+È arrivato il momento per la nostra [Commissione tecnica](https://2018.pgday.it/it/team/) di mettersi a lavoro.
 
 Il [programma del PGDay.IT 2018](https://2018.pgday.it/it/schedule/) sarà pubblicato il 31 marzo 2018.
 
