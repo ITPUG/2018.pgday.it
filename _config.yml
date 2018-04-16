@@ -13,9 +13,8 @@ exclude:
   - 'README.md'
   - 'LICENSE.txt'
   - 'CNAME'
-  # Temporary disabled pages
-  - 'hackathon.it.html'
-  - 'hackathon.en.html'
+  - 'workshop.en.html'
+  - 'workshop.it.html'
 
 # Site Settings
 title: "PGDay.IT 2018"
@@ -525,13 +524,19 @@ directionDetailsWideCards:
 #pgbeerPlaceCoordinates: "45.458838, 9.170756"
 #pgbeerMapCenterCoordinates: "45.458838, 9.170756"
 #pgbeerMapMobileCenterCoordinates: "45.458838, 9.170756"
+#enablePgbeer: true
 
 # Workshop
 workshopDetailsImage: "workshop-details.jpg"
 workshopTitle:
     it: "Workshop: informazioni generali."
     en: "Workshops: general information"
-workshopDescription:
+
+# Workshop About Block
+aboutWorkshopTitle:
+    it: "Workshop: come iscriversi?"
+    en: "Workshops: how to attend?"
+aboutWorkshopDescription:
     it: "
       <p>
         I workshop si svolgeranno nella stessa sede dove si svolgerà il PGDay.IT 2018
@@ -557,33 +562,35 @@ workshopDescription:
       <p>
        <b> IMPORTANT </ b>: Workshops will be confirmed upon reaching 3 subscription. If the course is not confirmed, any subscriptions will be refunded.
       </p>"
-#enablePgbeer: true
 
-# Workshop About Block
-aboutWorkshopTitle:
-    it: "Workshop: come iscriversi?"
-    en: "Workshops: how to attend?"
-aboutWorkshopDescription:
-    it: "I workshop si svolgeranno nella stessa sede dove si svolgerà il PGDay.IT 2018 (Centro Congressi Stelline,
-    Corso Magenta 61 - 20123 Milano (MI). L'iscrizione può essere effettuata attraverso Eventbrite.
-    Al momento dell'iscrizione verrà richiesto di selezionare la tematica di interesse. La giornata formativa comprende:
-      coffee break e pranzo oltre all'eventuale materiale didattico se previsto. I partecipanti dovranno essere automunioti di portatile.
-      IMPORTANTE: I CORSI VERRANNO CONFERMATI AL REGGIUNGIMENTO DI 3 ISCRITTI. NEL CASO IL CORSO NON VENGA CONFERMATO VERRANNO
-      RIMBORSATE LE EVENTUALI SOTTOSCRIZIONI PERVENUTE."
-    en: "_____"
+workshopsRows:
+ - image: w1.jpg
+   title:
+     it: "workshop 1 it"
+     en: "workshop 1 en"
+   details:
+     it: |
+       BLAHIT BLAHIT
+       BLAHIT
+       BLAHIT!
+     en: |
+       BLAHEN BLAHEN
+       BLAHEN
+       BLAHEN!
+ - image: w2.jpg
+   title:
+     it: "workshop 2 it"
+     en: "workshop 2 en"
+   details:
+     it: |
+       BLAH2IT BLAH2IT
+       BLAH2IT
+       BLAH2IT!
+     en: |
+       BLAH2EN BLAH2EN
+       BLAH2EN
+       BLAH2EN!
 
-workshopDetailsCards:
- - {lang: "it", title: "workshop 1", information: '_________ by __'}
- - {lang: "en", title: "workshop 1", information: '_________ by __'}
-
- - {lang: "it", title: "workshop 2", information: '_________ by __'}
- - {lang: "en", title: "workshop 2", information: '_________ by __'}
-
- - {lang: "it", title: "workshop 3", information: '_________ by __'}
- - {lang: "en", title: "workshop 3", information: '_________ by __'}
-
- - {lang: "it", title: "workshop 4", information: '_________ by __'}
- - {lang: "en", title: "workshop 4", information: '_________ by __'}
 #workshopDetailsWideCards:
 #  -
 #   lang: "it"
@@ -634,18 +641,18 @@ workshopTicketsOffers:
   validThrough: "2018-06-15T23:59"
   disabled: false
 
-  # Workshop Location Block
-  workshopBlockTitle: "Location"
-  workshopLocationName: "Hotel Parchi del Garda"
-  workshopLocationLink: "https://www.hotelparchidelgarda.it/it/meetingevents/spazi-eventi/"
-  workshopStreetAddress: "Via Brusà 16/17"
-  workshopAddressLocality: "Pacengo di Lazise"
-  workshopAddressLocalityRegion: "(VR)"
-  workshopPostalCode: "37017"
-  workshopAddressCountry: "Italy"
-  workshopStartTime: "2018-06-28T9:00"
-  workshopDoorTime: "09:00"
-  workshopEndTime: "2018-06-28T18:00"
-  workshopPlaceCoordinates: "45.4627319, 10.7171789"
-  mapCenterCoordinates: "45.4627319, 10.7171789"
-  mapMobileCenterCoordinates: "45.4627319, 10.7171789"
+# Workshop Location Block
+workshopBlockTitle: "Location"
+workshopLocationName: "Hotel Parchi del Garda"
+workshopLocationLink: "https://www.hotelparchidelgarda.it/it/meetingevents/spazi-eventi/"
+workshopStreetAddress: "Via Brusà 16/17"
+workshopAddressLocality: "Pacengo di Lazise"
+workshopAddressLocalityRegion: "(VR)"
+workshopPostalCode: "37017"
+workshopAddressCountry: "Italy"
+workshopStartTime: "2018-06-28T9:00"
+workshopDoorTime: "09:00"
+workshopEndTime: "2018-06-28T18:00"
+workshopPlaceCoordinate: "45.4627319, 10.7171789"
+mapCenterCoordinates: "45.4627319, 10.7171789"
+mapMobileCenterCoordinates: "45.4627319, 10.7171789"
