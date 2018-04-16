@@ -210,7 +210,7 @@ RHCSA, AWS CSA certified."
 #    - {name: "github", link: ""}
 -
   id: 11
-  name: "Iban"
+  name: "Ivan"
   surname: "Novick"
   company: "Pivotal"
   title: "Greenplum product manager"
