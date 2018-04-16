@@ -118,20 +118,6 @@ progetto PgRepUp per la replica ed upgrade di PostgreSQL usando PgLogical."
     - {name: "github", link: ""}
     - {name: "linkedin", link: ""}
 -
-  id: 6
-  name: "Lucio"
-  surname: "Grenzi"
-  company: "Freelance"
-  title: "Freelance"
-  bio:
-    it: "Attualmente lavora come sviluppatore di software e consulente, principalmente come Developer Front-End, durante gli anni ha avuto l'opportunità di costruire software in tutti i livelli, dal frontend, al backend e ai sistemi di database"
-    en: "Currently working as software developer and consultant,
-mostly as Front-end Developer, during the the years I had the opportunity to build software across all layers, from frontend, to the backend and database systems"
-  thumbnailUrl: lucio_grenzi.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://it.linkedin.com/pub/lucio-grenzi/27/2bb/2a"}
--
   id: 7
   name: "Marco"
   surname: "Nenciarini"
@@ -190,22 +176,6 @@ RHCSA, AWS CSA certified."
   social:
 #    - {name: "linkedin", link: ""}
     - {name: "twitter", link: "https://twitter.com/AFactotum"}
-#    - {name: "google-plus", link: ""}
-#    - {name: "github", link: ""}
--
-  id: 10
-  name: "Gianluca"
-  surname: "Rossetti"
-  company: "Pivotal"
-  title: "Data Services Lead"
-  bio:
-    it: "46 anni, da più di 15 nel settore analytics. Conosco molto bene molte tecnologie, tra cui Oracle e DB2, anche se da 5 anni lavoro su Greenplum. Per conto di Pivotal gestisco il team dei servizi professionali in EMEA."
-    en: "46 anni, da più di 15 nel settore analytics. Conosco molto bene molte tecnologie, tra cui Oracle e DB2, anche se da 5 anni lavoro su Greenplum. Per conto di Pivotal gestisco il team dei servizi professionali in EMEA."
-  thumbnailUrl: GianlucaRossetti.jpeg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.li...lucarossetti/"}
-#    - {name: "twitter", link: ""}
 #    - {name: "google-plus", link: ""}
 #    - {name: "github", link: ""}
 -
@@ -270,24 +240,6 @@ He is currently working at Youse, a startup that aims to change the insurance ma
   social:
 #    - {name: "linkedin", link: ""}
     - {name: "twitter", link: "https://twitter.com/mikkywright"}
-#    - {name: "google-plus", link: ""}
-#    - {name: "github", link: ""}
--
-  id: 14
-  name: "Cyrille"
-  surname: "Lintz"
-  company: "Pivotal"
-  title: "Advisory Solutions Architect"
-  bio:
-    it: "Cyrille is a data specialist . He spent 13 years in a French SI (Unilog - Logica - CGI) as a data integration expert (around ETL tools like Informatica, Talend and  Datastage). Then, in 2011, he moved to Greenplum as a data architect.
-He helps the Greenplum customers to implement and tune their Greenplum environment."
-    en: "Cyrille is a data specialist . He spent 13 years in a French SI (Unilog - Logica - CGI) as a data integration expert (around ETL tools like Informatica, Talend and  Datastage). Then, in 2011, he moved to Greenplum as a data architect.
-He helps the Greenplum customers to implement and tune their Greenplum environment."
-  thumbnailUrl: Cyrille.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/cyrille-lintz-05b81a2/"}
-#    - {name: "twitter", link: ""}
 #    - {name: "google-plus", link: ""}
 #    - {name: "github", link: ""}
 -
@@ -371,19 +323,3 @@ He helps the Greenplum customers to implement and tune their Greenplum environme
     - {name: "twitter", link: "https://twitter.com/mnencia"}
     - {name: "github", link: "https://github.com/mnencia"}
     - {name: "linkedin", link: "https://it.linkedin.com/in/mnencia"}
--
-  id: 100
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio:
-    it: ""
-    en: ""
-  thumbnailUrl: anonimo.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "google-plus", link: ""}
-    - {name: "github", link: ""}
