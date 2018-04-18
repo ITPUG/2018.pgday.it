@@ -3,6 +3,9 @@
     <div class="content-wrapper">
         <div class="col-md-8 col-md-offset-2">
             <h3>{{ site.aboutWorkshopTitle[page.lang] }}</h3>
+            <p>
+              {{ site.aboutWorkshopDescription[page.lang] }}
+            </p>
             {% for row in site.workshopsRows %}
             {% assign check = forloop.index0 | modulo:2 %}
             <div class="workshops-row {% if check == 0 %}float-left{% else %}float-right{% endif %} col-md-12">
