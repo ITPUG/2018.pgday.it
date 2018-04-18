@@ -241,7 +241,7 @@ ticketsOffers:
     en: ["Early ticket - PGDay.IT 2018", "June 29th", "_______"]
   validFrom: "2018-01-22T10:00"
   validThrough: "2018-04-06T23:59"
-  disabled: false
+  disabled: true
  -
   name:
     it: "Ordinario"
@@ -257,7 +257,7 @@ ticketsOffers:
     en: ["Ordinary - PGDay.IT 2018", "June 29th", "_______"]
   validFrom: "2018-04-07T10:00"
   validThrough: "2018-05-31T23:59"
-  disabled: true
+  disabled: false
  -
   name:
     it: "Last chance"
@@ -566,10 +566,10 @@ workshopsRows:
  - image: rubens_souza.jpg
    title:
      it: "Gestire PostgreSQL con Ansible - Rubens Souza"
-     en: "Gestire PostgreSQL con Ansible - Rubens Souza"
+     en: "Managing PostgreSQL with Ansible - Rubens Souza"
    subtitle:
      it: 28 giugno 2018 - ore
-     en: 28 giugno 2018 - ore
+     en: June 28th, 2018 - ore
    details:
      it: |
        Ansible è un potente strumento di automazione scritto in Python. Con i suoi moduli già creati per PostgreSQL, possiamo gestire facilmente il database open source più avanzato, assicurandoci che la sua configurazione sia esatta in ogni dettaglio e ripetibile tutte le volte che sia necessario.
@@ -586,7 +586,10 @@ workshopsRows:
  - image: leonardo_workshop.jpg
    title:
      it: "Go e PostgreSQL: in e out - Leonardo Cecchi"
-     en: "Go e PostgreSQL: in e out - Leonardo Cecchi"
+     en: "Go and PostgreSQL: in & out - Leonardo Cecchi"
+   subtitle:
+     it: 28 giugno 2018 - ore
+     en: June 28th, 2018 - ore
    details:
      it: |
        In questo workshop parleremo di come usare il meglio di PostgreSQL e di Go insieme.
@@ -597,17 +600,24 @@ workshopsRows:
 
        Durante lo workshop realizzeremo un semplice backend che offre servizi web consultando un database PostgreSQL.
      en: |
-       In questo workshop parleremo di come usare il meglio di PostgreSQL e di Go insieme.
-       Useremo il pacchetto "database/sql" per connetterci al database ed il pacchetto "lib/pq" che implementa in Go il protocollo usato da PostgreSQL. Parleremo del connection pooler implementato nel pacchetto nativo di Go e lo vedremo all'opera.
+       In this workshop we will talk about the best features of PostgreSQL and the best
+       features of Go. We will use the "database/sql" package to create a connnection to
+       PostgreSQL and the "lib/pq" package, which implements in Go the PostgreSQL binary
+       protocol.
 
-       Parleremo di "pressly/goose" per gestire le migrazioni di schema.
-       Useremo anche la libreria "jmoiron/sqlx" che ci permette di interrogare PostgreSQL in modo molto comodo e di perché, spesso, non serve un ORM.
+       We will talk about the native Go connection pooler, about "pressly/goose" to manage
+       migrations and about "jmoiron/sqlx" to use PostgreSQL more comfortably and why
+       usually we don't need an ORM.
 
-       Durante lo workshop realizzeremo un semplice backend che offre servizi web consultando un database PostgreSQL.
+       At the end of the workshop we will have a simple web server exposing a REST API
+       based on PostgreSQL.
  - image: mladen_workshop.jpg
    title:
      it: "Explaining your EXPLAIN, a beginners guide - Mladen	Marinović"
      en: "Explaining your EXPLAIN, a beginners guide - Mladen	Marinović"
+   subtitle:
+     it: 28 giugno 2018 - ore
+     en: June 28th, 2018 - ore
    details:
      it: |
        When you first start running your queries it looks like the database is doing some magic and returning your results very fast. After you gain some confidence in writing more complex queries you see that the magic sometimes doesn’t work. Why does the database fail to do its job? To see the reasons why your queries run slowly you can use the EXPLAIN command which devises a detailed query plan of your query. After reading it, you should figure out exactly what is going on with the query, and easily find a way to fix it.
@@ -624,7 +634,10 @@ workshopsRows:
  - image: jonathan_workshp.jpg
    title:
      it: "Disaster Recovery con PostgreSQL - Jonathan Battiato"
-     en: "Disaster Recovery con PostgreSQL - Jonathan Battiato"
+     en: "Disaster Recovery with PostgreSQL - Jonathan Battiato"
+   subtitle:
+     it: 28 giugno 2018 - ore
+     en: June 28th, 2018 - ore
    details:
      it: |
        Un buon piano di disaster recovery è un elemento fondamentale per la continuità operativa dei nostri servizi.
@@ -638,6 +651,9 @@ workshopsRows:
    title:
      it: "PostgreSQL Persistence - Gianni Ciolli"
      en: "PostgreSQL Persistence - Gianni Ciolli"
+   subtitle:
+     it: 28 giugno 2018 - ore
+     en: June 28th, 2018 - ore
    details:
      it: |
        In this workshop we demonstrate several aspects of data persistence in PostgreSQL, in terms of architecture, database configuration and application behaviour.
@@ -647,6 +663,9 @@ workshopsRows:
    title:
      it: "Web Cartography Made Easy - Daniele Simoncini"
      en: "Web Cartography Made Easy - Daniele Simoncini"
+   subtitle:
+     it: 28 giugno 2018 - ore
+     en: June 28th, 2018 - ore
    details:
      it: |
        Analizzando le reali possibilità del GIS Open Source, durante le quattro ore previste vedremo in modo pratico come realizzare un connettore web, basato su PHP e capace di generare flussi GEOJson, per la pubblicazione del dato cartografico e un viewer online per la consultazione e interrogazione dei dati territoriali.
