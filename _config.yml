@@ -565,8 +565,8 @@ aboutWorkshopDescription:
 workshopsRows:
  - image: rubens_souza.jpg
    title:
-     it: "Gestendo PostgreSQL con Ansible - Rubens Souza"
-     en: "Gestendo PostgreSQL con Ansible - Rubens Souza"
+     it: "Gestire PostgreSQL con Ansible - Rubens Souza"
+     en: "Gestire PostgreSQL con Ansible - Rubens Souza"
    subtitle:
      it: 28 giugno 2018 - ore
      en: 28 giugno 2018 - ore
@@ -694,9 +694,9 @@ workshopTicketsOffers:
   name:
     it: "Workshop - Early bird"
     en: "Workshop - Early bird"
-  price: "_______ + IVA/VAT"
+  price: "35,00 + IVA/VAT"
   priceCurrency: "€"
-  buyButtonLink: "https://www.eventbrite.it/e/biglietti-postgresql-workshop-37341834432"
+  buyButtonLink: "https://www.eventbee.com/v/itpug2018workshop#/tickets"
   buyButtonText:
     it: "Acquistalo adesso"
     en: "Get it now"
