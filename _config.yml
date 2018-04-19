@@ -552,8 +552,7 @@ aboutWorkshopDescription:
     en: "
       <p>
       Workshop will take place in the same venue of PGDay.IT 2018 (Hotel Parchi del Garda, Via Brusà 16/17 - Pacengo di Lazise).
-      You have to subscribe through Eventbrite. On the registration page, you have to select the topic of interest. The workshop fee does NOT include:
-             coffee break, lunch, and access to PGDay.IT 2018. <br/>
+      You have to subscribe through Eventbrite. On the registration page, you have to select the topic of interest. The workshop fee does NOT include: coffee break, lunch, and access to PGDay.IT 2018. <br/>
       Attendees has to bring their own computer.
       The workshop fee does not include: lunch as well and PGDay.IT 2018 fee.
       </p>
@@ -568,8 +567,8 @@ workshopsRows:
      it: "Gestire PostgreSQL con Ansible - Rubens Souza"
      en: "Managing PostgreSQL with Ansible - Rubens Souza"
    subtitle:
-     it: 28 giugno 2018 - ore
-     en: June 28th, 2018 - ore
+     it: 28 giugno 2018 - ore 14,00
+     en: June 28th, 2018 - time 2 pm
    details:
      it: |
        Ansible è un potente strumento di automazione scritto in Python. Con i suoi moduli già creati per PostgreSQL, possiamo gestire facilmente il database open source più avanzato, assicurandoci che la sua configurazione sia esatta in ogni dettaglio e ripetibile tutte le volte che sia necessario.
@@ -578,18 +577,25 @@ workshopsRows:
 
        Per un'esperienza più pratica, i partecipanti al workshop devono avere l'applicazione Vagrant installata sui loro laptop, rendendo così possibile creare macchine virtuali in cui sarà possibile testare il playbook Ansible. Tuttavia, questo non è obbligatorio.
      en: |
-       Ansible è un potente strumento di automazione scritto in Python. Con i suoi moduli già creati per PostgreSQL, possiamo gestire facilmente il database open source più avanzato, assicurandoci che la sua configurazione sia esatta in ogni dettaglio e ripetibile tutte le volte che sia necessario.
+       Ansible is a powerful automation tool written in Python. With its modules already built
+       for PostgreSQL, we can easily manage the most advanced open source database, making sure
+       its configuration is exact in every detail and repeatable as many times as it is needed.
 
-       In questo workshop capiremo come funziona Ansible, vedremo alcuni dei suoi principali moduli per l'amministrazione di sistemi/cloud e impareremo come può essere utilizzato per orchestrare le deployment di PostgreSQL, gestendo tutte le parti del processo facilmente. Come caso d'uso, struttureremo un playbook per l'installazione di un master PostgreSQL e uno standby su replica streaming.
+       In this workshop we will understand how Ansible works, see some of its main modules for
+       system/cloud administration, and learn how it can be used to orchestrate PostgreSQL
+       deployments, managing all parts of the process at ease. As an use-case example, we will
+       write a playbook to install a PostgreSQL master and a standby in streaming replication.
 
-       Per un'esperienza più pratica, i partecipanti al workshop devono avere l'applicazione Vagrant installata sui loro laptop, rendendo così possibile creare macchine virtuali in cui sarà possibile testare il playbook Ansible. Tuttavia, questo non è obbligatorio.
+       For a more hands-on experience, the workshop participants should have Vagrant installed on
+       their laptops, which will allow the creation of virtual machines to test the Ansible
+       playbooks.
  - image: leonardo_workshop.jpg
    title:
      it: "Go e PostgreSQL: in e out - Leonardo Cecchi"
      en: "Go and PostgreSQL: in & out - Leonardo Cecchi"
    subtitle:
-     it: 28 giugno 2018 - ore
-     en: June 28th, 2018 - ore
+     it: 28 giugno 2018 - ore 14,00
+     en: June 28th, 2018 - time 2 pm
    details:
      it: |
        In questo workshop parleremo di come usare il meglio di PostgreSQL e di Go insieme.
@@ -616,15 +622,11 @@ workshopsRows:
      it: "Explaining your EXPLAIN, a beginners guide - Mladen	Marinović"
      en: "Explaining your EXPLAIN, a beginners guide - Mladen	Marinović"
    subtitle:
-     it: 28 giugno 2018 - ore
-     en: June 28th, 2018 - ore
+     it: 28 giugno 2018 - ore 9,00
+     en: June 28th, 2018 - time 9,00
    details:
      it: |
-       When you first start running your queries it looks like the database is doing some magic and returning your results very fast. After you gain some confidence in writing more complex queries you see that the magic sometimes doesn’t work. Why does the database fail to do its job? To see the reasons why your queries run slowly you can use the EXPLAIN command which devises a detailed query plan of your query. After reading it, you should figure out exactly what is going on with the query, and easily find a way to fix it.
-
-       In this workshop, we will start with simple queries and joins, and make our way up to subselects, CTE-s and stored procedures. To see all this in action we will use the textual representation of the EXPLAIN and the help of pgAdminIII/4 and other available tools.
-
-       If time allows it, we can try to fix some problematic queries attendees bring from home 😎
+       Quando inizi a eseguire le tue query, sembra che il database stia facendo un po 'di magia e restituisca i risultati molto velocemente. Dopo aver acquisito una certa sicurezza nello scrivere query più complesse, vedi che la magia a volte non funziona. Perché il database non riesce a fare il suo lavoro? Per visualizzare i motivi per cui le query vengono eseguite lentamente, è possibile utilizzare il comando EXPLAIN che elabora un piano di query dettagliato della query. Dopo averlo letto, dovresti capire esattamente cosa sta succedendo con la query e trovare facilmente un modo per risolverlo. In questo workshop, inizieremo con semplici query e join e ci avvicineremo alle sottosezioni, alle CTE e alle stored procedure. Per vedere tutto questo in azione useremo la rappresentazione testuale di EXPLAIN e l'aiuto di pgAdminIII / 4 e altri strumenti disponibili. Se il tempo lo consente, possiamo provare a risolvere alcune query problematiche che i partecipanti portano da casa 😎
      en: |
        When you first start running your queries it looks like the database is doing some magic and returning your results very fast. After you gain some confidence in writing more complex queries you see that the magic sometimes doesn’t work. Why does the database fail to do its job? To see the reasons why your queries run slowly you can use the EXPLAIN command which devises a detailed query plan of your query. After reading it, you should figure out exactly what is going on with the query, and easily find a way to fix it.
 
@@ -636,46 +638,41 @@ workshopsRows:
      it: "Disaster Recovery con PostgreSQL - Jonathan Battiato"
      en: "Disaster Recovery with PostgreSQL - Jonathan Battiato"
    subtitle:
-     it: 28 giugno 2018 - ore
-     en: June 28th, 2018 - ore
+     it: 28 giugno 2018 - ore 9,00
+     en: June 28th, 2018 - time 9am
    details:
      it: |
        Un buon piano di disaster recovery è un elemento fondamentale per la continuità operativa dei nostri servizi.
 
        Durante lo workshop verranno affrontati argomenti base di continuità operativa e come realizzarla con le funzionalità native di PostgreSQL, attraverso un piano di disaster recovery nel quale saranno protagonisti i backup e l'archiviazione continua dei WAL.
      en: |
-       Un buon piano di disaster recovery è un elemento fondamentale per la continuità operativa dei nostri servizi.
-
-       Durante lo workshop verranno affrontati argomenti base di continuità operativa e come realizzarla con le funzionalità native di PostgreSQL, attraverso un piano di disaster recovery nel quale saranno protagonisti i backup e l'archiviazione continua dei WAL.
+       A good disaster recovery plan is a fundamental element for the operational continuity of our services. During the workshop, we will deal with basic business continuity topics and how to implement it with the native PostgreSQL functionalities, through a disaster recovery plan in which the backups and continuous archiving of WAL will be protagonists.
  - image: gianni_workshop.jpg
    title:
      it: "PostgreSQL Persistence - Gianni Ciolli"
      en: "PostgreSQL Persistence - Gianni Ciolli"
    subtitle:
-     it: 28 giugno 2018 - ore
-     en: June 28th, 2018 - ore
+     it: 28 giugno 2018 - ore 14,00
+     en: June 28th, 2018 - time 2 pm
    details:
      it: |
-       In this workshop we demonstrate several aspects of data persistence in PostgreSQL, in terms of architecture, database configuration and application behaviour.
+       In questo workshop, dimostriamo diversi aspetti della persistenza dei dati in PostgreSQL, in termini di architettura, configurazione del database e comportamento dell'applicazione.
      en: |
-       In this workshop we demonstrate several aspects of data persistence in PostgreSQL, in terms of architecture, database configuration and application behaviour.
+       In this workshop, we demonstrate several aspects of data persistence in PostgreSQL, in terms of architecture, database configuration and application behavior.
  - image: daniele_workshop.jpg
    title:
      it: "Web Cartography Made Easy - Daniele Simoncini"
      en: "Web Cartography Made Easy - Daniele Simoncini"
    subtitle:
-     it: 28 giugno 2018 - ore
-     en: June 28th, 2018 - ore
+     it: 28 giugno 2018 - ore 9,00
+     en: June 28th, 2018 - time 9am
    details:
      it: |
        Analizzando le reali possibilità del GIS Open Source, durante le quattro ore previste vedremo in modo pratico come realizzare un connettore web, basato su PHP e capace di generare flussi GEOJson, per la pubblicazione del dato cartografico e un viewer online per la consultazione e interrogazione dei dati territoriali.
 
        In sede di workshop, con dati reali alla mano forniti dal docente, verranno trattate non solo le tecnologie e i linguaggi ma anche i protocolli e i formati di trasporto dell'informazione geografica.
      en: |
-       Analizzando le reali possibilità del GIS Open Source, durante le quattro ore previste vedremo in modo pratico come realizzare un connettore web, basato su PHP e capace di generare flussi GEOJson, per la pubblicazione del dato cartografico e un viewer online per la consultazione e interrogazione dei dati territoriali.
-
-       In sede di workshop, con dati reali alla mano forniti dal docente, verranno trattate non solo le tecnologie e i linguaggi ma anche i protocolli e i formati di trasporto dell'informazione geografica.
-
+       Analyzing the real possibilities of the Open Source GIS, during the four hours envisaged we will see how to create a web connector, based on PHP and capable of generating GEOJson flows, for the publication of the cartographic data and an online viewer for consulting and querying spatial data. In the workshop, with real data to the hand provided by the teacher, will be treated not only the technologies and languages but also the protocols and formats of transport of geographic information.
 #workshopDetailsWideCards:
 #  -
 #   lang: "it"
