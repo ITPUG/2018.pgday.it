@@ -45,7 +45,7 @@ layout: compress
     }
     </script>
     <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
-    {% if page.ref == 'index' or page.ref == 'pgbeer' %}
+    {% if page.ref == 'index' or page.ref == 'pgbeer' or page.ref == 'workshop' %}
     <script>
         if ($(window).width() > 767) {
             document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyDbarslr6cpeIvuTDBzmGJlDtXrcimfNKA"><\/script>')
@@ -125,6 +125,21 @@ layout: compress
                 eventPlaceCoordinates = '{{ site.pgbeerPlaceCoordinates | replace:' ','' }}',
                 centerMapCoordinates = '{{ site.pgbeerMapCenterCoordinates | replace:' ','' }}',
                 mobileCenterMapCoordinates = '{{ site.pgbeerMapMobileCenterCoordinates | replace:' ','' }}',
+                icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
+            }
+
+        {% elsif page.ref == 'workshop' %}
+            if ($(window).width() > 767) {
+                var googleMaps = 'workshop',
+                    eventPlace = new google.maps.LatLng({{ site.workshopPlaceCoordinates }}),
+                    centerMap = new google.maps.LatLng({{ site.workshopMapCenterCoordinates }}),
+                    mobileCenterMap = new google.maps.LatLng({{ site.workshopMapMobileCenterCoordinates }}),
+                    icon = '{{ site.baseurl }}/img/other/map-marker.svg';
+            } else {
+               var staticGoogleMaps = true,
+                eventPlaceCoordinates = '{{ site.workshopPlaceCoordinates | replace:' ','' }}',
+                centerMapCoordinates = '{{ site.workshopMapCenterCoordinates | replace:' ','' }}',
+                mobileCenterMapCoordinates = '{{ site.workshopMapMobileCenterCoordinates | replace:' ','' }}',
                 icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
             }
 
