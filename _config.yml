@@ -711,7 +711,7 @@ workshopTicketsOffers:
   name:
     it: "Workshop - Early bird"
     en: "Workshop - Early bird"
-  price: "35,00 + IVA/VAT"
+  price: "35,00"
   priceCurrency: "€"
   buyButtonLink: "https://www.eventbee.com/v/itpug2018workshop#/tickets"
   buyButtonText:
