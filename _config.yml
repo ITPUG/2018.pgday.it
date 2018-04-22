@@ -570,7 +570,7 @@ workshopsRows:
      en: "Explaining your EXPLAIN, a beginners guide"
    author:
      name: "Mladen Marinović"
-     id: 2
+     speakerId: 2
    subtitle:
      it: 28 giugno 2018 - ore 9,00
      en: June 28th, 2018 - time 9am
