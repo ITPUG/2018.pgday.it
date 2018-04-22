@@ -566,8 +566,11 @@ aboutWorkshopDescription:
 workshopsRows:
  - image: mladen_workshop_verticale.jpg
    title:
-     it: "Explaining your EXPLAIN, a beginners guide - Mladen	Marinović"
-     en: "Explaining your EXPLAIN, a beginners guide - Mladen	Marinović"
+     it: "Explaining your EXPLAIN, a beginners guide"
+     en: "Explaining your EXPLAIN, a beginners guide"
+   author:
+     name: "Mladen Marinović"
+     id: 2
    subtitle:
      it: 28 giugno 2018 - ore 9,00
      en: June 28th, 2018 - time 9am
@@ -582,8 +585,11 @@ workshopsRows:
        If time allows it, we can try to fix some problematic queries attendees bring from home 😎
  - image: jonathan_workshp_verticale.jpg
    title:
-     it: "Disaster Recovery con PostgreSQL - Jonathan Battiato"
-     en: "Disaster Recovery with PostgreSQL - Jonathan Battiato"
+     it: "Disaster Recovery con PostgreSQL"
+     en: "Disaster Recovery with PostgreSQL"
+   author:
+     name: "Jonathan Battiato"
+     speakerId: 0
    subtitle:
      it: 28 giugno 2018 - ore 9,00
      en: June 28th, 2018 - time 9am
@@ -596,8 +602,11 @@ workshopsRows:
        A good disaster recovery plan is a fundamental element for the operational continuity of our services. During the workshop, we will deal with basic business continuity topics and how to implement it with the native PostgreSQL functionalities, through a disaster recovery plan in which the backups and continuous archiving of WAL will be protagonists.
  - image: daniele_workshop_verticale.jpg
    title:
-     it: "Web Cartography Made Easy - Daniele Simoncini"
-     en: "Web Cartography Made Easy - Daniele Simoncini"
+     it: "Web Cartography Made Easy"
+     en: "Web Cartography Made Easy"
+   author:
+     name: "Daniele Simoncini"
+     speakerId: 0
    subtitle:
      it: 28 giugno 2018 - ore 9,00
      en: June 28th, 2018 - time 9am
@@ -610,8 +619,11 @@ workshopsRows:
        Analyzing the real possibilities of the Open Source GIS, during the four hours envisaged we will see how to create a web connector, based on PHP and capable of generating GEOJson flows, for the publication of the cartographic data and an online viewer for consulting and querying spatial data. In the workshop, with real data to the hand provided by the teacher, will be treated not only the technologies and languages but also the protocols and formats of transport of geographic information.
  - image: rubens_souza_verticale.jpg
    title:
-     it: "Gestire PostgreSQL con Ansible - Rubens Souza"
-     en: "Managing PostgreSQL with Ansible - Rubens Souza"
+     it: "Gestire PostgreSQL con Ansible"
+     en: "Managing PostgreSQL with Ansible"
+   author:
+     name: "Rubens Souza"
+     speakerId: 0
    subtitle:
      it: 28 giugno 2018 - ore 14,00
      en: June 28th, 2018 - time 2 pm
@@ -637,8 +649,11 @@ workshopsRows:
        playbooks.
  - image: leonardo_workshop_verticale.jpg
    title:
-     it: "Go e PostgreSQL: in e out - Leonardo Cecchi"
-     en: "Go and PostgreSQL: in & out - Leonardo Cecchi"
+     it: "Go e PostgreSQL: in e out"
+     en: "Go and PostgreSQL: in & out"
+   author:
+     name: "Leonardo Cecchi"
+     speakerId: 0
    subtitle:
      it: 28 giugno 2018 - ore 14,00
      en: June 28th, 2018 - time 2 pm
@@ -665,8 +680,11 @@ workshopsRows:
        based on PostgreSQL.
  - image: gianni_workshop_verticale.jpg
    title:
-     it: "PostgreSQL Persistence - Gianni Ciolli"
-     en: "PostgreSQL Persistence - Gianni Ciolli"
+     it: "PostgreSQL Persistence"
+     en: "PostgreSQL Persistence"
+   author:
+     name: "Gianni Ciolli"
+     speakerId: 1
    subtitle:
      it: 28 giugno 2018 - ore 14,00
      en: June 28th, 2018 - time 2 pm
