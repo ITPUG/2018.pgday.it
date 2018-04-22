@@ -711,8 +711,8 @@ workshopTicketsInfo:
 workshopTicketsOffers:
  -
   name:
-    it: "Workshop - Early bird"
-    en: "Workshop - Early bird"
+    it: "Workshop - Ordinary ticket"
+    en: "Workshop - Ordinary ticket"
   price: "35,00"
   priceCurrency: "€"
   buyButtonLink: "https://www.eventbee.com/v/itpug2018workshop#/tickets"
@@ -720,8 +720,8 @@ workshopTicketsOffers:
     it: "Acquistalo adesso"
     en: "Get it now"
   workshopTicketContentList:
-    it: ["Workshop - PGDay.IT 2018", "28 giugno", "Lazise"]
-    en: ["Workshop - PGDay.IT 2018", "June 28th", "Lazise"]
+    it: ["Workshop Day", "28 giugno", "Lazise"]
+    en: ["Workshop Day", "June 28th", "Lazise"]
   validFrom: "2018-01-22T10:00"
   validThrough: "2018-06-15T23:59"
   disabled: false
