@@ -589,7 +589,7 @@ workshopsRows:
      en: "Disaster Recovery with PostgreSQL"
    author:
      name: "Jonathan Battiato"
-     speakerId: 0
+     speakerId: 32
    subtitle:
      it: 28 giugno 2018 - ore 9,00
      en: June 28th, 2018 - time 9am
@@ -606,7 +606,7 @@ workshopsRows:
      en: "Web Cartography Made Easy"
    author:
      name: "Daniele Simoncini"
-     speakerId: 0
+     speakerId: 34
    subtitle:
      it: 28 giugno 2018 - ore 9,00
      en: June 28th, 2018 - time 9am
@@ -623,7 +623,7 @@ workshopsRows:
      en: "Managing PostgreSQL with Ansible"
    author:
      name: "Rubens Souza"
-     speakerId: 0
+     speakerId: 33
    subtitle:
      it: 28 giugno 2018 - ore 14,00
      en: June 28th, 2018 - time 2 pm
@@ -653,7 +653,7 @@ workshopsRows:
      en: "Go and PostgreSQL: in & out"
    author:
      name: "Leonardo Cecchi"
-     speakerId: 0
+     speakerId: 31
    subtitle:
      it: 28 giugno 2018 - ore 14,00
      en: June 28th, 2018 - time 2 pm
