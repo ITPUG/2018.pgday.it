@@ -738,9 +738,9 @@ workshopAddressCountry: "Italy"
 workshopStartTime: "2018-06-28T9:00"
 workshopDoorTime: "09:00"
 workshopEndTime: "2018-06-28T18:00"
-workshopPlaceCoordinate: "45.4627319, 10.7171789"
-mapCenterCoordinates: "45.4627319, 10.7171789"
-mapMobileCenterCoordinates: "45.4627319, 10.7171789"
+workshopPlaceCoordinates: "45.4627319, 10.7171789"
+workshopMapCenterCoordinates: "45.4627319, 10.7171789"
+workshopMapMobileCenterCoordinates: "45.4627319, 10.7171789"
 
 # Linux
 linuxDetailsImage: "linux-details.jpg"
