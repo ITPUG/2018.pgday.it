@@ -543,7 +543,7 @@ aboutWorkshopDescription:
         (Hotel Parchi del Garda, Via Brusà 16/17 - Pacengo di Lazise). L'iscrizione può
         essere effettuata attraverso Eventbrite. Al momento dell'iscrizione verrà richiesto
         di selezionare il workshop di interesse.<br/>
-        I partecipanti dovranno essere automunioti di portatile.
+        I partecipanti dovranno essere automuniti di portatile.
         La fee di registrazone ai workshop NON include: coffee break, pranzo e accesso al PGDay.IT 2018.
       </p>
 
@@ -772,20 +772,25 @@ introductionLinuxTitle:
     en: "Linux Professional Institute"
 introductionLinuxDescription:
     it: "
+
+      <p>
+        LPI è lo standard di certificazione globale e l'organizzazione di supporto alla carriera per professionisti open source.<br/>
+      <p>
+        Con oltre 500.000 esami consegnati, è il primo ed il più grande ente di certificazione open source Linux e open source al mondo. LPI ha professionisti certificati in oltre 180 paesi, offre esami in 9 lingue ed ha oltre 400 partner di formazione.<br/>
+      <p>
+        Il loro scopo è quello di offrire opportunità economiche e creative per tutti, rendendo la conoscenza e la certificazione delle competenze open source universalmente accessibili.<br/>
       <p>
         Linux Professional Institute - LPI - è un'organizzazione senza scopo di lucro.<br/>
-      <p>
-        LPI è lo standard di certificazione globale e l'organizzazione di supporto alla carriera per professionisti open source. Con oltre 500.000 esami consegnati, è il primo e il più grande ente di certificazione open source Linux e open source al mondo. LPI ha professionisti certificati in oltre 180 paesi, offre esami in 9 lingue e oltre 400 partner di formazione.<br/>
-      <p>
-        Il nostro scopo è quello di offrire opportunità economiche e creative per tutti, rendendo la conoscenza e la certificazione delle competenze open source universalmente accessibili.<br/>
       </p>"
     en: "
       <p>
+        LPI is the global certification standard and career support organization for open source professionals.<br/>
+      <p>
+        With more than 500,000 exams delivered, it's the world’s first and largest vendor-neutral Linux and open source certification body. LPI has certified professionals in over 180 countries, delivers exams in 9 languages, and has over 400 training partners.<br/>
+      <p>
+        Their purpose is to enable economic and creative opportunities for everybody by making open source knowledge and skills certification universally accessible.<br/>
+      <p>
         Linux Professional Institute - LPI - is a non profit organization.
-      <p>
-        LPI is the global certification standard and career support organization for open source professionals. With more than 500,000 exams delivered, it's the world’s first and largest vendor-neutral Linux and open source certification body. LPI has certified professionals in over 180 countries, delivers exams in 9 languages, and has over 400 training partners.<br/>
-      <p>
-        Our purpose is to enable economic and creative opportunities for everybody by making open source knowledge and skills certification universally accessible.<br/>
       </p>"
 
 # Linux About Block
@@ -799,8 +804,6 @@ aboutLinuxDescription:
       <p>
         Inoltre sarà possibile sostenere gratuitamente la Beta dell’esame LPIC-1, aggiornato alla versione 5.0<br/>
       <p>
-        I partecipanti dovranno essere automunioti di portatile.<br/>
-      <p>
         La registrazone al LPI NON include:<br/>
       <p>
         coffee break, pranzo, accesso al PGDay.IT 2018 -29 giugno- o ai Workshop -28 giugno-.<br/>
@@ -812,8 +815,6 @@ aboutLinuxDescription:
         In addition they will be able to give the LPIC-1 exam Beta for free, updated to version 5.0<br/>
       <p>
         Participants will need to be portable automataoti.<br/>
-      <p>
-        Attendees has to bring their own computer.<br/>
       <p>
         The registration does not include:<br/>
       <p>
@@ -836,16 +837,16 @@ LinuxRows:
 
 # Linux Tickets Block
 linuxTicketsTitle:
-    it: "Iscrizione LPI it"
-    en: "Registration LPI en"
+    it: "Iscrizione LPI ExamLab"
+    en: "Registration LPI ExamLab"
 linuxTicketsInfo:
-    it: "Iscrizione LPI - PGDay.IT 2018 - 28 giugno 2018"
-    en: "LPI registration - PGDay.IT 2018 - June 28th, 2018"
+    it: "Iscrizione LPI ExamLab - 28 giugno 2018"
+    en: "LPI ExamLab registration - June 28th, 2018"
 linuxTicketsOffers:
  -
   name:
-    it: "LPI - Early bird"
-    en: "LPI - Early bird"
+    it: "LPI ExamLab - Registration"
+    en: "LPI ExamLab - Registration"
   price: "FREE"
   priceCurrency: "€"
   buyButtonLink: "https://www.eventbee.com/v/itpug2018workshop#/tickets"
@@ -853,8 +854,8 @@ linuxTicketsOffers:
     it: "Registrati adesso"
     en: "Subscribe now"
   linuxTicketContentList:
-    it: ["LPI - PGDay.IT 2018", "28 giugno", "Lazise"]
-    en: ["LPI - PGDay.IT 2018", "June 28th", "Lazise"]
+    it: ["LPI ExamLab - PGDay.IT 2018", "28 giugno", "Lazise"]
+    en: ["LPI ExamLab - PGDay.IT 2018", "June 28th", "Lazise"]
   validFrom: "2018-01-22T10:00"
   validThrough: "2018-06-15T23:59"
   disabled: false
