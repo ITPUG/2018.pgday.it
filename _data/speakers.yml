@@ -382,12 +382,14 @@ Consegue il diploma di Linux System Administrator di RHEL nell'agosto 2016."
   id: 34
   name: "Daniele"
   surname: "Simoncini"
-  company: ""
-  title: ""
+  company: "Centro di GeoTecnologie, Siena University"
+  title: "IT Manager"
   bio:
-    it: ""
+    it: "Negli ultimi quindici anni ha portato a compimento progetti di web cartography con rilevanza nazionale ed internazionale sia per enti pubblici che privati.
+Esperto in ambito di nuovi media, Big Data e IoT, è attualmente IT Manager presso il Centro di GeoTecnologie dell'Università degli Studi di Siena sviluppando e progettando nuove tecnologie per la diffusione ed il censimento di dati territoriali direttamente su campo.
+Oltre all'attività di ricerca e sviluppo svolge attività di docenza presso il Master Universitario in Geomatica del Centro di GeoTecnologie."
     en: ""
-  thumbnailUrl: anonimo.jpg
+  thumbnailUrl: daniele_simoncini.jpg
   rockstar: true
   social:
     - {name: "linkedin", link: ""}
