@@ -817,9 +817,9 @@ LinuxRows:
    details:
      it: |
        This is a required exam for LPIC-1 or LPI certification Level 1. It covers basic skills for the Linux professional that are common across all distributions of Linux. <br/>
-       <a target="_blank" href="https://wiki.lpi.org/wiki/LPIC-1_Objectives_V5.0">(LPIC-1 (5.0 beta) - More details)</a> <br/>
-       <a target="_blank" href="https://wiki.lpi.org/wiki/LPIC-1_Objectives_V5.0#Objectives:_Exam_101">(LPIC-1 101 - Argomenti d'Esame)</a> <br/>
-       <a target="_blank" href="https://wiki.lpi.org/wiki/LPIC-1_Objectives_V5.0#Objectives:_Exam_102">(LPIC-1 102 - Argomenti d'Esame)</a>
+       <a target="_blank" href="https://wiki.lpi.org/wiki/LPIC-1_Objectives_V5.0">LPIC-1 (5.0 beta) - Maggiori dettagli</a> <br/>
+       <a target="_blank" href="https://wiki.lpi.org/wiki/LPIC-1_Objectives_V5.0#Objectives:_Exam_101">LPIC-1 101 - Argomenti d'Esame</a> <br/>
+       <a target="_blank" href="https://wiki.lpi.org/wiki/LPIC-1_Objectives_V5.0#Objectives:_Exam_102">LPIC-1 102 - Argomenti d'Esame</a>
      en: |
        This
  - title:
@@ -831,8 +831,8 @@ LinuxRows:
    details:
      it: |
        Linux adoption continues to rise world-wide as individual users, government entities and industries ranging from automotive to space exploration embrace open source technologies. This expansion of open source in enterprise is redefining traditional Information and Communication Technology (ICT) job roles to require more Linux skills. <br/>
-       <a target="_blank" href="http://www.lpi.org/our-certifications/linux-essentials-overview">(Linux Essentials - More details)</a> <br/>
-       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-010-objectives">(Linux Essentials - Argomenti d'Esame)</a> <br/>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/linux-essentials-overview">Linux Essentials - Maggiori dettagli</a> <br/>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-010-objectives">Linux Essentials - Argomenti d'Esame</a> <br/>
      en: |
        Linux
  - title:
@@ -844,9 +844,9 @@ LinuxRows:
    details:
      it: |
        LPIC-2 is the second certification in LPI’s multi-level professional certification program. The LPIC-2 will validate the candidate's ability to administer small to medium–sized mixed networks. The candidate must have an active LPIC-1 certification to receive LPIC-2 certification, but the LPIC-1 and LPIC-2 exams may be taken in any order. <br/>
-       <a target="_blank" href="http://www.lpi.org/our-certifications/lpic-2-overview">(LPIC-2 - More details)</a> <br/>
-       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-201-objectives">(LPIC-2 201 - Argomenti d'Esame)</a> <br/>
-       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-202-objectives">(LPIC-2 202 - Argomenti d'Esame)</a>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/lpic-2-overview">LPIC-2 - Maggiori dettagli</a> <br/>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-201-objectives">LPIC-2 201 - Argomenti d'Esame</a> <br/>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-202-objectives">LPIC-2 202 - Argomenti d'Esame</a>
      en: |
        LPIC-2
  - title:
@@ -858,8 +858,8 @@ LinuxRows:
    details:
      it: |
        The LPIC-3 certification is the culmination of LPI’s multi-level professional certification program. LPIC-3 is designed for the enterprise-level Linux professional and represents the highest level of professional, distribution-neutral Linux certification within the industry. Three separate LPIC-3 specialty certifications are available. Passing any one of the three exams will grant the LPIC-3 certification for that specialty. <br/>
-       <a target="_blank" href="http://www.lpi.org/our-certifications/lpic-3-300-overview">(LPIC-3 300: Mixed Environment - More details)</a> <br/>
-       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-300-objectives">(LPIC-3 300: Mixed Environment - Argomenti d'Esame)</a>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/lpic-3-300-overview">LPIC-3 300: Mixed Environment - Maggiori dettagli</a> <br/>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-300-objectives">LPIC-3 300: Mixed Environment - Argomenti d'Esame</a>
      en: |
        The LPIC-3
  - title:
@@ -871,8 +871,8 @@ LinuxRows:
    details:
      it: |
        The LPIC-3 certification is the culmination of LPI’s multi-level professional certification program. LPIC-3 is designed for the enterprise-level Linux professional and represents the highest level of professional, distribution-neutral Linux certification within the industry. Three separate LPIC-3 specialty certifications are available. Passing any one of the three exams will grant the LPIC-3 certification for that specialty. <br/>
-       <a target="_blank" href="http://www.lpi.org/our-certifications/lpic-3-303-overview">(LPIC-3 303: Security - More details)</a> <br/>
-       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-303-objectives">(LPIC-3 303: Security - Argomenti d'Esame)</a>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/lpic-3-303-overview">LPIC-3 303: Security - Maggiori dettagli</a> <br/>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-303-objectives">LPIC-3 303: Security - Argomenti d'Esame</a>
      en: |
        The LPIC-3
  - title:
@@ -884,8 +884,8 @@ LinuxRows:
    details:
      it: |
        The LPIC-3 certification is the culmination of LPI’s multi-level professional certification program. LPIC-3 is designed for the enterprise-level Linux professional and represents the highest level of professional, distribution-neutral Linux certification within the industry. Three separate LPIC-3 specialty certifications are available. Passing any one of the three exams will grant the LPIC-3 certification for that specialty. <br/>
-       <a target="_blank" href="http://www.lpi.org/our-certifications/lpic-3-304-overview">(LPIC-3 304: Virtualization and High Availability - More details)</a> <br/>
-       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-304-objectives">(LPIC-3 304: Virtualization and High Availability - Argomenti d'Esame)</a>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/lpic-3-304-overview">LPIC-3 304: Virtualization and High Availability - Maggiori dettagli</a> <br/>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-304-objectives">LPIC-3 304: Virtualization and High Availability - Argomenti d'Esame</a>
      en: |
        The LPIC-3
  - title:
@@ -897,7 +897,7 @@ LinuxRows:
    details:
      it: |
        Candidates should be able to design software solutions suitable for modern runtime environments. Candidates should understand how services handle data persistence, sessions, status information, transactions, concurrency, security, performance, availability, scaling, load balancing, messaging, monitoring and APIs. Furthermore, candidates should understand the implications of agile and DevOps on software development. <br/>
-       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-701-objectives">(LPIC-OT Exam 701: DevOps Tools Engineer - Argomenti d'Esame)</a>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-701-objectives">LPIC-OT Exam 701: DevOps Tools Engineer - Argomenti d'Esame</a>
      en: |
        Candidates
 
