@@ -75,9 +75,10 @@ navigationLinks:
  - {link: "/assets/PartnerEN_2018.pdf", text: "Become Partner", lang: "en"}
  - {link: "https://2018pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
  - {link: "https://2018pgdayit.eventbee.com", text: "Buy your ticket", lang: "en"}
-# - {permalink: "/pgbeer/", text: "PG_beer"}
-# - {permalink: "/staff/", text: "Staff"}
-# - {permalink: "/workshop/", text: "Workshop"}
+# - {permalink: "/pgbeer/", text: "PG_beer", lang: "it"}
+# - {permalink: "/pgbeer/", text: "PG_beer", lang: "en"}
+# - {permalink: "/staff/", text: "Staff", lang: "it"}
+# - {permalink: "/staff/", text: "Staff", lang: "en"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/blog/", text: "Blog"}
 bottomNavigationLinks:
@@ -149,13 +150,13 @@ latestNewsTitle:
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 0
+rockstarSpeakersCount: 4
 rockstarSpeakersTitle:
     it: "Speaker"
     en: "Speakers"
-#rockstarSpeakersButtonText:
-  #it: "Guarda tutti gli speaker"
-  #en: "All Speakers here"
+rockstarSpeakersButtonText:
+  it: "Guarda tutti gli speaker"
+  en: "All Speakers here"
 
 # Location Block
 locationBlockTitle: "Location"
@@ -338,23 +339,23 @@ blogReadMore:
 blogCommentsEnabled: true
 discusShortName: "PGDay.IT_2018"
 
-## Speakers List Block
-#speakersImage: "speaker.jpg"
-#showSessions: true
+# Speakers List Block
+speakersImage: "speaker.jpg"
+showSessions: true
 
-# Staff Block
-#staffBlockTitle:
-#    it: "Il loro principale interesse: permettervi di seguire il PGDay.IT senza problemi"
-#    en: "The main interest is to allow you to follow PGDay.IT without any problems"
-#staffSubtitle1:
-#    it: "Al desk per la registrazione, per il rinnovo della quota societaria e per accogliere nuovi iscritti"
-#    en: "At the registration desk, you will be able to inscribe to our association and renew your subscription"
-#staffSubtitle2:
-#    it: "Presenteranno la track Italiana e la track Inglese e i Lightning Talk"
-#    en: "The host speaker will present in Italian and English, the Lightning Talk is included as well"
-#staffSubtitle3:
-#    it: "Altre attività"
-#    en: "Other activity"
+ # Staff Block
+staffBlockTitle:
+    it: "Il loro principale interesse: permettervi di seguire il PGDay.IT senza problemi"
+    en: "The main interest is to allow you to follow PGDay.IT without any problems"
+staffSubtitle1:
+    it: "Al desk per la registrazione, per il rinnovo della quota societaria e per accogliere nuovi iscritti"
+    en: "At the registration desk, you will be able to inscribe to our association and renew your subscription"
+staffSubtitle2:
+    it: "Presenteranno la track Italiana e la track Inglese e i Lightning Talk"
+    en: "The host speaker will present in Italian and English, the Lightning Talk is included as well"
+staffSubtitle3:
+    it: "Altre attività"
+    en: "Other activity"
 
 # Team Block
 teamBlockTitle:
@@ -410,12 +411,6 @@ directionDetailsCards:
 
  - {lang: "it", title: "IN AEREO:", information: "15 km dall'aeroporto Valerio Catullo di Verona Villafranca / 95 km dall'aeroporto Orio al Serio di Bergamo / 180 km dall'aeroporto Milano Malpensa"}
  - {lang: "en", title: "BY PLANE:", information: '15 km from Valerio Catullo airport in Verona Villafranca / 95 km from Orio al Serio airport in Bergamo / 180 km from Milano Malpensa airport'}
-
- #- {lang: "it", title: "Arrivi in auto dall’autostrada A1?", information: '(Bologna), dopo il casello del pedaggio, dirigendoVi verso la tangenziale Est, imboccate l’uscita di piazzale Corvetto, girate a destra e arrivate a piazzale Bologna, svoltate a sinistra per via Bacchiglione percorrete 100 m e girate a destra per corso Lodi. Dopo 700 m, giunti a porta Romana, girate a sinistra in via Filippetti (circonvallazione interna), proseguire per viale Beatrice d’Este, viale Gian Galeazzo, viale d’Annunzio, viale Papiniano, viale di Porta Vercellina. Arrivati a piazzale Baracca, proseguite per piazza della Conciliazione, svoltate a destra in via Boccaccio quindi percorrete la via fino a raggiungere piazza Virgilio. Dopodichè percorrete via Vincenzo Monti, al semaforo svoltate a destra in Largo d’Ancona e subito a destra in corso Magenta dove, al civico 61, vi attende la Fondazione Stelline.'}
- #- {lang: "en", title: "Are you coming by car from highway A1?", information: '(Bologna), after the tollbooth, turn into the exit of piazzale Corvetto, turn right and you will arrive at piazzale Bologna, turn left through via Bacchiglione continue 100 m and turn right on corso Lodi. After 700 m, reaching porta Romana, turn left on via Filippetti (inner beltway), continue along viale Beatrice d’Este, viale Gian Galeazzo, viale d’Annunzio, viale Papiniano, viale of Porta Vercellina, arriving at piazzale Baracca, turn right, where at number 61 you are welcomed to Fondazione Stelline.'}
-
- #- {lang: "it", title: "Arrivi in auto dall’autostrada A7?", information: '(Genova): dopo il casello del pedaggio, imboccate la tangenziale ovest in direzione Venezia, uscite a Milano Certosa e proseguite come indicato sopra.'}
- #- {lang: "en", title: "Are you coming by car from highway A7?", information: '(Genova): after the tollbooth, turn into the western tangential in the direction of Venice, exit at Milano Certosa and continue as indicated above.'}
 directionDetailsWideCards:
  -
   lang: "it"
@@ -441,90 +436,92 @@ directionDetailsWideCards:
      - {link: "", text: ""}
 
 # Pgbeer
-#pgbeerDetailsImage: "pgbeer-details.jpg"
-#pgbeerTitle:
-    #it: ""
-    #en: ""
-#pgbeerDescription:
-    #it: "L'occasione per stare tutti insieme prima del PGDay.IT. Il menù prevede hamburger e due bevute. Ma non preoccupatevi: la scelta che avrete a disposizione è davvero vasta e potrete farla direttamente al Pub. Se volete farvi un'idea, sotto riportiamo le varie possibilità."
-    #en: "The opportunity to be together before PGDay.IT. The menu includes hamburgers and two drinks. But do not worry: you have a lots of choice available and you can do it directly in the Pub. If you want to get an idea, we give you the possible options below."
-#enablePgbeer: true
+pgbeerDetailsImage: "pg_beer_in.jpg"
+pgbeerTitle:
+    it: ""
+    en: ""
+pgbeerDescription:
+    it: "L'occasione per rompere il giaccio, condividere le esperienze, prima del PGDay.IT 2018.<br/>
+    La formula è ALL YOU CAN EAT - ALL YOU CAN DRINK. No limits!<br/>
+    La scelta che avrete a disposizione è davvero vasta.<br/>
+    Per trascorrere la serata senza preoccupazioni, pg_shuttle sarà il nostro mezzo di trasporto.<br/>"
+    en: "The opportunity to be together before PGDay.IT.<br/>
+    The.<br/>
+    You have a lots of choice available.<br/>
+    The pg_shuttle<br/>"
 
-# Pgbeer About Block
-#aboutPgbeerTitle:
-#    it: "Old Fox Pub"
-#    en: "Old Fox Pub"
-#aboutPgbeerDescription:
-#  it: "Il menù prevede hamburger e due bevute. Ma non preoccupatevi: la scelta che avrete a disposizione è davvero vasta e potrete farla direttamente al Pub. Se volete farvi un'idea, sotto riportiamo le varie possibilità"
-#  en: "Il menù prevede hamburger e due bevute. Ma non preoccupatevi: la scelta che avrete a disposizione è davvero vasta e potrete farla direttamente al Pub. Se volete farvi un'idea, sotto riportiamo le varie possibilità"
+enablePgbeer: true
 
-#pgbeerDetailsCards:
-# - {lang: "it", title: "Spicy Burger 150gr", information: 'Salsa bbq, salsa rosa, speck croccante, cetriolini, lattuga, pomodoro.'}
-# - {lang: "en", title: "Spicy Burger 150gr", information: 'Bbq sauce, pink sauce, crunchy speck, gherkins, lettuce, tomato.'}
-#
-# - {lang: "it", title: "Bacon Cheese Burger 150gr", information: 'Senape, bacon grigliato, doppio formaggio, lattuga, cipolla.'}
-# - {lang: "en", title: "Bacon Cheese Burger 150gr", information: 'Mustard, grilled bacon, double cheese, lettuce, onion.'}
-#
-# - {lang: "it", title: "Eggs Burger 150 gr", information: 'Hamburger, formaggio, uova all’occhio di bue, salsa tartara e cipolla.'}
-# - {lang: "en", title: "Eggs Burger 150 gr", information: 'Hamburger, cheese, fried eggs, onion and tartar sauce.'}
-#
-# - {lang: "it", title: "Lu-Rid Burger 150gr", information: 'Salsa bbq, tabasco, lattuga, formaggio, peperoni e cipolle saltate.'}
-# - {lang: "en", title: "Lu-Rid Burger 150gr", information: 'Bbq sauce, tabasco, lettuce, cheese, peppers and salted onions.'}
-#
-# - {lang: "it", title: "Hamburger Classico 150 gr", information: 'Formaggio, mayo, ketchup, pomodoro, lattuga, cipolla.'}
-# - {lang: "en", title: "Hamburger Classico 150 gr", information: 'Cheese, mayo, ketchup, tomato, lettuce, onion.'}
-#
-# - {lang: "it", title: "Lamb Burger 150 gr", information: 'Carne di agnello, crema di pecorino, peperoni caramellati, rosmarino.'}
-# - {lang: "en", title: "Lamb Burger 150 gr", information: 'Lamb meat, cream cheese, caramel peppers, rosemary.'}
-#
-# - {lang: "it", title: "M.O.B. More Onion Burger 150 gr", information: 'Bbq, onion rings, bacon, formaggio e lattuga.'}
-# - {lang: "en", title: "M.O.B. More Onion Burger 150 gr", information: 'Bbq, onion rings, bacon, cheese and lettuce.'}
-#
-# - {lang: "it", title: "Veggie Burger", information: 'Hamburger di soia, ketchup, pomodoro, lattuga, cetriolini.'}
-# - {lang: "en", title: "Veggie Burger", information: 'Soy burgers, ketchup, tomato, lettuce, gherkins.'}
+ Pgbeer About Block
+aboutPgbeerTitle:
+    it: "Rock Star Restaurant"
+    en: "Rock Star Restaurant"
+aboutPgbeerDescription:
+  it: "Rock Star Restaurant è un ristorante american style ed offre la formula 'all you can eat & drink', un abbondante buffet dall'antipasto al dessert e bevande alla spina illimitate (bibite, birra, acqua, vino rosso).<br/>
+       Musica rock in sottofondo e possibilità di scegliere i propri brani preferiti direttamente dal jukebox nella sala principale.<br/>"
+  en: ""
+
+pgbeerDetailsCards:
+ - {lang: "it", title: "Antipasti", information: 'Sandwich, nachos con salsa messicana o al formaggio, tacos di chili con carne e vegetali, olive ascolane, mozzarelline panate, anelli di cipolla, bocconcini dorati, misto verdure panate, pollo fritto, surimi impanati'}
+ - {lang: "en", title: "Antipasti", information: ''}
+
+ - {lang: "it", title: "Primi piatti CALDI:", information: 'Lasagne al forno, piatti a base di riso, pizza fantasia o margherita'}
+ - {lang: "en", title: "Primi piatti CALDI:", information: ''}
+
+ - {lang: "it", title: "Primi piatti FREDDI", information: 'Solo periodo estivo: pasta e riso freddi'}
+ - {lang: "en", title: "Primi piatti FREDDI", information: ''}
+
+ - {lang: "it", title: "Secondi piatti", information: 'Hamburger fatti al momento su richiesta del cliente, Hamburger vegetale, tagliata di carne, hot dog, costine di maiale marinate, alette di pollo, kebab, fajitas. Dal 2013 gli hamburger vengono cotti al momento, su ordinazione: Hamburger classico da 150 gr. farcito a piacere, Hamburger da 200 gr. che si può avere normale o piccante con tabasco'}
+ - {lang: "en", title: "Secondi piatti", information: ''}
+
+ - {lang: "it", title: "Contorni", information: 'Insalatone fantasia dello chef, insalata con vari ingredienti da farcire a piacimento, fritture miste (patatine di quattro tipi diversi, verdure cotte), fagioli alla messicana e pannocchie e baked potatoes'}
+ - {lang: "en", title: "Contorni", information: ''}
+
+ - {lang: "it", title: "Dessert", information: 'Pan cake con nutella o marmellata, torte varie, profiterols, tiramisù e gelato soft'}
+ - {lang: "en", title: "Dessert", information: ''}
 
 # Pgbeer Tickets Block
-#pgbeerTicketsTitle:
-#    it: "Prezzo pg_beer"
-#    en: "pg_beer price"
-##pgbeerTicketsInfo:
-#    it: "pg_beer: include 1 hamburger e 2 bevute"
-#    en: "pg_beer: Pg_beer: includes 1 burger and 2 drinks"
-##pgbeerTicketsOffers:
-# -
-#  name:
-#    it: "Pg_beer"
-#    en: "Pg_beer"
-#  price: "19,00"
-#  priceCurrency: "€"
-#  buyButtonLink: "https://www.eventbrite.it/e/biglietti-pg-beer-con-hamburger-37313142614"
-#  buyButtonText:
-#    it: "Acquistalo adesso"
-#    en: "Get it now"
-#  pgbeerTicketContentList:
-#    it: ["Pg_beer - PGDay.IT 2018", "28 giugno", "Lazise"]
-#    en: ["Pg_beer - PGDay.IT 2018", "June 28th", "Lazise"]
-#  validFrom: "2018-02-15T10:00"
-#  validThrough: "2018-06-24T23:59"
-#  disabled: false
+pgbeerTicketsTitle:
+    it: "Prezzo pg_beer"
+    en: "pg_beer price"
+pgbeerTicketsInfo:
+    it: "pg_beer: all you can eat, all you can drink"
+    en: "pg_beer: all you can eat, all you can drink"
+pgbeerTicketsOffers:
+ -
+  name:
+    it: "pg_beer: all you can eat, all you can drink"
+    en: "pg_beer: all you can eat, all you can drink"
+  price: "24,00"
+  priceCurrency: "€"
+  buyButtonLink: "https://www.eventbee.com/v/pgday2018pg_beer#/tickets"
+  buyButtonText:
+    it: "Acquistalo adesso"
+    en: "Get it now"
+  pgbeerTicketContentList:
+    it: ["Pg_beer - PGDay.IT 2018", "28 giugno", "Lazise"]
+    en: ["Pg_beer - PGDay.IT 2018", "June 28th", "Lazise"]
+  validFrom: "2018-02-15T10:00"
+  validThrough: "2018-06-24T23:59"
+  disabled: false
 
-## Pgbeer Location Block
-#pgbeerLocationBlockTitle: "Location"
-#pgbeerLocationName: "Old Fox Pub"
-#pgbeerLocationLink: "http://www.oldfoxpub.it/"
-#pgbeerStreetAddress: "Piazza S. Agostino 1"
-#pgbeerAddressLocality: "Milano"
-#pgbeerddressLocalityRegion: "(MI)"
-#pgbeerPostalCode: "20123"
-#pgbeerAddressCountry: "Italy"
-#pgbeerStartTime: "2018-06-28T19:45"
-#pgbeerDoorTime: "19:30"
-#pgbeerEndTime: "2018-06-28T23:59"
-#viewOnMap: "View on Google Maps"
-#pgbeerPlaceCoordinates: "45.458838, 9.170756"
-#pgbeerMapCenterCoordinates: "45.458838, 9.170756"
-#pgbeerMapMobileCenterCoordinates: "45.458838, 9.170756"
-#enablePgbeer: true
+# Pgbeer Location Block
+pgbeerLocationBlockTitle: "Location"
+pgbeerLocationName: "Rock Star Restaurant"
+pgbeerLocationLink: "http://www.rockstarcafe.it/"
+pgbeerStreetAddress: "Via Fossalta 60"
+pgbeerAddressLocality: "Lazise"
+pgbeerddressLocalityRegion: "(VR)"
+pgbeerPostalCode: "37017"
+pgbeerAddressCountry: "Italy"
+pgbeerStartTime: "2018-06-28T19:45"
+pgbeerDoorTime: "19:30"
+pgbeerEndTime: "2018-06-28T23:59"
+viewOnMap: "View on Google Maps"
+pgbeerPlaceCoordinates: "45.4788856, 10.725833"
+pgbeerMapCenterCoordinates: "45.4788856, 10.725833"
+pgbeerMapMobileCenterCoordinates: "45.4788856, 10.725833"
+enablePgbeer: true
 
 # Workshop
 workshopDetailsImage: "workshop-details.jpg"
@@ -694,31 +691,6 @@ workshopsRows:
      en: |
        In this workshop, we demonstrate several aspects of data persistence in PostgreSQL, in terms of architecture, database configuration and application behavior.
 
-#workshopDetailsWideCards:
-#  -
-#   lang: "it"
-#   title: "Come vengono gestiti i workshop? Quali sono le aziende che li erogano?"
-#   subCards:
-#    -
-#     title: "Il ricavato derivante dalle quote di iscrizione, al netto delle spese per affitto aula e catering, verrà suddivisa
-#     tra l'azienda erogante il corso e l'associazione ITPUG - ITalian PostgreSQl Users Group.<br/>
-#     <b>Le aziende interessate a proporre PostgreSQL workshop sono invitate a contattare gli organizzatori del PGDay.IT scrivendo a info@itpug.org o pgday@itpug.org</b><br/>
-#        IMPORTANTE: l'associazione ITPUG - ITalian PostgreSQL Users Group non è responsabile della qualità formativa erogata."
-#     links:
-#      - {link: "https://www.2ndquadrant.com/it/formazione-postgresql/", text: "2ndQuadrant"}
-#      - {link: "", text: ""}
-#  -
-#   lang: "en"
-#   title: "How are the workshops handled? What are the companies that deliver its?"
-#   subCards:
-#    -
-#     title: "The income coming from subscription, deducted the cost of classroom and catering, will be shared between companies providing the workshop and ITPUG - ITalian PostgreSQl Users Group.
-#     Companies interested in proposing PostgreSQL workshop are invited to contact the organizers of PGDay.IT - please send an email to info@itpug.org or pgday@itpug.org
-#     <b> IMPORTANT </ b>: ITPUG - ITalian PostgreSQL Users Group is not responsible for the quality of workshop provided."
-#     links:
-#      - {link: "https://www.2ndquadrant.com/it/formazione-postgresql/", text: "2ndQuadrant"}
-#      - {link: "", text: ""}
-
 # Workshop Tickets Block
 workshopTicketsTitle:
     it: "Quota iscrizione workshop"
@@ -826,7 +798,7 @@ LinuxRows:
      it: "Linux Essentials"
      en: "Linux Essentials"
    subtitle:
-     it: 28 giugno 2018 - ore 9,30 - ____ € - Massimo 25 partecipanti
+     it: 28 giugno 2018 - ore 9,30 - 79,00 € - Massimo 25 partecipanti
      en: June 28th, 2018 - time 9am
    details:
      it: |
@@ -839,7 +811,7 @@ LinuxRows:
      it: "LPIC-2"
      en: "LPIC-2"
    subtitle:
-     it: 28 giugno 2018 - ore 9,30 - ____ € - Massimo 25 partecipanti
+     it: 28 giugno 2018 - ore 9,30 - 110,00 € - Massimo 25 partecipanti
      en: June 28th, 2018 - time 9am
    details:
      it: |
@@ -853,7 +825,7 @@ LinuxRows:
      it: "LPIC-3 300: Mixed Environment"
      en: "LPIC-3 300: Mixed Environment"
    subtitle:
-     it: 28 giugno 2018 - ore 9,30 - ____ € - Massimo 25 partecipanti
+     it: 28 giugno 2018 - ore 9,30 - 110,00 € - Massimo 25 partecipanti
      en: June 28th, 2018 - time 9am
    details:
      it: |
@@ -866,7 +838,7 @@ LinuxRows:
      it: "LPIC-3 303: Security"
      en: "LPIC-3 303: Security"
    subtitle:
-     it: 28 giugno 2018 - ore 9,30 - ____ € - Massimo 25 partecipanti
+     it: 28 giugno 2018 - ore 9,30 - 110,00 € - Massimo 25 partecipanti
      en: June 28th, 2018 - time 9am
    details:
      it: |
@@ -879,7 +851,7 @@ LinuxRows:
      it: "LPIC-3 304: Virtualization and High Availability"
      en: "LPIC-3 304: Virtualization and High Availability"
    subtitle:
-     it: 28 giugno 2018 - ore 9,30 - ____ € - Massimo 25 partecipanti
+     it: 28 giugno 2018 - ore 9,30 - 110,00 € - Massimo 25 partecipanti
      en: June 28th, 2018 - time 9am
    details:
      it: |
@@ -892,7 +864,7 @@ LinuxRows:
      it: "LPIC-OT Exam 701: DevOps Tools Engineer"
      en: "LPIC-OT Exam 701: DevOps Tools Engineer"
    subtitle:
-     it: 28 giugno 2018 - ore 9,30 - ____ € - Massimo 25 partecipanti
+     it: 28 giugno 2018 - ore 9,30 - 110,00 € - Massimo 25 partecipanti
      en: June 28th, 2018 - time 9am
    details:
      it: |
