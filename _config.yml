@@ -75,8 +75,8 @@ navigationLinks:
  - {link: "/assets/PartnerEN_2018.pdf", text: "Become Partner", lang: "en"}
  - {link: "https://2018pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
  - {link: "https://2018pgdayit.eventbee.com", text: "Buy your ticket", lang: "en"}
-# - {permalink: "/pgbeer/", text: "PG_beer", lang: "it"}
-# - {permalink: "/pgbeer/", text: "PG_beer", lang: "en"}
+ - {permalink: "/pgbeer/", text: "PG_beer", lang: "it"}
+ - {permalink: "/pgbeer/", text: "PG_beer", lang: "en"}
 # - {permalink: "/staff/", text: "Staff", lang: "it"}
 # - {permalink: "/staff/", text: "Staff", lang: "en"}
  - {permalink: "/team/", text: "Team"}
@@ -441,14 +441,24 @@ pgbeerTitle:
     it: ""
     en: ""
 pgbeerDescription:
-    it: "L'occasione per rompere il giaccio, condividere le esperienze, prima del PGDay.IT 2018.<br/>
-    La formula è ALL YOU CAN EAT - ALL YOU CAN DRINK. No limits!<br/>
-    La scelta che avrete a disposizione è davvero vasta.<br/>
-    Per trascorrere la serata senza preoccupazioni, pg_shuttle sarà il nostro mezzo di trasporto.<br/>"
-    en: "The opportunity to be together before PGDay.IT.<br/>
-    The.<br/>
-    You have a lots of choice available.<br/>
-    The pg_shuttle<br/>"
+    it: "
+    <h6>
+    L'occasione per rompere il giaccio, condividere le esperienze, prima del PGDay.IT 2018.<h6/><br/>
+    <h6>
+    La formula è ALL YOU CAN EAT - ALL YOU CAN DRINK. No limits!<h6/><br/>
+    <h6>
+    La scelta che avrete a disposizione è davvero vasta.<h6/><br/>
+    <h6>
+    Per trascorrere la serata senza preoccupazioni, pg_shuttle sarà il nostro mezzo di trasporto.<h6/><br/>"
+    en: "
+    <h6>
+    The opportunity to break the ice, share experiences, before the PGDay.IT 2018.<h6/><br/>
+    <h6>
+    The formula is ALL YOU CAN EAT - ALL YOU CAN DRINK. No limits!<h6/><br/>
+    <h6>
+    The choice you have available is really vast.<h6/><br/>
+    <h6>
+    To spend the evening without worries, pg_shuttle will be our means of transport.<h6/><br/>"
 
 enablePgbeer: true
 
@@ -457,28 +467,43 @@ aboutPgbeerTitle:
     it: "Rock Star Restaurant"
     en: "Rock Star Restaurant"
 aboutPgbeerDescription:
-  it: "Rock Star Restaurant è un ristorante american style ed offre la formula 'all you can eat & drink', un abbondante buffet dall'antipasto al dessert e bevande alla spina illimitate (bibite, birra, acqua, vino rosso).<br/>
+  it: "
+     <p>
+       Rock Star Restaurant è un ristorante american style.<br/>
+     <p>
+       Il Menù All You Can Eat & Drink ti da inoltre la possibilità di assaggiare molti tipi di pietanze dalle Costine marinate in salsa BBQ o i Club Sandwich fino a piatti vegetariani e vegani come insalate e addirittura l' Hamburger Veggie. I Dolci? Ovviamente il giusto finale.<br/>
+     <p>
+       Il tutto con Pepsi, Birra o Vino No Limits.<br/>
+     <p>
        Musica rock in sottofondo e possibilità di scegliere i propri brani preferiti direttamente dal jukebox nella sala principale.<br/>"
-  en: ""
+  en: "
+     <p>
+       Rock Star Restaurant is an American style restaurant.<br/>
+     <p>
+       The All You Can Eat & Drink menu give you the possibility to taste different kind of plates from the BBQ Ribs or a Club Sandwich to vegetarian and vegan dishes like salads and Hamburger Veggie. Desserts? The best ending.<br/>
+     <p>
+       Everything with Pepsi, Bear o Wine No Limits.<br/>
+     <p>
+       Rock music in the background and possibility to choose your favorite songs directly from the jukebox in the main room.<br/>"
 
 pgbeerDetailsCards:
- - {lang: "it", title: "Antipasti", information: 'Sandwich, nachos con salsa messicana o al formaggio, tacos di chili con carne e vegetali, olive ascolane, mozzarelline panate, anelli di cipolla, bocconcini dorati, misto verdure panate, pollo fritto, surimi impanati'}
- - {lang: "en", title: "Antipasti", information: ''}
+ - {lang: "it", title: "Antipasti", information: 'Sandwich, nachos con salsa messicana o al formaggio, tacos di chili con carne e vegetali, olive ascolane, mozzarelline panate, anelli di cipolla, bocconcini dorati, misto verdure panate, pollo fritto, surimi impanati.'}
+ - {lang: "en", title: "Appetizers", information: 'Sandwich, nachos with Mexican or cheese sauce, meat and vegetable chili tacos, Ascolan olives, breaded mozzarelline, onion rings, golden bites, mixed breaded vegetables, fried chicken, breaded surimi.'}
 
- - {lang: "it", title: "Primi piatti CALDI:", information: 'Lasagne al forno, piatti a base di riso, pizza fantasia o margherita'}
- - {lang: "en", title: "Primi piatti CALDI:", information: ''}
+ - {lang: "it", title: "Primi piatti CALDI:", information: 'Lasagne al forno, piatti a base di riso, pizza fantasia o margherita.'}
+ - {lang: "en", title: "First HOT dishes:", information: 'Lasagna, rice dishes, fancy pizza or margherita.'}
 
- - {lang: "it", title: "Primi piatti FREDDI", information: 'Solo periodo estivo: pasta e riso freddi'}
- - {lang: "en", title: "Primi piatti FREDDI", information: ''}
+ - {lang: "it", title: "Primi piatti FREDDI", information: 'Pasta e riso freddi'}
+ - {lang: "en", title: "First COLD dishes", information: 'Cold pasta and rice.'}
 
- - {lang: "it", title: "Secondi piatti", information: 'Hamburger fatti al momento su richiesta del cliente, Hamburger vegetale, tagliata di carne, hot dog, costine di maiale marinate, alette di pollo, kebab, fajitas. Dal 2013 gli hamburger vengono cotti al momento, su ordinazione: Hamburger classico da 150 gr. farcito a piacere, Hamburger da 200 gr. che si può avere normale o piccante con tabasco'}
- - {lang: "en", title: "Secondi piatti", information: ''}
+ - {lang: "it", title: "Secondi piatti", information: 'Hamburger fatti al momento su richiesta del cliente, Hamburger vegetale, tagliata di carne, hot dog, costine di maiale marinate, alette di pollo, kebab, fajitas. Gli hamburger vengono cotti al momento, su ordinazione: Hamburger classico da 150 gr. farcito a piacere, Hamburger da 200 gr. che si può avere normale o piccante con tabasco.'}
+ - {lang: "en", title: "Second dishes", information: 'Burgers made at the time of customer request, vegetable burger, meat, hot dogs, marinated pork ribs, chicken wings, kebabs, fajitas. Hamburgers are cooked at the moment, to order: Classic hamburger of 150 gr. stuffed to taste, 200 gr. burger that you can have normal or spicy with Tabasco.'}
 
- - {lang: "it", title: "Contorni", information: 'Insalatone fantasia dello chef, insalata con vari ingredienti da farcire a piacimento, fritture miste (patatine di quattro tipi diversi, verdure cotte), fagioli alla messicana e pannocchie e baked potatoes'}
- - {lang: "en", title: "Contorni", information: ''}
+ - {lang: "it", title: "Contorni", information: 'Insalatone fantasia dello chef, insalata con vari ingredienti da farcire a piacimento, fritture miste (patatine di quattro tipi diversi, verdure cotte), fagioli alla messicana e pannocchie e baked potatoes.'}
+ - {lang: "en", title: "Side dishes", information: 'Chef fantasy salad, salad with various ingredients to fill at will, mixed fried food (chips of four different types, cooked vegetables), Mexican beans and corncobs and baked potatoes.'}
 
- - {lang: "it", title: "Dessert", information: 'Pan cake con nutella o marmellata, torte varie, profiterols, tiramisù e gelato soft'}
- - {lang: "en", title: "Dessert", information: ''}
+ - {lang: "it", title: "Dessert", information: 'Pan cake con nutella o marmellata, torte varie, profiterols, tiramisù e gelato soft.'}
+ - {lang: "en", title: "Dessert", information: 'Pancakes with nutella or jam, various cakes, profiteroles, tiramisu and soft ice cream.'}
 
 # Pgbeer Tickets Block
 pgbeerTicketsTitle:
@@ -543,7 +568,6 @@ aboutWorkshopDescription:
         I partecipanti dovranno essere automuniti di portatile.
         La fee di registrazone ai workshop NON include: coffee break, pranzo e accesso al PGDay.IT 2018.
       </p>
-
       <p>
         <b>IMPORTANTE</b>: I WORKSHOP VERRANNO CONFERMATI AL REGGIUNGIMENTO DI 3 ISCRITTI. NEL CASO IL CORSO NON VENGA CONFERMATO VERRANNO
         RIMBORSATE LE EVENTUALI SOTTOSCRIZIONI PERVENUTE.
@@ -555,7 +579,6 @@ aboutWorkshopDescription:
       Attendees has to bring their own computer.
       The workshop fee does not include: lunch as well and PGDay.IT 2018 fee.
       </p>
-
       <p>
        <b> IMPORTANT </ b>: WORKSHOPS WILL BE CONFIRMED AT THE ENTRY OF 3 MEMBERS. IN CASE ONE OR MORE WORKSHOPS WILL NOT BE CONFIRMED, WE WILL REFUND THE FEE RECEIVED.
       </p>"
