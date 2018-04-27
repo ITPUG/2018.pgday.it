@@ -775,7 +775,7 @@ introductionLinuxDescription:
       LPI ExamLab: che cosa è? come si effettua l'iscrizione?<h5/>
       <p>
         Gli ExamLab del Linux Professional Institute sono sessioni d’esame straordinarie per le certificazioni LPI, sessioni che si tengono in concomitanza di importanti eventi di settore come PGDay.IT.<br/>
-        Gli esami di un LPI Exam Lab vengono forniti a prezzi scontati.<br/>
+        In occasione del PGDay.IT 2018, gli esami di un LPI Exam Lab vengono forniti a prezzi scontati.<br/>
         In questa occasione specifica, la nuova versione dell’Esame LPIC-1, release 5.0, Beta, viene offerta gratuitamente.<br/>
       <h5>
         Informazioni inerenti gli esami Linux Professional Institute (LPI) Italia:<h5/>
@@ -790,25 +790,45 @@ introductionLinuxDescription:
         • Durante l'esame non è consentito l'uso di supporti, digitali od analogici.<br/>
         • La registrazone al LPI NON include: coffee break, pranzo, accesso al PGDay.IT 2018 (29 giugno) o ai Workshop (28 giugno).<br/>
     en: |
+      <a target="_blank" href="http://www.lpi.org/our-certifications/summary-of-certifications">LPI is the global certification standard</a> and career support organization for open source professionals.<br/>
+      With more than 500.000 exams delivered, it is the world first and largest neutral-vendor Linux and open source certification body. LPI has certified professionals in over 180 countries, delivers exams in 9 languages, and has over 400 training partners.<br/>
+      Their purpose is to enable economic and creative opportunities for everybody by making open source knowledge and skills certification universally accessible.<br/>
+      <a target="_blank" href="http://www.lpi.org/">Linux Professional Institute - LPI</a> - is a non-profit organization.<br/>
+      <h5>
+      LPI ExamLab: what is it? How Do I Register?<h5/>
       <p>
-        LPI<br/>
+        The ExamLabs of the Linux Professional Institute are outstanding exam sessions for LPI certifications, sessions held in conjunction with relevant events such as PGDay.IT.<br/>
+        In occasion of PGDay.IT 2018, the LPI Exam Lab are provided at discounted prices.<br/>
+        On this specific occasion, the new version of the LPIC-1 Exam, release 5.0, Beta, is offered for free.<br/>
+      <h5>
+        Information about the Linux Professional Institute (LPI) Italia exams:<h5/>
+      <p>
+        • The exams are held in English..<br/>
+        • To take part in the exam it is necessary to provide proof of identity and an LPI ID. To get an LPI ID you need to <a target="_blank" href="https://cs.lpi.org/caf/Xamman/register">register on the Linux Professional Institute website</a>.<br/>
+        • Booking is mandatory.<br/>
+        • Applicants are invited to report 30 minutes in advance for registration procedures.<br/>
+        • Each candidate can take only one exam per session.<br/>
+        • The indicated cost is inclusive of VAT.<br/>
+        • The exam session lasts 90 minutes for the Professional (LPIC-) exams, and 60 minutes for the Essentials session.<br/>
+        • The use of digital or analog media is not permitted during the exam.<br/>
+        • LPI registration does NOT include: coffee breaks, lunch, access to the PGDay.IT 2018 (June 29th) or the Workshops (June 28th).<br/>
 aboutLinuxTitle:
     it: "Dettagli sulla sessione Examlab presso PGDay.it 2018:"
-    en: ""
+    en: "Details about the Examlab session at PGDay.it 2018"
 aboutLinuxDescription:
     it: |
       <p>
         Tutti gli esami LPI sono disponibili, per questa sessione, a prezzo scontato.<br/>
     en: |
       <p>
-      All.<br/>
+      All LPI exams are available for this session at a discounted price..<br/>
 LinuxRows:
  - title:
      it: "LPIC-1 (5.0 beta)"
      en: "LPIC-1 (5.0 beta)"
    subtitle:
      it: 28 giugno 2018 - ore 9,30 - FREE OF CHARGE - Massimo 25 partecipanti
-     en: June 28th, 2018 - time 9am
+     en: June 28th, 2018 - time 9,30am - FREE OF CHARGE - Maximum 25 attendees
    details:
      it: |
        This is a required exam for LPIC-1 or LPI certification Level 1. It covers basic skills for the Linux professional that are common across all distributions of Linux. <br/>
@@ -816,26 +836,31 @@ LinuxRows:
        <a target="_blank" href="https://wiki.lpi.org/wiki/LPIC-1_Objectives_V5.0#Objectives:_Exam_101">LPIC-1 101 - Argomenti d'Esame</a> <br/>
        <a target="_blank" href="https://wiki.lpi.org/wiki/LPIC-1_Objectives_V5.0#Objectives:_Exam_102">LPIC-1 102 - Argomenti d'Esame</a>
      en: |
-       This
+       This is a required exam for LPIC-1 or LPI certification Level 1. It covers basic skills for the Linux professional that are common across all distributions of Linux. <br/>
+       <a target="_blank" href="https://wiki.lpi.org/wiki/LPIC-1_Objectives_V5.0">LPIC-1 (5.0 beta) - Additional details</a> <br/>
+       <a target="_blank" href="https://wiki.lpi.org/wiki/LPIC-1_Objectives_V5.0#Objectives:_Exam_101">LPIC-1 101 - Exam Arguments</a> <br/>
+       <a target="_blank" href="https://wiki.lpi.org/wiki/LPIC-1_Objectives_V5.0#Objectives:_Exam_102">LPIC-1 102 - Exam Arguments</a>
  - title:
      it: "Linux Essentials"
      en: "Linux Essentials"
    subtitle:
      it: 28 giugno 2018 - ore 9,30 - 79,00 € - Massimo 25 partecipanti
-     en: June 28th, 2018 - time 9am
+     en: June 28th, 2018 - time 9,30am - 79,00 € - Maximum 25 attendees
    details:
      it: |
        Linux adoption continues to rise world-wide as individual users, government entities and industries ranging from automotive to space exploration embrace open source technologies. This expansion of open source in enterprise is redefining traditional Information and Communication Technology (ICT) job roles to require more Linux skills. <br/>
        <a target="_blank" href="http://www.lpi.org/our-certifications/linux-essentials-overview">Linux Essentials - Maggiori dettagli</a> <br/>
        <a target="_blank" href="http://www.lpi.org/our-certifications/exam-010-objectives">Linux Essentials - Argomenti d'Esame</a> <br/>
      en: |
-       Linux
+       Linux adoption continues to rise world-wide as individual users, government entities and industries ranging from automotive to space exploration embrace open source technologies. This expansion of open source in enterprise is redefining traditional Information and Communication Technology (ICT) job roles to require more Linux skills. <br/>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/linux-essentials-overview">Linux Essentials - Additional details</a> <br/>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-010-objectives">Linux Essentials - Exam Arguments</a> <br/>
  - title:
      it: "LPIC-2"
      en: "LPIC-2"
    subtitle:
      it: 28 giugno 2018 - ore 9,30 - 110,00 € - Massimo 25 partecipanti
-     en: June 28th, 2018 - time 9am
+     en: June 28th, 2018 - time 9,30am - 110,00 € - Maximum 25 attendees
    details:
      it: |
        LPIC-2 is the second certification in LPI’s multi-level professional certification program. The LPIC-2 will validate the candidate's ability to administer small to medium–sized mixed networks. The candidate must have an active LPIC-1 certification to receive LPIC-2 certification, but the LPIC-1 and LPIC-2 exams may be taken in any order. <br/>
@@ -843,58 +868,68 @@ LinuxRows:
        <a target="_blank" href="http://www.lpi.org/our-certifications/exam-201-objectives">LPIC-2 201 - Argomenti d'Esame</a> <br/>
        <a target="_blank" href="http://www.lpi.org/our-certifications/exam-202-objectives">LPIC-2 202 - Argomenti d'Esame</a>
      en: |
-       LPIC-2
+       LPIC-2 is the second certification in LPI’s multi-level professional certification program. The LPIC-2 will validate the candidate's ability to administer small to medium–sized mixed networks. The candidate must have an active LPIC-1 certification to receive LPIC-2 certification, but the LPIC-1 and LPIC-2 exams may be taken in any order. <br/>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/lpic-2-overview">LPIC-2 - Additional details</a> <br/>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-201-objectives">LPIC-2 201 - Exam Arguments</a> <br/>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-202-objectives">LPIC-2 202 - Exam Arguments</a>
  - title:
      it: "LPIC-3 300: Mixed Environment"
      en: "LPIC-3 300: Mixed Environment"
    subtitle:
      it: 28 giugno 2018 - ore 9,30 - 110,00 € - Massimo 25 partecipanti
-     en: June 28th, 2018 - time 9am
+     en: June 28th, 2018 - time 9,30am - 110,00 € - Maximum 25 attendees
    details:
      it: |
        The LPIC-3 certification is the culmination of LPI’s multi-level professional certification program. LPIC-3 is designed for the enterprise-level Linux professional and represents the highest level of professional, distribution-neutral Linux certification within the industry. Three separate LPIC-3 specialty certifications are available. Passing any one of the three exams will grant the LPIC-3 certification for that specialty. <br/>
        <a target="_blank" href="http://www.lpi.org/our-certifications/lpic-3-300-overview">LPIC-3 300: Mixed Environment - Maggiori dettagli</a> <br/>
        <a target="_blank" href="http://www.lpi.org/our-certifications/exam-300-objectives">LPIC-3 300: Mixed Environment - Argomenti d'Esame</a>
      en: |
-       The LPIC-3
+       The LPIC-3 certification is the culmination of LPI’s multi-level professional certification program. LPIC-3 is designed for the enterprise-level Linux professional and represents the highest level of professional, distribution-neutral Linux certification within the industry. Three separate LPIC-3 specialty certifications are available. Passing any one of the three exams will grant the LPIC-3 certification for that specialty. <br/>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/lpic-3-300-overview">LPIC-3 300: Mixed Environment - Additional details</a> <br/>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-300-objectives">LPIC-3 300: Mixed Environment - Exam Arguments</a>
  - title:
      it: "LPIC-3 303: Security"
      en: "LPIC-3 303: Security"
    subtitle:
      it: 28 giugno 2018 - ore 9,30 - 110,00 € - Massimo 25 partecipanti
-     en: June 28th, 2018 - time 9am
+     en: June 28th, 2018 - time 9,30am - 110,00 € - Maximum 25 attendees
    details:
      it: |
        The LPIC-3 certification is the culmination of LPI’s multi-level professional certification program. LPIC-3 is designed for the enterprise-level Linux professional and represents the highest level of professional, distribution-neutral Linux certification within the industry. Three separate LPIC-3 specialty certifications are available. Passing any one of the three exams will grant the LPIC-3 certification for that specialty. <br/>
        <a target="_blank" href="http://www.lpi.org/our-certifications/lpic-3-303-overview">LPIC-3 303: Security - Maggiori dettagli</a> <br/>
        <a target="_blank" href="http://www.lpi.org/our-certifications/exam-303-objectives">LPIC-3 303: Security - Argomenti d'Esame</a>
      en: |
-       The LPIC-3
+       The LPIC-3 certification is the culmination of LPI’s multi-level professional certification program. LPIC-3 is designed for the enterprise-level Linux professional and represents the highest level of professional, distribution-neutral Linux certification within the industry. Three separate LPIC-3 specialty certifications are available. Passing any one of the three exams will grant the LPIC-3 certification for that specialty. <br/>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/lpic-3-303-overview">LPIC-3 303: Security - Additional details</a> <br/>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-303-objectives">LPIC-3 303: Security - Exam Arguments</a>
  - title:
      it: "LPIC-3 304: Virtualization and High Availability"
      en: "LPIC-3 304: Virtualization and High Availability"
    subtitle:
      it: 28 giugno 2018 - ore 9,30 - 110,00 € - Massimo 25 partecipanti
-     en: June 28th, 2018 - time 9am
+     en: June 28th, 2018 - time 9,30am - 110,00 € - Maximum 25 attendees
    details:
      it: |
        The LPIC-3 certification is the culmination of LPI’s multi-level professional certification program. LPIC-3 is designed for the enterprise-level Linux professional and represents the highest level of professional, distribution-neutral Linux certification within the industry. Three separate LPIC-3 specialty certifications are available. Passing any one of the three exams will grant the LPIC-3 certification for that specialty. <br/>
        <a target="_blank" href="http://www.lpi.org/our-certifications/lpic-3-304-overview">LPIC-3 304: Virtualization and High Availability - Maggiori dettagli</a> <br/>
        <a target="_blank" href="http://www.lpi.org/our-certifications/exam-304-objectives">LPIC-3 304: Virtualization and High Availability - Argomenti d'Esame</a>
      en: |
-       The LPIC-3
+       The LPIC-3 certification is the culmination of LPI’s multi-level professional certification program. LPIC-3 is designed for the enterprise-level Linux professional and represents the highest level of professional, distribution-neutral Linux certification within the industry. Three separate LPIC-3 specialty certifications are available. Passing any one of the three exams will grant the LPIC-3 certification for that specialty. <br/>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/lpic-3-304-overview">LPIC-3 304: Virtualization and High Availability - Additional details</a> <br/>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-304-objectives">LPIC-3 304: Virtualization and High Availability - Exam Arguments</a>
  - title:
      it: "LPIC-OT Exam 701: DevOps Tools Engineer"
      en: "LPIC-OT Exam 701: DevOps Tools Engineer"
    subtitle:
      it: 28 giugno 2018 - ore 9,30 - 110,00 € - Massimo 25 partecipanti
-     en: June 28th, 2018 - time 9am
+     en: June 28th, 2018 - time 9,30am - 110,00 € - Maximum 25 attendees
    details:
      it: |
        Candidates should be able to design software solutions suitable for modern runtime environments. Candidates should understand how services handle data persistence, sessions, status information, transactions, concurrency, security, performance, availability, scaling, load balancing, messaging, monitoring and APIs. Furthermore, candidates should understand the implications of agile and DevOps on software development. <br/>
        <a target="_blank" href="http://www.lpi.org/our-certifications/exam-701-objectives">LPIC-OT Exam 701: DevOps Tools Engineer - Argomenti d'Esame</a>
      en: |
-       Candidates
+       Candidates should be able to design software solutions suitable for modern runtime environments. Candidates should understand how services handle data persistence, sessions, status information, transactions, concurrency, security, performance, availability, scaling, load balancing, messaging, monitoring and APIs. Furthermore, candidates should understand the implications of agile and DevOps on software development. <br/>
+       <a target="_blank" href="http://www.lpi.org/our-certifications/exam-701-objectives">LPIC-OT Exam 701: DevOps Tools Engineer - Exam Arguments</a>
 
 # Linux Tickets Block
 linuxTicketsTitle:
