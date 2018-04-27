@@ -75,8 +75,8 @@ navigationLinks:
  - {link: "/assets/PartnerEN_2018.pdf", text: "Become Partner", lang: "en"}
  - {link: "https://2018pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
  - {link: "https://2018pgdayit.eventbee.com", text: "Buy your ticket", lang: "en"}
- - {permalink: "/pgbeer/", text: "PG_beer", lang: "it"}
- - {permalink: "/pgbeer/", text: "PG_beer", lang: "en"}
+# - {permalink: "/pgbeer/", text: "PG_beer", lang: "it"}
+# - {permalink: "/pgbeer/", text: "PG_beer", lang: "en"}
 # - {permalink: "/staff/", text: "Staff", lang: "it"}
 # - {permalink: "/staff/", text: "Staff", lang: "en"}
  - {permalink: "/team/", text: "Team"}
@@ -772,7 +772,7 @@ introductionLinuxDescription:
       Il loro scopo è quello di offrire opportunità economiche e creative per tutti, rendendo la conoscenza e la certificazione delle competenze open source universalmente accessibili.<br/>
       <a target="_blank" href="http://www.lpi.org/">Linux Professional Institute - LPI</a> - è un'organizzazione senza scopo di lucro.<br/>
       <h5>
-      LPI ExamLab: che cosa è? come si effetua l'iscrizione?<h5/>
+      LPI ExamLab: che cosa è? come si effettua l'iscrizione?<h5/>
       <p>
         Gli ExamLab del Linux Professional Institute sono sessioni d’esame straordinarie per le certificazioni LPI, sessioni che si tengono in concomitanza di importanti eventi di settore come PGDay.IT.<br/>
         Gli esami di un LPI Exam Lab vengono forniti a prezzi scontati.<br/>
@@ -807,7 +807,7 @@ LinuxRows:
      it: "LPIC-1 (5.0 beta)"
      en: "LPIC-1 (5.0 beta)"
    subtitle:
-     it: 28 giugno 2018 - ore 9,30 - FREE - Massimo 25 partecipanti
+     it: 28 giugno 2018 - ore 9,30 - FREE OF CHARGE - Massimo 25 partecipanti
      en: June 28th, 2018 - time 9am
    details:
      it: |
@@ -909,7 +909,7 @@ linuxTicketsOffers:
     it: "LPI ExamLab - Registration"
     en: "LPI ExamLab - Registration"
   price: "Book your LPI ExamLab"
-  buyButtonLink: "https://www.eventbee.com/v/itpug2018workshop#/tickets"
+  buyButtonLink: "https://pgday_lpi_examlab.eventbee.com"
   buyButtonText:
     it: "Registrati adesso"
     en: "Subscribe now"
