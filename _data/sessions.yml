@@ -139,7 +139,7 @@ Non esitare!"
     en: "In this talk we discuss the state of the art of Logical Replication for PostgreSQL. While we begin by comparing it with Physical Replication, the core part of this presentation is to examine a few specific use cases, including selective replication and no-downtime software upgrades. Throughout the talk we will also comment on pitfalls and limitations, as they arise in the use cases."
   subtype: Talk
   speakers: [1]
-  language: IT 
+  language: IT
   complexity: "Intermediate"
 #  presentation: ""
 #  video: ""
@@ -147,10 +147,10 @@ Non esitare!"
   id: 003
   title:
     it: "Partizionamento dichiarativo dei dati con PostgreSQL"
-    en: "Partizionamento dichiarativo dei dati con PostgreSQL"
+    en: "Declarative data partitioning with PostgreSQL"
   description:
     it: "Il partizionamento orizzontale è una delle tecniche di modellazione di un database di maggior successo per la scalabilità verticale di un database PostgreSQL. Dopo un excursus storico sul workaround disponibile già da PostgreSQL 8.1 e basato sull'ereditarietà, andiamo nel dettaglio del partizionamento dichiarativo introdotto in PostgreSQL 10, con un'occhiata sui lavori previsti per PostgreSQL 11."
-    en: "Il partizionamento orizzontale è una delle tecniche di modellazione di un database di maggior successo per la scalabilità verticale di un database PostgreSQL. Dopo un excursus storico sul workaround disponibile già da PostgreSQL 8.1 e basato sull'ereditarietà, andiamo nel dettaglio del partizionamento dichiarativo introdotto in PostgreSQL 10, con un'occhiata sui lavori previsti per PostgreSQL 11."
+    en: "Horizontal partitioning is one of the most successful database modeling techniques for the scalability of a PostgreSQL database. After a historical excursus on the workaround already available from PostgreSQL 8.1 and based on inheritance, let's go into the detail of the declarative partitioning introduced in PostgreSQL 10, with a look at the work planned for PostgreSQL 11."
   subtype: Talk
   speakers: [3]
   language: EN
@@ -466,7 +466,7 @@ This talk will cover several ways of influencing the planner decisions with diff
     en: "Did you ever had a query that runs fine on the development servers, but runs very slow on production. And by slow I mean 4 hours slower than the expected hundreds of milliseconds. After digging a bit you find out it is using a suboptimal plan, which is the cause of the slow execution. How to fix that?
 This talk will cover several ways of influencing the planner decisions with different options, query rewriting with CTEs, OFFSET 0 and clever tricks that leverage the query planer heuristics. Every method has its drawbacks so we will point out the problematic parts when applicable."
   subtype: Talk
-  speakers: [2]
+  speakers: [99]
   language: IT - EN
   complexity: "Intermediate"
 #  presentation: ""
@@ -482,7 +482,7 @@ In this talk we will show what can happen if you turn it off, and how can we twe
     en: "Many PostgreSQL instances have autovacuum turned off because of performance issues. The results of this choice can vastly vary between ok and catastrophic. However, is autovacuum your friend or enemy? To answer that you have to know how PostgreSQL works, what is table/index bloat and what is the problem with transaction visibility information (XID) wraparound.
 In this talk we will show what can happen if you turn it off, and how can we tweak the autovacuum parameters to get the most from it. We will also cover existing tools and present an internal tool that we plan to open source."
   subtype: Talk
-  speakers: [2]
+  speakers: [99]
   language: IT - EN
   complexity: "Intermediate"
 #  presentation: ""
@@ -493,11 +493,11 @@ In this talk we will show what can happen if you turn it off, and how can we twe
     it: "Data migrations"
     en: "Data migrations"
   description:
-    it: "PostgreSQL version are usually supported for 5 years. This means that, if you have a serious project on top of PostgreSQL, you will probably have to migrate your data to a newer version to get the regular security fixes and bugfixes. Newer versions usually come with additional benefits: better performance on same hardware, new features and extensions. But how to migrate your data? pg_dump/pg_restore are the first thing people use if they can, and they work great. Unfortunately, your application has to be offline during this period. If your database is very big, it will be offline an unacceptable period of time. Searching for solutions to this problem, we can find several tools that can help you:
-•        pg_upgrade
-•        slony-I
-•        pglogical (with pgrepup)
-In this presentation, we will show the results of testing some of these solutions on our production database (900+GB). Additionally, we have tested migrating our data with the COPY command."
+    it: "La versione di PostgreSQL è solitamente supportata per 5 anni dalla Community. Ciò significa che, se hai un progetto serio su PostgreSQL, probabilmente dovrai migrare i tuoi dati a una versione più recente per ottenere le normali correzioni di sicurezza e correzioni di errori. Le versioni più recenti solitamente offrono ulteriori vantaggi: prestazioni migliori sullo stesso hardware, nuove funzionalità ed estensioni. Ma come migrare i tuoi dati? pg_dump / pg_restore è la prima cosa che le persone usano se possono, e funzionano alla grande. Sfortunatamente, l'applicazione nel fra tempo deve essere offline. Se il database ha una dimensione di rilievo, sarà offline un periodo di tempo inaccettabile. Alla ricerca di soluzioni a questo problema, possiamo trovare diversi strumenti che possono aiutarci:
+• pg_upgrade
+• Slony-I
+• pglogical (con pgrepup)
+In questa presentazione, mostreremo i risultati del test di alcune di queste soluzioni sul nostro database di produzione (900 + GB). Inoltre, abbiamo testato la migrazione dei nostri dati con il comando COPY."
     en: "PostgreSQL version are usually supported for 5 years. This means that, if you have a serious project on top of PostgreSQL, you will probably have to migrate your data to a newer version to get the regular security fixes and bugfixes. Newer versions usually come with additional benefits: better performance on same hardware, new features and extensions. But how to migrate your data? pg_dump/pg_restore are the first thing people use if they can, and they work great. Unfortunately, your application has to be offline during this period. If your database is very big, it will be offline an unacceptable period of time. Searching for solutions to this problem, we can find several tools that can help you:
 •        pg_upgrade
 •        slony-I
