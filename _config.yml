@@ -844,8 +844,8 @@ LinuxRows:
      it: "Linux Essentials"
      en: "Linux Essentials"
    subtitle:
-     it: 28 giugno 2018 - ore 9,30 - 79,00 € - Massimo 25 partecipanti
-     en: June 28th, 2018 - time 9,30am - 79,00 € - Maximum 25 attendees
+     it: 28 giugno 2018 - ore 9,30 - 79,00 € + IVA - Massimo 25 partecipanti
+     en: June 28th, 2018 - time 9,30am - 79,00 € + VAT - Maximum 25 attendees
    details:
      it: |
        Linux adoption continues to rise world-wide as individual users, government entities and industries ranging from automotive to space exploration embrace open source technologies. This expansion of open source in enterprise is redefining traditional Information and Communication Technology (ICT) job roles to require more Linux skills. <br/>
@@ -859,8 +859,8 @@ LinuxRows:
      it: "LPIC-2"
      en: "LPIC-2"
    subtitle:
-     it: 28 giugno 2018 - ore 9,30 - 110,00 € - Massimo 25 partecipanti
-     en: June 28th, 2018 - time 9,30am - 110,00 € - Maximum 25 attendees
+     it: 28 giugno 2018 - ore 9,30 - 110,00 € + IVA - Massimo 25 partecipanti
+     en: June 28th, 2018 - time 9,30am - 110,00 € + VAT - Maximum 25 attendees
    details:
      it: |
        LPIC-2 is the second certification in LPI’s multi-level professional certification program. The LPIC-2 will validate the candidate's ability to administer small to medium–sized mixed networks. The candidate must have an active LPIC-1 certification to receive LPIC-2 certification, but the LPIC-1 and LPIC-2 exams may be taken in any order. <br/>
@@ -876,8 +876,8 @@ LinuxRows:
      it: "LPIC-3 300: Mixed Environment"
      en: "LPIC-3 300: Mixed Environment"
    subtitle:
-     it: 28 giugno 2018 - ore 9,30 - 110,00 € - Massimo 25 partecipanti
-     en: June 28th, 2018 - time 9,30am - 110,00 € - Maximum 25 attendees
+     it: 28 giugno 2018 - ore 9,30 - 110,00 € + IVA - Massimo 25 partecipanti
+     en: June 28th, 2018 - time 9,30am - 110,00 € + VAT - Maximum 25 attendees
    details:
      it: |
        The LPIC-3 certification is the culmination of LPI’s multi-level professional certification program. LPIC-3 is designed for the enterprise-level Linux professional and represents the highest level of professional, distribution-neutral Linux certification within the industry. Three separate LPIC-3 specialty certifications are available. Passing any one of the three exams will grant the LPIC-3 certification for that specialty. <br/>
@@ -891,8 +891,8 @@ LinuxRows:
      it: "LPIC-3 303: Security"
      en: "LPIC-3 303: Security"
    subtitle:
-     it: 28 giugno 2018 - ore 9,30 - 110,00 € - Massimo 25 partecipanti
-     en: June 28th, 2018 - time 9,30am - 110,00 € - Maximum 25 attendees
+     it: 28 giugno 2018 - ore 9,30 - 110,00 € + IVA - Massimo 25 partecipanti
+     en: June 28th, 2018 - time 9,30am - 110,00 € + VAT - Maximum 25 attendees
    details:
      it: |
        The LPIC-3 certification is the culmination of LPI’s multi-level professional certification program. LPIC-3 is designed for the enterprise-level Linux professional and represents the highest level of professional, distribution-neutral Linux certification within the industry. Three separate LPIC-3 specialty certifications are available. Passing any one of the three exams will grant the LPIC-3 certification for that specialty. <br/>
@@ -906,8 +906,8 @@ LinuxRows:
      it: "LPIC-3 304: Virtualization and High Availability"
      en: "LPIC-3 304: Virtualization and High Availability"
    subtitle:
-     it: 28 giugno 2018 - ore 9,30 - 110,00 € - Massimo 25 partecipanti
-     en: June 28th, 2018 - time 9,30am - 110,00 € - Maximum 25 attendees
+     it: 28 giugno 2018 - ore 9,30 - 110,00 € + IVA - Massimo 25 partecipanti
+     en: June 28th, 2018 - time 9,30am - 110,00 € + VAT - Maximum 25 attendees
    details:
      it: |
        The LPIC-3 certification is the culmination of LPI’s multi-level professional certification program. LPIC-3 is designed for the enterprise-level Linux professional and represents the highest level of professional, distribution-neutral Linux certification within the industry. Three separate LPIC-3 specialty certifications are available. Passing any one of the three exams will grant the LPIC-3 certification for that specialty. <br/>
@@ -921,8 +921,8 @@ LinuxRows:
      it: "LPIC-OT Exam 701: DevOps Tools Engineer"
      en: "LPIC-OT Exam 701: DevOps Tools Engineer"
    subtitle:
-     it: 28 giugno 2018 - ore 9,30 - 110,00 € - Massimo 25 partecipanti
-     en: June 28th, 2018 - time 9,30am - 110,00 € - Maximum 25 attendees
+     it: 28 giugno 2018 - ore 9,30 - 110,00 € + IVA - Massimo 25 partecipanti
+     en: June 28th, 2018 - time 9,30am - 110,00 € + VAT - Maximum 25 attendees
    details:
      it: |
        Candidates should be able to design software solutions suitable for modern runtime environments. Candidates should understand how services handle data persistence, sessions, status information, transactions, concurrency, security, performance, availability, scaling, load balancing, messaging, monitoring and APIs. Furthermore, candidates should understand the implications of agile and DevOps on software development. <br/>
