@@ -392,3 +392,19 @@ Oltre all'attività di ricerca e sviluppo svolge attività di docenza presso il 
     - {name: "twitter", link: ""}
     - {name: "google-plus", link: ""}
     - {name: "github", link: ""}
+-
+  id: 34
+  name: "Luca"
+  surname: "Porro"
+  company: ""
+  title: ""
+  bio:
+    it: ""
+    en: ""
+  thumbnailUrl: luca_porro.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "google-plus", link: ""}
+    - {name: "github", link: ""}
