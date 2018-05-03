@@ -75,8 +75,8 @@ navigationLinks:
  - {link: "/assets/PartnerEN_2018.pdf", text: "Become Partner", lang: "en"}
  - {link: "https://2018pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
  - {link: "https://2018pgdayit.eventbee.com", text: "Buy your ticket", lang: "en"}
-# - {permalink: "/pgbeer/", text: "PG_beer", lang: "it"}
-# - {permalink: "/pgbeer/", text: "PG_beer", lang: "en"}
+ - {permalink: "/pgbeer/", text: "PG_beer", lang: "it"}
+ - {permalink: "/pgbeer/", text: "PG_beer", lang: "en"}
 # - {permalink: "/staff/", text: "Staff", lang: "it"}
 # - {permalink: "/staff/", text: "Staff", lang: "en"}
  - {permalink: "/team/", text: "Team"}
