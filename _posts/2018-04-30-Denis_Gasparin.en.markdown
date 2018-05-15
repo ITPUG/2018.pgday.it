@@ -11,7 +11,7 @@ ref: denis_gasparin
 
 <h5>Denis Gasparin speaker at PGDay.IT 2018.</h5>
 
-With the talks "PostgreSQL Tips & Tricks" and "Machine Learning with PostGreSQL", Denis Gasparin will be at PGDay.IT edition 2018.
+With the talks "PostgreSQL Tips & Tricks" and "Machine Learning with PostGreSQL", Denis Gasparin will be at PGDay.IT 2018 edition.
 
 For this edition of PGDay.IT we decided to get to know our Speakers a little more, by asking three simple questions.
 
