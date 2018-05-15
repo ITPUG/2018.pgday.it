@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Denis Gasparin"
-date:   2018-04-28 04:00:00
+date:   2018-05-14 04:00:00
 isStaticPost: false
 permalink: /en/blog/denis_gasparin
 image: denis.jpg
@@ -53,7 +53,7 @@ In particular we'll discover:
 
 Intrigued? Do not miss this talk, you will be surprised at what our Elephant can do!
 
-<h6>Talk: Machine Learning with PostGreSQL</h6>
+<h6>Talk: Machine Learning with PostgreSQL</h6>
 [Riva room: ore 16,50 pm - Language: Ialiano - Complexity: Intermediate](https://2018.pgday.it/it/schedule/#session-018)
 
 Amazon, Google, Facebook, IBM and many others offer software and libraries for Machine Learning.

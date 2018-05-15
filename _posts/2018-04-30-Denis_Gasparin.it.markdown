@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Denis Gasparin"
-date:   2018-04-28 04:00:00
+date:   2018-05-14 04:00:00
 isStaticPost: false
 permalink: /it/blog/denis_gasparin
 lang: it
@@ -53,7 +53,7 @@ In particolare esploreremo:
 
 Non mancare a questo talk, rimarrai sorpreso di ciò che il nostro Elefante può fare!
 
-<h6>Talk: Machine Learning with PostGreSQL</h6>
+<h6>Talk: Machine Learning with PostgreSQL</h6>
 [Sala Riva: ore 16,50 - Lingua: Ialiano - Livello: Intermediate](https://2018.pgday.it/it/schedule/#session-018)
 
 Amazon, Google, Facebook, IBM e molti altri propongono sistemi e librerie per il Machine Learning.
