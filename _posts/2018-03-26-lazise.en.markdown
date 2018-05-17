@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lazise, why?"
-date:   2018-05-19 00:57:00
+date:   2018-05-17 00:57:00
 isStaticPost: false
 permalink: /en/blog/lazise
 image: lazise.jpg
