@@ -15,7 +15,7 @@ Being aware that the small town of Lazise was a “risky” choice as the locati
 
 And, then, “PG_Shuttle” was born!
 
-BThe service is free and easy to get. Available only for PGDay.IT participants, the only requirement is to [fill in the appropriate form with name, surname, place, and time of arrival and departure](https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform).
+The service is free and easy to get. Available only for PGDay.IT participants, the only requirement is to [fill in the appropriate form with name, surname, place, and time of arrival and departure](https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform).
 
 The required data, in addition to the name and surname, are the place and time of arrival.
 
