@@ -150,7 +150,7 @@ Non esitare!"
     en: "Declarative data partitioning with PostgreSQL"
   description:
     it: "Il partizionamento orizzontale è una delle tecniche di modellazione di un database di maggior successo per la scalabilità verticale di un database PostgreSQL. Dopo un excursus storico sul workaround disponibile già da PostgreSQL 8.1 e basato sull'ereditarietà, andiamo nel dettaglio del partizionamento dichiarativo introdotto in PostgreSQL 10, con un'occhiata sui lavori previsti per PostgreSQL 11."
-    en: "Horizontal partitioning is one of the most successful database modeling techniques for the scalability of a PostgreSQL database. After a historical excursus on the workaround already available from PostgreSQL 8.1 and based on inheritance, let's go into the detail of the declarative partitioning introduced in PostgreSQL 10, with a look at the work planned for PostgreSQL 11."
+    en: "Horizontal partitioning is one of the most successful database modeling techniques for the scalability of a PostgreSQL database. After a historical excursus on the workaround already available from PostgreSQL 8.1 and based on inheritance, we will go through declarative partitioning introduced in PostgreSQL 10, with a peep of what's waiting for us in PostgreSQL 11."
   subtype: Talk
   speakers: [3]
   language: EN
