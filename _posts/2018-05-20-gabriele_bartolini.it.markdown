@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gabriele Bartolini"
-date:   2018-05-20 04:00:00
+date:   2018-05-21 04:00:00
 isStaticPost: false
 permalink: /it/blog/gabriele_bartolini
 lang: it
