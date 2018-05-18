@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Oleksii Kliukin"
-date:   2018-05-19 04:00:00
+date:   2018-05-18 04:00:00
 isStaticPost: false
 permalink: /en/blog/oleksii_kliukin
 image: oleksii_kliukin.jpg
