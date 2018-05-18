@@ -42,6 +42,6 @@ Artur is a developer, a speaker and a writer. He has 8 years of experience with 
 
 We can offer a one-size-fits-all product, or we can truly understand our users and offer something valuable and customized to their needs. Geolocation is the key to learn what is going on around them to make better, user-centric decisions.
 
-More information and updates about speaker_name are available on his social media channels:
+More information and updates about Artur Caliendo Prado are available on his social media channels:
 
 [Twitter: @artur_caliendo](https://twitter.com/artur_caliendo)  -  [Linkedin: Artur Caliendo Prado](https://www.linkedin.com/in/artur-caliendo-prado-3a99ab102/)
