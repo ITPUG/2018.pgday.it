@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ivan Novick"
-date:   2018-05-19 04:00:00
+date:   2018-05-21 04:00:00
 isStaticPost: false
 permalink: /it/blog/ivan_novick
 lang: it
