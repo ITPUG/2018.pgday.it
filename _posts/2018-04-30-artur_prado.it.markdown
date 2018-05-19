@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Artur Caliendo Prado"
-date:   2018-05-19 04:00:00
+date:   2018-05-20 04:00:00
 isStaticPost: false
 permalink: /it/blog/artur_prado
 lang: it

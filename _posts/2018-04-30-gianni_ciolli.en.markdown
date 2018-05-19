@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gianni Ciolli"
-date:   2018-05-19 04:00:00
+date:   2018-05-22 04:00:00
 isStaticPost: false
 permalink: /en/blog/gianni_ciolli
 image: gianni_ciolli.jpg
