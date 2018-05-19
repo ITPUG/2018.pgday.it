@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Riccardo Magliocchetti"
-date:   2018-05-20 04:00:00
+date:   2018-05-19 00:05:00
 isStaticPost: false
 permalink: /it/blog/riccardo_magliocchetti
 lang: it
