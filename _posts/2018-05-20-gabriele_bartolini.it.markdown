@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gabriele Bartolini"
-date:   2018-05-21 04:00:00
+date:   2018-05-21 00:00:00
 isStaticPost: false
 permalink: /it/blog/gabriele_bartolini
 lang: it
@@ -45,4 +45,3 @@ Il partizionamento orizzontale è una delle tecniche di modellazione di un datab
 Altre informazioni e aggiornamenti su Gabriele Bartolini? Seguitelo sui suoi canali social:
 
 [Twitter: @_GBartolini_](https://twitter.com/_GBartolini_)  -  [Linkedin: Gabriele Bartolini](https://www.linkedin.com/in/gbartolini/)
-

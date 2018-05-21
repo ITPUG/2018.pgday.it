@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gabriele Bartolini"
-date:   2018-05-21 04:00:00
+date:   2018-05-21 00:00:00
 isStaticPost: false
 permalink: /en/blog/gabriele_bartolini
 image: gabriele_bartolini.jpg
@@ -50,4 +50,3 @@ Horizontal partitioning is one of the most successful database modeling techniqu
 More information and updates about Gabriele Bartolini are available on his social media channels:
 
 [Twitter: @_GBartolini_](https://twitter.com/_GBartolini_)  -  [Linkedin: Gabriele Bartolini](https://www.linkedin.com/in/gbartolini/)
-
