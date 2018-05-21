@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2ndQuadrant Partner PGDay.IT 2018"
-date:   2018-05-19 00:56:00
+date:   2018-05-22 00:56:00
 isStaticPost: false
 permalink: /en/blog/2ndquadrant
 image: partner_2ndQ.jpg
