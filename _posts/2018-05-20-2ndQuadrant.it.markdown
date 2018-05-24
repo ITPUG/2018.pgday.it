@@ -12,7 +12,7 @@ redirect-from:
 ---
 <h6> Welcome back! 2ndQuadrant Partner PGDay.IT 2018 </h6>
 
-A historic partner who cannot miss events dedicated to PostgreSQL such as PGDay.IT, [2ndQuadrant](https://www.2ndquadrant.com/) has renewed its support for the 2018 edition of the Italian event dedicated to PostgreSQL (PGDay. IT).
+Storico Partner che non può mancare ad eventi dedicati a PostgreSQL, come il PGDay.IT, [2ndQuadrant](https://www.2ndquadrant.com/) ha rinnovato il suo supporto per l'edizione 2018 dell'evento italiano dedicato a PostgreSQL (PGDay. IT).
 
 Grazie per essere ancora una volta con noi!
 

@@ -11,7 +11,7 @@ ref: 2ndquadrant
 
 <h6> Welcome back! 2ndQuadrant Partner PGDay.IT 2018 </h6>
 
-The Organising Committee has postponed the deadline for submitting a talk proposal or a workshop on "PGDay.IT", the PostgreSQL Italian National event that will held in Lazise on June 28th and 29th, 2018.
+A historic partner who cannot miss events dedicated to PostgreSQL such as PGDay.IT, [2ndQuadrant](https://www.2ndquadrant.com/) has renewed its support for the 2018 edition of the Italian event dedicated to PostgreSQL (PGDay. IT).
 
 Thanks for joining us again!
 
