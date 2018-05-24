@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Emerasoft con EDB Partner PGDay.IT 2018"
-date:   2018-05-20 00:56:00
+date:   2018-05-23 00:56:00
 isStaticPost: false
 permalink: /it/blog/emerasoft
 image: emerasoft.jpg
