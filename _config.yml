@@ -259,7 +259,7 @@ ticketsOffers:
     it: ["Ordinario - PGDay.IT 2018", "29 giugno", "_______"]
     en: ["Ordinary - PGDay.IT 2018", "June 29th", "_______"]
   validFrom: "2018-04-07T10:00"
-  validThrough: "2018-05-31T23:59"
+  validThrough: "2018-06-16T23:59"
   disabled: false
  -
   name:
@@ -275,7 +275,7 @@ ticketsOffers:
   ticketContentList:
     it: ["Last chance - PGDay.IT 2018", "29 giugno", "_______"]
     en: ["Last chance - PGDay.IT 2018", "June 29th", "_______"]
-  validFrom: "2018-06-01T00:00"
+  validFrom: "2018-06-17T00:00"
   validThrough: "2018-06-27T23:59"
   disabled: true
  -
@@ -579,9 +579,9 @@ aboutWorkshopDescription:
       Attendees has to bring their own computer.
       The workshop fee does not include: lunch as well and PGDay.IT 2018 fee.
       </p>
-      <p>
-       <b> IMPORTANT </ b>: WORKSHOPS WILL BE CONFIRMED AT THE ENTRY OF 3 MEMBERS. IN CASE ONE OR MORE WORKSHOPS WILL NOT BE CONFIRMED, WE WILL REFUND THE FEE RECEIVED.
-      </p>"
+      <p>
+        <b> IMPORTANT </ b>: WORKSHOPS WILL BE CONFIRMED AT THE ENTRY OF 3 MEMBERS. IN CASE ONE OR MORE WORKSHOPS WILL NOT BE CONFIRMED, WE WILL REFUND THE FEE RECEIVED.
+      </p>"
 
 workshopsRows:
  - image: jonathan_workshp_verticale.jpg
@@ -728,6 +728,73 @@ workshopsRows:
        In questo workshop, dimostriamo diversi aspetti della persistenza dei dati in PostgreSQL, in termini di architettura, configurazione del database e comportamento dell'applicazione.
      en: |
        In this workshop, we demonstrate several aspects of data persistence in PostgreSQL, in terms of architecture, database configuration and application behavior.
+
+# Workshop About Block
+aboutWorkshopTitle:
+    it: "Workshop: come iscriversi?"
+    en: "Workshops: how to attend?"
+aboutWorkshopDescription:
+    it: "I workshop si svolgeranno nella stessa sede dove si svolgerà il PGDay.IT 2018 (Hotel Parchi del Garda, Via Brusà 16/17 - Pacengo di Lazise). L'iscrizione può essere effettuata attraverso Eventbrite.
+    Al momento dell'iscrizione verrà richiesto di selezionare la tematica di interesse. La fee di registrazone ai workshop NON include:
+      coffee break, pranzo e accesso al PGDay.IT 2018. I partecipanti dovranno essere automunioti di portatile.
+      IMPORTANTE: I WORKSHOP VERRANNO CONFERMATI AL REGGIUNGIMENTO DI 3 ISCRITTI. NEL CASO IL CORSO NON VENGA CONFERMATO VERRANNO
+      RIMBORSATE LE EVENTUALI SOTTOSCRIZIONI PERVENUTE."
+    en: " The workshops will take place at the same venue of PGDay.IT 2018 (Hotel Parchi del Garda, Via Brusà 16/17 - Pacengo di Lazise). Registration has to be made through Eventbrite.
+     On the registration page, you have to select the topic of interest. The workshop fee does NOT include:
+       coffee break, lunch, and access to PGDay.IT 2018. Participants has to bring their computer.
+       IMPORTANT: WORKSHOPS WILL BE CONFIRMED AT THE ENTRY OF 3 MEMBERS. IN CASE ONE OR MORE WORKSHOPS WILL NOT BE CONFIRMED, WE WILL REFUND THE FEE RECEIVED."
+
+workshopDetailsCards:
+ - lang: "it"
+   title: "Gestire PostgreSQL con Ansible"
+   information: |
+     Ansible è un potente strumento di automazione scritto in Python. Con i suoi moduli già creati per PostgreSQL, possiamo gestire facilmente il database open source più avanzato, assicurandoci che la sua configurazione sia esatta in ogni dettaglio e ripetibile tutte le volte che sia necessario.
+     In questo workshop capiremo come funziona Ansible, vedremo alcuni dei suoi principali moduli per l'amministrazione di sistemi/cloud e impareremo come può essere utilizzato per orchestrare le deployment di PostgreSQL, gestendo tutte le parti del processo facilmente. Come caso d'uso, struttureremo un playbook per l'installazione di un master PostgreSQL e uno standby su replica streaming.
+     Per un'esperienza più pratica, i partecipanti al workshop devono avere l'applicazione Vagrant installata sui loro laptop, rendendo così possibile creare macchine virtuali in cui sarà possibile testare il playbook Ansible. Tuttavia, questo non è obbligatorio. Con Rubens Souza
+
+ - {lang: "en", title: "Gestire PostgreSQL con Ansible", information: 'con Rubens Souza'}
+
+ - {lang: "it", title: "Installare e configurare Postgres con Ansible", information: 'con Denis Gasparin'}
+ - {lang: "en", title: "Installare e configurare Postgres con Ansible", information: 'con Denis Gasparin'}
+
+ - {lang: "it", title: "Go e PostgreSQL: in e out", information: 'con Leonardo Cecchi'}
+ - {lang: "en", title: "Go e PostgreSQL: in e out", information: 'con Leonardo Cecchi'}
+
+ - {lang: "it", title: "Explaining your EXPLAIN - a beginners guide", information: 'con Mladen Marinović'}
+ - {lang: "en", title: "Explaining your EXPLAIN - a beginners guide", information: 'con Mladen Marinović'}
+
+ - {lang: "it", title: "Disaster Recovery con PostgreSQL", information: 'con Jonathan Battiato'}
+ - {lang: "en", title: "Disaster Recovery con PostgreSQL", information: 'con Jonathan Battiato'}
+
+ - {lang: "it", title: "PostgreSQL Persistence", information: 'con Gianni Ciolli'}
+ - {lang: "en", title: "PostgreSQL Persistence", information: 'con Gianni Ciolli'}
+
+ - {lang: "it", title: "Web Cartography Made Easy", information: 'con Daniele Simoncini'}
+ - {lang: "en", title: "Web Cartography Made Easy", information: 'con Daniele Simoncini'}
+#workshopDetailsWideCards:
+#  -
+#   lang: "it"
+#   title: "Come vengono gestiti i workshop? Quali sono le aziende che li erogano?"
+#   subCards:
+#    -
+#     title: "Il ricavato derivante dalle quote di iscrizione, al netto delle spese per affitto aula e catering, verrà suddivisa
+#     tra l'azienda erogante il corso e l'associazione ITPUG - ITalian PostgreSQl Users Group.<br/>
+#     <b>Le aziende interessate a proporre PostgreSQL workshop sono invitate a contattare gli organizzatori del PGDay.IT scrivendo a info@itpug.org o pgday@itpug.org</b><br/>
+#        IMPORTANTE: l'associazione ITPUG - ITalian PostgreSQL Users Group non è responsabile della qualità formativa erogata."
+#     links:
+#      - {link: "https://www.2ndquadrant.com/it/formazione-postgresql/", text: "2ndQuadrant"}
+#      - {link: "", text: ""}
+#  -
+#   lang: "en"
+#   title: "How are the workshops handled? What are the companies that deliver its?"
+#   subCards:
+#    -
+#     title: "The income coming from subscription, deducted the cost of classroom and catering, will be shared between companies providing the workshop and ITPUG - ITalian PostgreSQl Users Group.
+#     Companies interested in proposing PostgreSQL workshop are invited to contact the organizers of PGDay.IT - please send an email to info@itpug.org or pgday@itpug.org
+#     <b> IMPORTANT </ b>: ITPUG - ITalian PostgreSQL Users Group is not responsible for the quality of workshop provided."
+#     links:
+#      - {link: "https://www.2ndquadrant.com/it/formazione-postgresql/", text: "2ndQuadrant"}
+#      - {link: "", text: ""}
 
 # Workshop Tickets Block
 workshopTicketsTitle:
