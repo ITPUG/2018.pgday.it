@@ -171,10 +171,10 @@
   elements:
     -
       name:
-        it: ""
-        en: ""
+        it: "Regione del Veneto"
+        en: "Regione del Veneto"
       description:
         it: ""
         en: ""
-      link: ""
-      imageUrl: ""
+      link: "https://www.regione.veneto.it/web/guest/home"
+      imageUrl: "logo_regione_veneto.jpeg"
