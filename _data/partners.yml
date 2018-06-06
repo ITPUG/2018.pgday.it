@@ -67,24 +67,6 @@
         Subito is part of Schibsted Media Group (www.schibsted.com), a Norwegian multinational company founded in 1839. The Group has 6,900 employees and operates successfully in 29 Countries in publishing (newspapers, TV and free press), digital (news and classified ads) and mobile (services) markets."
       link: "https://www.subito.it/"
       imageUrl: "logo_SUBITO.jpg"
-    -
-      name:
-        it: ""
-        en: ""
-      description:
-        it: ""
-        en: ""
-      link: ""
-      imageUrl: ""
-    -
-      name:
-        it: ""
-        en: ""
-      description:
-        it: ""
-        en: ""
-      link: ""
-      imageUrl: ""
 -
   group: "Silver Partners"
   elements:
@@ -109,24 +91,6 @@
         en: "R3 GIS works in the field of GIS and develops Web-GIS applications to manage and update different types of geographic information. Products and services are mainly targeted at central and local public administrations with webGIS software applications, which integrate the spatial component (topographic map, ortophoto, physical plans, cadastral maps, etc.) and databases used by municipalities and public administrations in general."
       link: "http://www.r3-gis.com/"
       imageUrl: "logo_r3gis_high.png"
-    -
-      name:
-        it: ""
-        en: ""
-      description:
-        it: ""
-        en: ""
-      link: ""
-      imageUrl: ""
-    -
-      name:
-        it: ""
-        en: ""
-      description:
-        it: ""
-        en: ""
-      link: ""
-      imageUrl: ""
 -
   group: "Media Partners"
   elements:
