@@ -142,3 +142,12 @@
         en: ""
       link: "https://www.regione.veneto.it/web/guest/home"
       imageUrl: "logo_regione_veneto.jpeg"
+    -
+      name:
+        it: "Provincia di Verona"
+        en: "Provincia di Verona"
+      description:
+        it: ""
+        en: ""
+      link: "http://portale.provincia.vr.it/"
+      imageUrl: "provincia-di-verona.JPG"
