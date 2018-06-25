@@ -130,6 +130,15 @@
         en: "LPI, Linux Professional Institute (LPI) promotes and certifies the skills necessary for the use of Linux and Open Source technologies in the professional field, with independent, global and high-quality exams program. LPI is the global certification and career support standard for Open Source professionals. With more than 500,000 tests administered LPI is the largest independent certification in the Linux and Open Source world. Certified professionals in 181 countries, conducted exams in 9 languages; has over 400 partners in training. Founded in Toronto, Canada in 1999 as an international non-profit organization, the LPI, Linux Professional Institute is a leader in Linux professional certifications, thanks to the quality of its programs, partners, sponsorships, IT industry support and support for the Open Source community. LPI is also a founding member of the Linux Desktop Consortium and a member of the Linux Foundation."
       link: ""
       imageUrl: "LPI_Logo-ColourLarge.png"
+    -
+      name:
+        it: "GoLab"
+        en: "GoLab"
+      description:
+        it: "GoLab is the first Italian conference on Go. GoLab was created and yearly organized by Develer, the company who launched events like PyCon, EuroPython, LinuxLab, Better Software, Better Embedded, QtDay."
+        en: "GoLab is the first Italian conference on Go. GoLab was created and yearly organized by Develer, the company who launched events like PyCon, EuroPython, LinuxLab, Better Software, Better Embedded, QtDay."
+      link: "https://www.golab.io/"
+      imageUrl: "golab.png"
 -
   group: "Patrocinato da"
   elements:
