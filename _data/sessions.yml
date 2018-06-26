@@ -127,8 +127,8 @@ Non esitare!"
   speakers: [0]
   language: en
   complexity: "keynote"
-  presentation: ""
-  video: ""
+#  presentation: ""
+#  video: ""
 -
   id: 002
   title:
