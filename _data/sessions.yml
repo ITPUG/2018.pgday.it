@@ -142,7 +142,7 @@ Non esitare!"
   language: IT
   complexity: "Intermediate"
 #  presentation: ""
-#  video: ""
+  video: "https://www.youtube.com/embed/UJdBJHaRte0"
 -
   id: 003
   title:
@@ -156,7 +156,7 @@ Non esitare!"
   language: EN
   complexity: "Intermediate"
 #  presentation: ""
-#  video: ""
+  video: "https://www.youtube.com/embed/w514P1LKRio"
 -
   id: 004
   title:
@@ -182,7 +182,7 @@ Incuriosito? Non mancare a questo talk, rimarrai sorpreso di ciò che il nostro 
   language: IT
   complexity: "Beginner"
 #  presentation: ""
-#  video: ""
+  video: "https://www.youtube.com/embed/pR2mxTfEzKk"
 -
   id: 005
   title:
@@ -204,7 +204,7 @@ Explanations of multiple enhancements of PostgreSQL, which were accomplished as 
   language: EN
   complexity: "Intermediate"
 #  presentation: ""
-#  video: ""
+  video: "https://www.youtube.com/embed/-fIII-0HyFA"
 -
   id: 006
   title:
@@ -222,7 +222,7 @@ Questo intervento si concentra sulla connessione tra Kafka e PostgreSQL per aggi
   language: IT
   complexity: "Intermediate"
 #  presentation: ""
-#  video: ""
+  video: "https://www.youtube.com/embed/"
 -
   id: 007
   title:
@@ -236,7 +236,7 @@ Questo intervento si concentra sulla connessione tra Kafka e PostgreSQL per aggi
   language: IT
   complexity: "Intermediate"
 #  presentation: ""
-#  video: ""
+  video: "https://www.youtube.com/embed/B6uzzaaGatk"
 -
   id: 008
   title:
@@ -254,7 +254,7 @@ I would like to give a presentation about the setup we're doing for this High Av
   language: EN
   complexity: "Intermediate"
 #  presentation: ""
-#  video: ""
+  video: "https://www.youtube.com/embed/su_WglQGBIE"
 -
   id: 009
   title:
@@ -280,7 +280,7 @@ The presentation dives into the technical details of the tool, introduces ZFS ke
   language: IT
   complexity: "Intermediate"
 #  presentation: ""
-#  video: ""
+#  video: "https://www.youtube.com/embed/"
 -
   id: 010
   title:
@@ -294,7 +294,7 @@ The presentation dives into the technical details of the tool, introduces ZFS ke
   language: IT - EN
   complexity: "Intermediate"
 #  presentation: ""
-#  video: ""
+#  video: "https://www.youtube.com/embed/s7H-gjSJ8WQ"
 -
   id: 011
   title:
@@ -312,7 +312,7 @@ Greenplum to scale to new heights."
   language: EN
   complexity: "Expert"
 #  presentation: ""
-#  video: ""
+  video: "https://www.youtube.com/embed/s7H-gjSJ8WQ"
 -
   id: 012
   title:
@@ -326,7 +326,7 @@ Greenplum to scale to new heights."
   language: EN
   complexity: "Beginner"
 #  presentation: ""
-#  video: ""
+  video: "https://www.youtube.com/embed/5xZcjILTzYM"
 -
   id: 013
   title:
@@ -344,7 +344,7 @@ Beyond just logging , Logical Decoding also allows for all other exciting usage 
   language: EN
   complexity: "Intermediate"
 #  presentation: ""
-#  video: ""
+  video: "https://www.youtube.com/embed/"
 -
   id: 014
   title:
@@ -358,7 +358,7 @@ Beyond just logging , Logical Decoding also allows for all other exciting usage 
   language: EN
   complexity: "Beginner"
 #  presentation: ""
-#  video: ""
+  video: "https://www.youtube.com/embed/"
 -
   id: 015
   title:
@@ -378,7 +378,7 @@ Patroni is developed by Zalando in cooperation with other contributors on GitHub
   language: EN
   complexity: "Intermediate"
 #  presentation: ""
-#  video: ""
+  video: "https://www.youtube.com/embed/ragPdQXGoIo"
 -
   id: 016
   title:
@@ -394,7 +394,7 @@ Un'opportunità per migliorare il nostro prodotto."
   language: IT
   complexity: "Beginner"
 #  presentation: ""
-#  video: ""
+  video: "https://www.youtube.com/embed/MAUkY2ADHKE"
 -
   id: 017
   title:
@@ -410,7 +410,7 @@ Superset è una piattaforma open source che permette di creare visualizzazioni d
   language: IT
   complexity: "Intermediate"
 #  presentation: ""
-#  video: ""
+  video: "https://www.youtube.com/embed/sMVTxNtCOAU"
 -
   id: 018
   title:
@@ -426,7 +426,7 @@ E PostgreSQL cosa può fare? Nel talk si evidenzieranno e studieranno alcuni ese
   language: IT
   complexity: "Intermediate"
 #  presentation: ""
-#  video: ""
+  video: "https://www.youtube.com/embed/lTQyboKkHSU"
 -
   id: 019
   title:
@@ -440,7 +440,7 @@ E PostgreSQL cosa può fare? Nel talk si evidenzieranno e studieranno alcuni ese
   language: EN
   complexity: "Intermediate"
 #  presentation: ""
-#  video: ""
+  video: "https://www.youtube.com/embed/B6gboeHcXqI"
 -
   id: 020
   title:
@@ -454,7 +454,7 @@ E PostgreSQL cosa può fare? Nel talk si evidenzieranno e studieranno alcuni ese
   language:
   complexity: ""
 #  presentation: ""
-#  video: ""
+  video: "https://www.youtube.com/embed/"
 -
   id: 021
   title:
@@ -470,7 +470,7 @@ This talk will cover several ways of influencing the planner decisions with diff
   language: IT - EN
   complexity: "Intermediate"
 #  presentation: ""
-#  video: ""
+  video: "https://www.youtube.com/embed/"
 -
   id: 022
   title:
@@ -486,7 +486,7 @@ In this talk we will show what can happen if you turn it off, and how can we twe
   language: IT - EN
   complexity: "Intermediate"
 #  presentation: ""
-#  video: ""
+  video: "https://www.youtube.com/embed/"
 -
   id: 023
   title:
@@ -508,7 +508,7 @@ In this presentation, we will show the results of testing some of these solution
   language: IT
   complexity: "Intermediate"
 #  presentation: ""
-#  video: ""
+  video: "https://www.youtube.com/embed/ahDnyPQXuKs"
 -
   id: 090
   title:
