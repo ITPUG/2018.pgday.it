@@ -155,7 +155,7 @@ Non esitare!"
   speakers: [3]
   language: EN
   complexity: "Intermediate"
-#  presentation: ""
+  presentation: "https://docs.google.com/presentation/d/136DZZJeVYklEmjl3QoX_-C6NPyMlqmUDuljpO8G8bys/edit#slide=id.g3a3e18414f_0_109"
   video: "https://www.youtube.com/embed/w514P1LKRio"
 -
   id: 004
@@ -181,7 +181,7 @@ Incuriosito? Non mancare a questo talk, rimarrai sorpreso di ciò che il nostro 
   speakers: [4]
   language: IT
   complexity: "Beginner"
-#  presentation: ""
+  presentation: "http://gasparin.net/wp-content/uploads/2018/07/PgDay-2018-PostgreSQL-Tips-Tricks.pdf"
   video: "https://www.youtube.com/embed/pR2mxTfEzKk"
 -
   id: 005
@@ -425,7 +425,7 @@ E PostgreSQL cosa può fare? Nel talk si evidenzieranno e studieranno alcuni ese
   speakers: [4]
   language: IT
   complexity: "Intermediate"
-#  presentation: ""
+  presentation: "http://gasparin.net/wp-content/uploads/2018/07/Machine-Learning-with-PostGreSQL.pdf"
   video: "https://www.youtube.com/embed/lTQyboKkHSU"
 -
   id: 019
