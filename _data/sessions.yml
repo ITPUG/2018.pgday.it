@@ -79,8 +79,8 @@ Non esitare!"
   subtype: Lightning talk
   speakers: [2]
   language: it
-  presentation: "https://youtu.be/embed/B5yaOSfEnJ0"
-  video: ""
+#  presentation: ""
+  video: "https://youtu.be/embed/B5yaOSfEnJ0"
 -
   id: 098
   title:
@@ -91,7 +91,7 @@ Non esitare!"
     it: ""
   subtype: Lightning talk
   language: it
-  presentation: ""
+#  presentation: ""
   video: "https://youtu.be/embed/oATLkDl4CZ4"
 -
   id: 099
@@ -281,7 +281,7 @@ The presentation dives into the technical details of the tool, introduces ZFS ke
   speakers: [9]
   language: IT
   complexity: "Intermediate"
-#  presentation: ""
+  presentation: "https://docs.google.com/presentation/d/1WTTDtVm_2OZSO5mm5NyodWV5vuKSt32CYy3cmvE4CJQ/edit"
 #  video: "https://www.youtube.com/embed/"
 -
   id: 010
