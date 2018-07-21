@@ -55,7 +55,7 @@ Non esitare!"
   speakers: [30]
   language: it
 #  presentation: ""
-  video: "https://youtu.com/embed/O08uqfCTZRg"
+  video: "https://youtube.com/embed/O08uqfCTZRg"
 -
   id: 096
   title:
@@ -67,7 +67,7 @@ Non esitare!"
   subtype: Lightning talk
   language: it
 #  presentation: ""
-  video: "https://youtu.com/embed/K7QNOD5HGVA"
+  video: "https://youtube.com/embed/K7QNOD5HGVA"
 -
   id: 097
   title:
@@ -80,7 +80,7 @@ Non esitare!"
   speakers: [2]
   language: it
 #  presentation: ""
-  video: "https://youtu.com/embed/B5yaOSfEnJ0"
+  video: "https://youtube.com/embed/B5yaOSfEnJ0"
 -
   id: 098
   title:
@@ -92,7 +92,7 @@ Non esitare!"
   subtype: Lightning talk
   language: it
 #  presentation: ""
-  video: "https://youtu.com/embed/oATLkDl4CZ4"
+  video: "https://youtube.com/embed/oATLkDl4CZ4"
 -
   id: 999
   title:
