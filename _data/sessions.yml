@@ -235,7 +235,7 @@ Questo intervento si concentra sulla connessione tra Kafka e PostgreSQL per aggi
   speakers: [7]
   language: IT
   complexity: "Intermediate"
-#  presentation: ""
+  presentation: "https://prezi.com/jsew0jvbgtcc/replica-logica-il-futuro-e-adesso/"
   video: "https://www.youtube.com/embed/B6uzzaaGatk"
 -
   id: 008
