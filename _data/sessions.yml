@@ -46,51 +46,53 @@ Non esitare!"
 -
   id: 095
   title:
-    en: ""
-    it: ""
+    en: "Saluti e ringraziamenti - Marco Nenciarini, Presidente ITPUG"
+    it: "Saluti e ringraziamenti - Marco Nenciarini, Presidente ITPUG"
   description:
     en: ""
     it: ""
   subtype: Lightning talk
+  speakers: [30]
   language: it
-  presentation: ""
-  video: ""
+#  presentation: ""
+  video: "https://youtu.be/embed/O08uqfCTZRg"
 -
   id: 096
   title:
-    en: ""
-    it: ""
+    en: "Lightning talk #1 - Guido Brugnara"
+    it: "Lightning talk #1 - Guido Brugnara"
   description:
     en: ""
     it: ""
   subtype: Lightning talk
   language: it
-  presentation: ""
-  video: ""
+#  presentation: ""
+  video: "https://youtu.be/embed/K7QNOD5HGVA"
 -
   id: 097
   title:
-    en: ""
-    it: ""
+    en: "Lightning talk #2 - Mladen Marinovic"
+    it: "Lightning talk #2 - Mladen Marinovic"
   description:
     en: ""
     it: ""
   subtype: Lightning talk
+  speakers: [2]
   language: it
-  presentation: ""
+  presentation: "https://youtu.be/embed/B5yaOSfEnJ0"
   video: ""
 -
   id: 098
   title:
-    en: ""
-    it: ""
+    en: "Lightning talk #3 - Andrea Adami"
+    it: "Lightning talk #3 - Andrea Adami"
   description:
     en: ""
     it: ""
   subtype: Lightning talk
   language: it
   presentation: ""
-  video: ""
+  video: "https://youtu.be/embed/oATLkDl4CZ4"
 -
   id: 099
   title:
@@ -444,17 +446,17 @@ E PostgreSQL cosa può fare? Nel talk si evidenzieranno e studieranno alcuni ese
 -
   id: 020
   title:
-    it: ""
-    en: ""
+    it: "DDL Locks"
+    en: "DDL Locks"
   description:
     it: ""
     en: ""
   subtype: Talk
-  speakers: [100, 101]
-  language:
-  complexity: ""
+  speakers: [5]
+  language: EN
+  complexity: "Intermediate"
 #  presentation: ""
-  video: "https://www.youtube.com/embed/"
+  video: "https://www.youtube.com/embed/o5ESFRcUPWQ"
 -
   id: 021
   title:

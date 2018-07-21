@@ -4,8 +4,12 @@
     it: "29 giugno"
     en: "June 29"
   message:
-    it: "Il programma non è ancora definitivo e potrebbe subire variazioni"
-    en: "The schedule is not yet definitive, there may be some variations"
+    it: "Il programma è stato modificato il giorno stesso della manifestazione.
+Purtroppo Umberto Nicoletti non è riuscito ad essere dei nostri ed a presentare il suo talk 'Fun (and profit) with ZFS and Postgres'.
+Umberto ha comunque divulgato le slide e ci è sembrato corretto lasciare il suo intervento nel programma del PGDay.IT 2018."
+    en: "The schedule was modified on the day of the event.
+Unfortunately, Umberto Nicoletti was not able to join us and to present his talk 'Fun (and profit) with ZFS and Postgres'.
+Umberto has however published the slides of his talk and we have decided to leave his talk in the schedule of PGDay.IT 2018."
   tracks:
     - {title: "Sala Benacus", color: "#90be4e"}
     - {title: "Sala Riva", color: "#03a9f4"}
@@ -38,7 +42,7 @@
     - {
       startTime: "11:05",
     	endTime: "11:50",
-      sessionIds: [005, 009]
+      sessionIds: [005, 012]
     }
     - {
       startTime: "11:50",
@@ -58,7 +62,7 @@
     - {
     	startTime: "14:15",
     	endTime: "15:00",
-    	sessionIds: [007, 012]
+    	sessionIds: [007, 011]
     }
     - {
       startTime: "15:00",
@@ -78,35 +82,40 @@
     - {
       startTime: "16:50",
     	endTime: "17:35",
-      sessionIds: [011, 018]
+      sessionIds: [020, 018]
     }
     - {
       startTime: "17:35",
-    	endTime: "18:00",
+    	endTime: "",
       sessionIds: [094]
     }
-#    - {
-#        startTime: "17:40",
-#    	endTime: "17:45",
-#        sessionIds: [095]
-#    }
-#    - {
-#        startTime: "17:45",
-#    	endTime: "17:50",
-#        sessionIds: [096]
-#    }
-#    - {
-#        startTime: "17:50",
-#    	endTime: "17:55",
-#        sessionIds: [097]
-#    }
-#    - {
-#        startTime: "17:55",
-#    	endTime: "18:00",
-#        sessionIds: [098]
-#    }
-#    - {
-#        startTime: "18:00",
-#    	endTime: "18:05",
-#        sessionIds: [099]
-#    }
+    - {
+      startTime: "17:40",
+    	endTime: "17:45",
+      sessionIds: [095]
+    }
+    - {
+      startTime: "17:45",
+    	endTime: "17:50",
+      sessionIds: [096]
+    }
+    - {
+      startTime: "17:50",
+    	endTime: "17:55",
+      sessionIds: [097]
+    }
+    - {
+      startTime: "17:55",
+    	endTime: "18:00",
+      sessionIds: [098]
+    }
+    - {
+        startTime: "",
+    	endTime: "",
+       sessionIds: []
+    }
+    - {
+        startTime: "",
+    	endTime: "",
+       sessionIds: [009]
+    }
