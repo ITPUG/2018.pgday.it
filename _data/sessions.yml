@@ -399,7 +399,7 @@ Superset è una piattaforma open source che permette di creare visualizzazioni d
   speakers: [17]
   language: IT
   complexity: "Intermediate"
-#  presentation: ""
+  presentation: "https://speakerd.s3.amazonaws.com/presentations/40899b9ce0974eb48540837b7dc11582/Visualizza_i_tuoi_dati_con_Superset_pgday.pdf"
   video: "https://www.youtube.com/embed/sMVTxNtCOAU"
 -
   id: 018
