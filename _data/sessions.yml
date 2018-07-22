@@ -315,7 +315,7 @@ Greenplum to scale to new heights."
   speakers: [12]
   language: EN
   complexity: "Beginner"
-#  presentation: ""
+  presentation: "https://speakerdeck.com/arturcp/how-postgis-changed-the-insurance-market-in-brazil"
   video: "https://www.youtube.com/embed/5xZcjILTzYM"
 -
   id: 013
