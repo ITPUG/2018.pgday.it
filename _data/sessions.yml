@@ -367,7 +367,7 @@ Patroni is developed by Zalando in cooperation with other contributors on GitHub
   speakers: [15]
   language: EN
   complexity: "Intermediate"
-#  presentation: ""
+  presentation: "https://2018.pgday.it/assets/Pump up_your_elephants_with_Patroni.pdf"
   video: "https://www.youtube.com/embed/ragPdQXGoIo"
 -
   id: 016
