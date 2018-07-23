@@ -243,7 +243,7 @@ I would like to give a presentation about the setup we're doing for this High Av
   speakers: [8]
   language: EN
   complexity: "Intermediate"
-#  presentation: ""
+  presentation: "PostgreSQL High Availability using repmgr and pgbouncer.pdf"
   video: "https://www.youtube.com/embed/su_WglQGBIE"
 -
   id: 009
