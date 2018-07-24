@@ -429,7 +429,7 @@ E PostgreSQL cosa può fare? Nel talk si evidenzieranno e studieranno alcuni ese
   speakers: [18]
   language: EN
   complexity: "Intermediate"
-#  presentation: ""
+  presentation: "https://speakerdeck.com/alexeyklyukin/pgday-dot-it-2018"
   video: "https://www.youtube.com/embed/B6gboeHcXqI"
 -
   id: 020
