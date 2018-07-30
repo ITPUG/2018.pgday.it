@@ -333,7 +333,7 @@ Beyond just logging , Logical Decoding also allows for all other exciting usage 
   speakers: [13]
   language: EN
   complexity: "Intermediate"
-#  presentation: ""
+  presentation: "https://2018.pgday.it/assets/PostgreSQL_Logical_Decoding.pdf"
   video: "https://www.youtube.com/embed/5wtbbPo6AnE"
 -
   id: 014
@@ -367,7 +367,7 @@ Patroni is developed by Zalando in cooperation with other contributors on GitHub
   speakers: [15]
   language: EN
   complexity: "Intermediate"
-  presentation: "https://2018.pgday.it/assets/Pump up_your_elephants_with_Patroni.pdf"
+  presentation: "https://2018.pgday.it/assets/Pump_up_your_elephants_with_Patroni.pdf"
   video: "https://www.youtube.com/embed/ragPdQXGoIo"
 -
   id: 016
